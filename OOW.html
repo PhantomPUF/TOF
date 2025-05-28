@@ -124,6 +124,7 @@
         </style>
     </head>
     <body>
+        <button id="backButton">Back</button>
         <div>
             <input type="radio" class="lang" name="lang" value="en" checked> en
             <input type="radio" class="lang" name="lang" value="ru"> ru
@@ -138,6 +139,10 @@
 
  <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 <script>
+
+document.getElementById('backButton').addEventListener('click', () => {
+    history.back();
+});
 
 let data;
 let mechdata;
