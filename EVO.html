@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>EVO</title>
+        <style href="/css/reset.css"></style>
+        <style href="/css/reset.css"></style>
+        <style>
+            .orange-button {
+            color: #fff;
+            background: rgb(255, 124, 1);
+            background: linear-gradient(0deg, rgba(255, 124, 1, 1) 0%, rgba(255, 171, 1, 1) 100%);
+            border-color: orange;
+            display: inline-block;
+            font-weight: 400;
+            text-align: center;
+            vertical-align: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            border: 1px solid transparent;
+            padding: .375rem .75rem;
+            font-size: 1rem;
+            line-height: 1.5;
+            border-radius: .25rem;
+            transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+            margin-bottom: 10px;
+          }
+          body { font-family: Arial, sans-serif; }
+          .season { border: 1px solid #ccc; margin: 10px; padding: 10px; }
+          .floor { margin-left: 20px; }
+          .wave { margin-left: 40px; }
+          .monster { margin-left: 60px; }
+
+          #container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            flex-direction: row;
+            overflow-y: scroll;
+          }
+
+          #container .boss {
+            text-align: center;
+            max-width: min-content;
+            margin-right: 5px;
+          }
+
+          .boss button {
+            padding: 0;
+            margin: 1px 0;
+            border: 1px solid #000;
+            background-color: transparent;
+          }
+
+          h2 {
+            margin: 10px 0;
+            text-align: center;
+          }
+
+          h6 {
+            margin: 0;
+            margin-top: 7px;
+            height: 30px;
+          }
+
+          .bosspreview{
+            height: 50px;
+          }
+
+          #Mechs{
+
+          }
+
+          .imgMech {
+            display: flex;
+            width: 100%;
+            flex-direction: row-reverse;
+            justify-content: flex-end;
+          }
+
+          #Mechs .boss {
+            justify-items: anchor-center;
+          }
+
+          #Mechs .boss img {
+            margin-left: 10px;
+            height: 250px;
+          }
+
+          #Mechs .boss ul {
+            list-style-type: none;
+            margin: 0;
+          }
+
+          #Mechs .boss ul li {
+            text-align: left;
+            margin-bottom: 7px;
+          }
+
+          @media screen and (max-width: 800px) {
+              .imgMech {
+                  flex-wrap: wrap;
+              }
+              #Mechs .boss img {
+                margin-bottom: 10px;
+              }
+          }
+           @media screen and (max-width: 530px) {
+              #Mechs .boss img {
+                  width: 100%;
+                  height: auto;
+                  margin-bottom: 10px;
+              }
+          }
+
+
+        </style>
+    </head>
+    <body>
+      <div>
+          <input type="radio" class="lang" name="lang" value="en" checked> en
+          <input type="radio" class="lang" name="lang" value="ru"> ru
+        </div>
+      <div>
+        <div id="container"></div>   
+        <div id="Mechs"></div>   
+      </div>       
+    </body>
+
+<script>
+
+const radios = document.querySelectorAll('input[type="radio"].lang');
+
+radios.forEach(radio => {
+    radio.addEventListener('change', () => {
+        const selectedValue = document.querySelector('input[name="lang"]:checked').value;
+        loadData(selectedValue);
+    });
+});
+
+
+
+let data;
+async function loadData(lang) {
+    try {
+        const response = await fetch(`evoGlobal_${lang}.json`);
+        data = await response.json();
+        getBosses();
+    } catch (error) {
+        console.error('Ошибка загрузки данных:', error);
+    }
+}
+
+loadData("en");
+
+function getBosses(){
+  document.getElementById('Mechs').innerHTML = "";
+  const container = document.getElementById('container');
+  container.innerHTML = "";
+  data.forEach(item => {
+    item.Bosses.forEach(boss => {
+      const bossDiv = document.createElement('div');
+      bossDiv.className = 'boss';
+
+      // кнопка
+      const button = document.createElement('button');
+      button.addEventListener("click", () => {
+          document.getElementById("Mechs").innerHTML="";
+          getMechs(boss.CodeName)
+      });
+
+       // Название босса
+      const title = document.createElement('h6');
+      title.textContent = `${boss.RuName}`;
+      button.appendChild(title);
+
+      bossDiv.appendChild(button);
+      
+      // Изображение
+      const img = document.createElement('img');
+      img.className = 'bosspreview';
+      img.src = boss.imgPath;
+      img.alt = boss.RuName;
+      button.appendChild(img);
+
+
+      container.appendChild(bossDiv);      
+    })
+  });
+}
+
+//getMechs("069");
+
+function getMechs(id){
+  data.forEach(item => {
+    item.Bosses.forEach(boss => {
+        if(boss.CodeName == id)
+        {
+            const bossDiv = document.createElement('div');
+            bossDiv.className = 'boss';
+
+            // Название босса
+            const title = document.createElement('h2');
+            title.textContent = `${boss.RuName}`;
+            bossDiv.appendChild(title);
+
+            const imgMechDiv = document.createElement('div');
+            imgMechDiv.className = 'imgMech';
+            bossDiv.appendChild(imgMechDiv);
+
+
+            // Изображение
+            const img = document.createElement('img');
+            img.src = boss.imgPath;
+            img.alt = boss.RuName;
+            imgMechDiv.appendChild(img);
+
+            // Механики
+            const mechList = document.createElement('ul');
+            boss.Mechs.forEach(mech => {
+                const li = document.createElement('li');
+                li.className = 'mech';
+                li.textContent = mech.Mechanic;
+                mechList.appendChild(li);
+            });
+            imgMechDiv.appendChild(mechList);
+
+            document.getElementById("Mechs").appendChild(bossDiv);
+        }       
+    })
+  });
+}
+
+</script>
+
+</body>
+</html>

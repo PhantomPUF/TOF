@@ -1,0 +1,3567 @@
+[
+	{
+		"SeasonId": 15,
+		"SeasonName": "This season",
+		"Floors": [
+			{
+				"Id": 1,
+				"Number": 1,
+				"Waves": [
+					{
+						"_codeName": "s15_f1_w1",
+						"Id": 1,
+						"CodeName": "s15_f1_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f1_w2",
+						"Id": 2,
+						"CodeName": "s15_f1_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f1_w3",
+						"Id": 3,
+						"CodeName": "s15_f1_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_IceDam_Level1",
+						"CodeName": "buff_Origin_IceDam_Level1",
+						"RuName": "Frost Boost I",
+						"Description": "When dealing frost damage, trigger additional frost damage equal to 4,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkFire_Level1",
+						"CodeName": "buff_Origin_AtkFire_Level1",
+						"RuName": "Pyroblaze I",
+						"Description": "Deals additional Flame DMG equal to 10,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_fire_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_fire_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_PhyDMGUpForThunderIce",
+						"CodeName": "Buff_Origin_PhyDMGUpForThunderIce",
+						"RuName": "Deadly Pursuit I",
+						"Description": "Physical damage dealt to targets affected by Force Impact is increased by 15%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_021.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_021.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level1",
+						"CodeName": "buff_War_PeriodWind_Level1",
+						"RuName": "Slightly Windy",
+						"Description": "Not Dropped: There are occasionally strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 2,
+				"Number": 2,
+				"Waves": [
+					{
+						"_codeName": "s15_f2_w1",
+						"Id": 1,
+						"CodeName": "s15_f2_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f2_w2",
+						"Id": 2,
+						"CodeName": "s15_f2_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f2_w3",
+						"Id": 3,
+						"CodeName": "s15_f2_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_PhyDam_Level1",
+						"CodeName": "buff_Origin_PhyDam_Level1",
+						"RuName": "Physical Boost I",
+						"Description": "When dealing physical damage, trigger additional physical damage equal to 4,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "Buff_War_HealUp_Level1",
+						"CodeName": "Buff_War_HealUp_Level1",
+						"RuName": "Healing Angel I",
+						"Description": "Outgoing healing is increased by 15%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_025.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_025.png"
+					},
+					{
+						"_codeName": "Buff_War_FanShang_Level1",
+						"CodeName": "Buff_War_FanShang_Level1",
+						"RuName": "Anti-Armor",
+						"Description": "Apply a damage reflection effect every 30 seconds, gaining 200% damage reflection for 15 seconds.",
+						"imgPath": "buffs2/buff_chongdong_monster_002.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_002.png"
+					},
+					{
+						"_codeName": "Buff_Origin_FireDMGUpForThunderIce",
+						"CodeName": "Buff_Origin_FireDMGUpForThunderIce",
+						"RuName": "Kindle Fury I",
+						"Description": "Flame damage dealt to targets affected by Force Impact is increased by 15%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_019.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_019.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 3,
+				"Number": 3,
+				"Waves": [
+					{
+						"_codeName": "s15_f3_w1",
+						"Id": 1,
+						"CodeName": "s15_f3_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f3_w2",
+						"Id": 2,
+						"CodeName": "s15_f3_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f3_w3",
+						"Id": 3,
+						"CodeName": "s15_f3_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_FireDam_Level1",
+						"CodeName": "buff_Origin_FireDam_Level1",
+						"RuName": "Flame Boost I",
+						"Description": "When dealing flame damage, trigger additional flame damage equal to 4,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkIce_Level1",
+						"CodeName": "buff_Origin_AtkIce_Level1",
+						"RuName": "Frostglaze I",
+						"Description": "Deals additional Frost DMG equal to 10,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_ice_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_ice_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_IceDMGUpForPhysicFlame",
+						"CodeName": "Buff_Origin_IceDMGUpForPhysicFlame",
+						"RuName": "Armor Collapse I",
+						"Description": "Frost damage dealt to targets affected by Armor Dissolve is increased by 15%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_018.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_018.png"
+					},
+					{
+						"_codeName": "buff_War_MonAddZhuoShao_Level1",
+						"CodeName": "buff_War_MonAddZhuoShao_Level1",
+						"RuName": "Scorched Land",
+						"Description": "Not Dropped: The Wanderer gets burned over time, losing 1% of Max HP every second.",
+						"imgPath": "buffs2/buff_chongdong_mijing_002.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_002.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 4,
+				"Number": 4,
+				"Waves": [
+					{
+						"_codeName": "s15_f4_w1",
+						"Id": 1,
+						"CodeName": "s15_f4_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f4_w2",
+						"Id": 2,
+						"CodeName": "s15_f4_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f4_w3",
+						"Id": 3,
+						"CodeName": "s15_f4_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_ThuDam_Level1",
+						"CodeName": "buff_Origin_ThuDam_Level1",
+						"RuName": "Volt Boost I",
+						"Description": "When dealing volt damage, trigger additional volt damage equal to 4,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkThu_Level1",
+						"CodeName": "buff_Origin_AtkThu_Level1",
+						"RuName": "Electrocute I",
+						"Description": "Deals additional Volt DMG equal to 10,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_elehujia_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_elehujia_001.png"
+					},
+					{
+						"_codeName": "buff_War_ChenZhong_Level1",
+						"CodeName": "buff_War_ChenZhong_Level1",
+						"RuName": "Heavy",
+						"Description": "Become heavier and cannot be blown into the air.",
+						"imgPath": "buffs2/buff_chongdong_player_021.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_021.png"
+					},
+					{
+						"_codeName": "Buff_Origin_ThuDMGUpForPhysicFlame",
+						"CodeName": "Buff_Origin_ThuDMGUpForPhysicFlame",
+						"RuName": "Volt & Flame Fusion I",
+						"Description": "Volt damage dealt to targets affected by Armor Dissolve is increased by 15%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_020.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_020.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 5,
+				"Number": 5,
+				"Waves": [
+					{
+						"_codeName": "s15_f5_w1",
+						"Id": 1,
+						"CodeName": "s15_f5_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f5_w1",
+								"Number": "010",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_010.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_010.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  15.992.473",
+								"ElementalResist": " 4000",
+								"Resist": " 4000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_IceDam_Level2",
+						"CodeName": "buff_Origin_IceDam_Level2",
+						"RuName": "Frost Boost II",
+						"Description": "Deals additional Frost DMG equal to 8,000% of ATK when hit by Frost attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkPhy_Level1",
+						"CodeName": "buff_Origin_AtkPhy_Level1",
+						"RuName": "Thrash I",
+						"Description": "Deals additional Physical DMG equal to 10,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_AddPhyAtkFoodBase.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_AddPhyAtkFoodBase.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 6,
+				"Number": 6,
+				"Waves": [
+					{
+						"_codeName": "s15_f6_w1",
+						"Id": 1,
+						"CodeName": "s15_f6_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f6_w2",
+						"Id": 2,
+						"CodeName": "s15_f6_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f6_w3",
+						"Id": 3,
+						"CodeName": "s15_f6_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_PhyDam_Level2",
+						"CodeName": "buff_Origin_PhyDam_Level2",
+						"RuName": "Physical Boost II",
+						"Description": "Deals additional Physical DMG equal to 8,000% of ATK when hit by physical attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "buff_War_Atk_Level1",
+						"CodeName": "buff_War_Atk_Level1",
+						"RuName": "Strong Fighter I",
+						"Description": "After battle begins, ATK increases by 10%.",
+						"imgPath": "buffs2/Buff_WeaponPas_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_008.png"
+					},
+					{
+						"_codeName": "Buff_Origin_MakeTargetDMGDown",
+						"CodeName": "Buff_Origin_MakeTargetDMGDown",
+						"RuName": "Weapon Destruction I",
+						"Description": "Reduce target's final damage by 10% for 10 seconds.",
+						"imgPath": "buffs2/Buff_EMBY_BrokenWeak.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_EMBY_BrokenWeak.png"
+					},
+					{
+						"_codeName": "Buff_War_HealDown",
+						"CodeName": "Buff_War_HealDown",
+						"RuName": "Healing Suppression",
+						"Description": "Not Dropped: Without Benediction Resonance, healing effect is decreased by 80%.",
+						"imgPath": "buffs2/Buff_WeaponPas_011.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_011.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 7,
+				"Number": 7,
+				"Waves": [
+					{
+						"_codeName": "s15_f7_w1",
+						"Id": 1,
+						"CodeName": "s15_f7_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f7_w2",
+						"Id": 2,
+						"CodeName": "s15_f7_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f7_w3",
+						"Id": 3,
+						"CodeName": "s15_f7_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_FireDam_Level2",
+						"CodeName": "buff_Origin_FireDam_Level2",
+						"RuName": "Flame Boost II",
+						"Description": "Deals additional Flame DMG equal to 8,000% of ATK when hit by Flame attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkSuper_Level1",
+						"CodeName": "buff_Origin_AtkSuper_Level1",
+						"RuName": "Energy Concentration I",
+						"Description": "Deals additional Altered DMG equal to 10,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_JDWC_yn.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_JDWC_yn.png"
+					},
+					{
+						"_codeName": "Buff_War_CreateBlackHole_Level1",
+						"CodeName": "Buff_War_CreateBlackHole_Level1",
+						"RuName": "Black Hole",
+						"Description": "Every 40 seconds, cast a Black Hole at the locked-on target for 20 seconds, dealing damage equal to 200% of ATK every second.",
+						"imgPath": "buffs2/buff_cubeshield_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_cubeshield_001.png"
+					},
+					{
+						"_codeName": "buff_Origin_BeDamDown_Level1",
+						"CodeName": "buff_Origin_BeDamDown_Level1",
+						"RuName": "Safeguard I",
+						"Description": "Damage received by self and nearby allies is reduced by 10%.",
+						"imgPath": "buffs2/buff_kill_shield_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_kill_shield_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 8,
+				"Number": 8,
+				"Waves": [
+					{
+						"_codeName": "s15_f8_w1",
+						"Id": 1,
+						"CodeName": "s15_f8_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f8_w2",
+						"Id": 2,
+						"CodeName": "s15_f8_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f8_w3",
+						"Id": 3,
+						"CodeName": "s15_f8_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_ThuDam_Level2",
+						"CodeName": "buff_Origin_ThuDam_Level2",
+						"RuName": "Volt Boost II",
+						"Description": "When dealing volt damage, triggers additional volt damage equal to 8,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkFire_Level2",
+						"CodeName": "buff_Origin_AtkFire_Level2",
+						"RuName": "Pyroblaze II",
+						"Description": "Deals additional Flame DMG equal to 15,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_fire_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_fire_001.png"
+					},
+					{
+						"_codeName": "buff_War_IronMan_Level1",
+						"CodeName": "buff_War_IronMan_Level1",
+						"RuName": "Iron Man",
+						"Description": "Reduce endurance consumption by 30% and increase movement speed by 20%.",
+						"imgPath": "buffs2/Buff_WeaponPas_004.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_004.png"
+					},
+					{
+						"_codeName": "Buff_War_Disturb",
+						"CodeName": "Buff_War_Disturb",
+						"RuName": "Interference",
+						"Description": "Not Dropped: Decrease the damage of non-Fortitude units targeted by enemies.",
+						"imgPath": "buffs2/buff_Blend_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_Blend_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 9,
+				"Number": 9,
+				"Waves": [
+					{
+						"_codeName": "s15_f9_w1",
+						"Id": 1,
+						"CodeName": "s15_f9_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f9_w2",
+						"Id": 2,
+						"CodeName": "s15_f9_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s15_f9_w3",
+						"Id": 3,
+						"CodeName": "s15_f9_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_IceDam_Level3",
+						"CodeName": "buff_Origin_IceDam_Level3",
+						"RuName": "Frost Boost III",
+						"Description": "Deals additional Frost DMG equal to 12,000% of ATK when hit by Frost attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkIce_Level2",
+						"CodeName": "buff_Origin_AtkIce_Level2",
+						"RuName": "Frostglaze II",
+						"Description": "Deals additional Frost DMG equal to 15,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_ice_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_ice_001.png"
+					},
+					{
+						"_codeName": "Buff_War_JinJI_Level1",
+						"CodeName": "Buff_War_JinJI_Level1",
+						"RuName": "Pursuit",
+						"Description": "Increase damage received by 30%, and increase shatter by 100%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_022.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_022.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 10,
+				"Number": 10,
+				"Waves": [
+					{
+						"_codeName": "s15_f10_w1",
+						"Id": 1,
+						"CodeName": "s15_f10_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f10_w1",
+								"Number": "064",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_064.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_064.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  21.704.072",
+								"ElementalResist": " 4000",
+								"Resist": " 5000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_PhyDam_Level3",
+						"CodeName": "buff_Origin_PhyDam_Level3",
+						"RuName": "Physical Boost III",
+						"Description": "When dealing physical damage, triggers additional physical damage equal to 12,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkThu_Level2",
+						"CodeName": "buff_Origin_AtkThu_Level2",
+						"RuName": "Electrocute II",
+						"Description": "Deals additional Volt DMG equal to 15,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_elehujia_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_elehujia_001.png"
+					},
+					{
+						"_codeName": "Buff_JinZu_Level1",
+						"CodeName": "Buff_JinZu_Level1",
+						"RuName": "Confinement",
+						"Description": "Upon hit, confine the target for 5 seconds. For every 1 meter the target moves, the target takes damage equal to 200% of your ATK. Damage dealt every second will not exceed 400%.",
+						"imgPath": "buffs2/debuff_speed_down.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\debuff_speed_down.png"
+					},
+					{
+						"_codeName": "Buff_Origin_BeDMGDownAndTaunt",
+						"CodeName": "Buff_Origin_BeDMGDownAndTaunt",
+						"RuName": "Fortification I",
+						"Description": "Reduce the Wanderer's damage taken by 10%. Every 10 seconds, forcefully taunt targets within a 10-meter radius, lasting for 3 seconds.",
+						"imgPath": "buffs2/buff_chongdong_mijing_006.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_006.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 11,
+				"Number": 11,
+				"Waves": [
+					{
+						"_codeName": "s15_f11_w1",
+						"Id": 1,
+						"CodeName": "s15_f11_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f11_w1",
+								"Number": "014",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_014.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_014.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  22.846.390",
+								"ElementalResist": " 4000",
+								"Resist": " 5000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_FireDam_Level3",
+						"CodeName": "buff_Origin_FireDam_Level3",
+						"RuName": "Flame Boost III",
+						"Description": "Deals additional Flame DMG equal to 12,000% of ATK when hit by Flame attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "Buff_War_HealUp_Level2",
+						"CodeName": "Buff_War_HealUp_Level2",
+						"RuName": "Healing Angel II",
+						"Description": "Outgoing healing is increased by 30%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_025.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_025.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level2",
+						"CodeName": "buff_War_RecoveryHp_Level2",
+						"RuName": "Courageous Heart II",
+						"Description": "Recover 2.5% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 12,
+				"Number": 12,
+				"Waves": [
+					{
+						"_codeName": "s15_f12_w1",
+						"Id": 1,
+						"CodeName": "s15_f12_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f12_w1",
+								"Number": "047",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_047.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_047.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  23.988.710",
+								"ElementalResist": " 4000",
+								"Resist": " 5000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_ThuDam_Level3",
+						"CodeName": "buff_Origin_ThuDam_Level3",
+						"RuName": "Volt Boost III",
+						"Description": "When dealing volt damage, triggers additional volt damage equal to 12,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkPhy_Level2",
+						"CodeName": "buff_Origin_AtkPhy_Level2",
+						"RuName": "Thrash II",
+						"Description": "Deals additional Physical DMG equal to 15,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_AddPhyAtkFoodBase.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_AddPhyAtkFoodBase.png"
+					},
+					{
+						"_codeName": "Buff_War_Halo",
+						"CodeName": "Buff_War_Halo",
+						"RuName": "Radiation",
+						"Description": "Deal damage equal to100% of ATK to nearby targets every second.",
+						"imgPath": "buffs2/buff_chongdong_player_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_015.png"
+					},
+					{
+						"_codeName": "buff_War_FearLand_Level1",
+						"CodeName": "buff_War_FearLand_Level1",
+						"RuName": "Land of Fear",
+						"Description": "[Not Dropped] Continuously lose HP. Lose 5% of Max HP every second, and HP recovery is reduced by 80%. Courageous Heart doubles HP recovery effects.",
+						"imgPath": "buffs2/buff_weakness_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_weakness_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 13,
+				"Number": 13,
+				"Waves": [
+					{
+						"_codeName": "s15_f13_w1",
+						"Id": 1,
+						"CodeName": "s15_f13_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f13_w1",
+								"Number": "038",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_038.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_038.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  25.131.028",
+								"ElementalResist": " 4000",
+								"Resist": " 5000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_IceDam_Level4",
+						"CodeName": "buff_Origin_IceDam_Level4",
+						"RuName": "Frost Boost IV",
+						"Description": "Deals additional Frost DMG equal to 16,000% of ATK when hit by Frost attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkSuper_Level2",
+						"CodeName": "buff_Origin_AtkSuper_Level2",
+						"RuName": "Energy Concentration II",
+						"Description": "Deals additional Altered DMG equal to 15,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_JDWC_yn.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_JDWC_yn.png"
+					},
+					{
+						"_codeName": "Buff_War_HealDown",
+						"CodeName": "Buff_War_HealDown",
+						"RuName": "Healing Suppression",
+						"Description": "Not Dropped: Without Benediction Resonance, healing effect is decreased by 80%.",
+						"imgPath": "buffs2/Buff_WeaponPas_011.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_011.png"
+					},
+					{
+						"_codeName": "Buff_War_Disturb",
+						"CodeName": "Buff_War_Disturb",
+						"RuName": "Interference",
+						"Description": "Not Dropped: Decrease the damage of non-Fortitude units targeted by enemies.",
+						"imgPath": "buffs2/buff_Blend_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_Blend_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 14,
+				"Number": 14,
+				"Waves": [
+					{
+						"_codeName": "s15_f14_w1",
+						"Id": 1,
+						"CodeName": "s15_f14_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f14_w1",
+								"Number": "057",
+								"RuName": null,
+								"imgPath": "monster/Boss_057.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_057.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  26.273.348",
+								"ElementalResist": " 4000",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_PhyDam_Level4",
+						"CodeName": "buff_Origin_PhyDam_Level4",
+						"RuName": "Physical Boost IV",
+						"Description": "When dealing physical damage, triggers additional physical damage equal to 16,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "Buff_OriginWar_ExactHitCritUp_L1",
+						"CodeName": "Buff_OriginWar_ExactHitCritUp_L1",
+						"RuName": "Right on Target Lv. 1",
+						"Description": "Crit Rate increased by 20%.",
+						"imgPath": "buffs2/buff_normalact_demage_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_normalact_demage_001.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 15,
+				"Number": 15,
+				"Waves": [
+					{
+						"_codeName": "s15_f15_w1",
+						"Id": 1,
+						"CodeName": "s15_f15_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f15_w1",
+								"Number": "030",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_030.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_030.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  13.707.834",
+								"ElementalResist": " 4000",
+								"Resist": " 7000"
+							},
+							{
+								"CodeName": "s15_f15_w1",
+								"Number": "032",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_032.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_032.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  25.702.188",
+								"ElementalResist": " 4000",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_FireDam_Level4",
+						"CodeName": "buff_Origin_FireDam_Level4",
+						"RuName": "Flame Boost IV",
+						"Description": "Deals additional Flame DMG equal to 16,000% of ATK when hit by Flame attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "buff_War_Atk_Level2",
+						"CodeName": "buff_War_Atk_Level2",
+						"RuName": "Strong Fighter II",
+						"Description": "After battle begins, ATK increases by 15%.",
+						"imgPath": "buffs2/Buff_WeaponPas_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_008.png"
+					},
+					{
+						"_codeName": "buff_War_ImmuneDamageCD_Level1",
+						"CodeName": "buff_War_ImmuneDamageCD_Level1",
+						"RuName": "Nothingness",
+						"Description": "Become immune to damage once every 2.5 seconds.",
+						"imgPath": "buffs2/buff_chongdong_monster_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_001.png"
+					},
+					{
+						"_codeName": "buff_War_FearLand_Level1",
+						"CodeName": "buff_War_FearLand_Level1",
+						"RuName": "Land of Fear",
+						"Description": "[Not Dropped] Continuously lose HP. Lose 5% of Max HP every second, and HP recovery is reduced by 80%. Courageous Heart doubles HP recovery effects.",
+						"imgPath": "buffs2/buff_weakness_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_weakness_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 16,
+				"Number": 16,
+				"Waves": [
+					{
+						"_codeName": "s15_f16_w1",
+						"Id": 1,
+						"CodeName": "s15_f16_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f16_w1",
+								"Number": "017",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_017.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_017.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  14.278.994",
+								"ElementalResist": " 4000",
+								"Resist": " 7000"
+							},
+							{
+								"CodeName": "s15_f16_w1",
+								"Number": "020",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_020.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_020.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  26.773.114",
+								"ElementalResist": " 4000",
+								"Resist": " 30000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_ThuDam_Level4",
+						"CodeName": "buff_Origin_ThuDam_Level4",
+						"RuName": "Volt Boost IV",
+						"Description": "When dealing volt damage, triggers additional volt damage equal to 16,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_Origin_BeDamDown_Level2",
+						"CodeName": "buff_Origin_BeDamDown_Level2",
+						"RuName": "Safeguard II",
+						"Description": "Damage received by self and nearby allies is reduced by 15%.",
+						"imgPath": "buffs2/buff_kill_shield_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_kill_shield_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_PhyDMGUpForThunderIce_Level2",
+						"CodeName": "Buff_Origin_PhyDMGUpForThunderIce_Level2",
+						"RuName": "Deadly Pursuit II",
+						"Description": "Physical damage dealt to targets affected by Force Impact is increased by 30%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_021.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_021.png"
+					},
+					{
+						"_codeName": "Buff_War_Disturb",
+						"CodeName": "Buff_War_Disturb",
+						"RuName": "Interference",
+						"Description": "Not Dropped: Decrease the damage of non-Fortitude units targeted by enemies.",
+						"imgPath": "buffs2/buff_Blend_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_Blend_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 17,
+				"Number": 17,
+				"Waves": [
+					{
+						"_codeName": "s15_f17_w1",
+						"Id": 1,
+						"CodeName": "s15_f17_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f17_w1",
+								"Number": "036",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_036.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_036.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  14.850.154",
+								"ElementalResist": " 4000",
+								"Resist": " 30000"
+							},
+							{
+								"CodeName": "s15_f17_w1",
+								"Number": "022",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_022.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_022.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  27.844.038",
+								"ElementalResist": " 4000",
+								"Resist": " 8000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_IceDam_Level5",
+						"CodeName": "buff_Origin_IceDam_Level5",
+						"RuName": "Frost Boost V",
+						"Description": "Deals additional Frost DMG equal to 20,000% of ATK when hit by Frost attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "Buff_War_HealUp_Level3",
+						"CodeName": "Buff_War_HealUp_Level3",
+						"RuName": "Healing Angel III",
+						"Description": "Outgoing healing is increased by 50%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_025.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_025.png"
+					},
+					{
+						"_codeName": "Buff_Origin_FireDMGUpForThunderIce_Level2",
+						"CodeName": "Buff_Origin_FireDMGUpForThunderIce_Level2",
+						"RuName": "Kindle Fury II",
+						"Description": "Flame damage dealt to targets affected by Force Impact is increased by 30%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_019.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_019.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 18,
+				"Number": 18,
+				"Waves": [
+					{
+						"_codeName": "s15_f18_w1",
+						"Id": 1,
+						"CodeName": "s15_f18_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f18_w1",
+								"Number": "007",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_007.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_007.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  15.421.314",
+								"ElementalResist": " 4000",
+								"Resist": " 7000"
+							},
+							{
+								"CodeName": "s15_f18_w1",
+								"Number": "012",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_012.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_012.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  28.914.964",
+								"ElementalResist": " 4000",
+								"Resist": " 7000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_PhyDam_Level5",
+						"CodeName": "buff_Origin_PhyDam_Level5",
+						"RuName": "Physical Boost V",
+						"Description": "When dealing physical damage, triggers additional physical damage equal to 20,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "Buff_Origin_IceDMGUpForPhysicFlame_Level2",
+						"CodeName": "Buff_Origin_IceDMGUpForPhysicFlame_Level2",
+						"RuName": "Armor Collapse II",
+						"Description": "Frost damage dealt to targets affected by Armor Dissolve is increased by 30%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_018.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_018.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "Buff_War_HealDown",
+						"CodeName": "Buff_War_HealDown",
+						"RuName": "Healing Suppression",
+						"Description": "Not Dropped: Without Benediction Resonance, healing effect is decreased by 80%.",
+						"imgPath": "buffs2/Buff_WeaponPas_011.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_011.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 19,
+				"Number": 19,
+				"Waves": [
+					{
+						"_codeName": "s15_f19_w1",
+						"Id": 1,
+						"CodeName": "s15_f19_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f19_w1",
+								"Number": "015",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_015.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_015.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  15.992.473",
+								"ElementalResist": " 4000",
+								"Resist": " 7000"
+							},
+							{
+								"CodeName": "s15_f19_w1",
+								"Number": "019",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_019.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_019.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  22.489.416",
+								"ElementalResist": " 4000",
+								"Resist": " 7500"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_FireDam_Level5",
+						"CodeName": "buff_Origin_FireDam_Level5",
+						"RuName": "Flame Boost V",
+						"Description": "Deals additional Flame DMG equal to 20,000% of ATK when hit by Flame attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "Buff_OriginWar_ExactHitCritUp_L2",
+						"CodeName": "Buff_OriginWar_ExactHitCritUp_L2",
+						"RuName": "Right on Target Lv. 2",
+						"Description": "Crit Rate increased by 40%.",
+						"imgPath": "buffs2/buff_normalact_demage_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_normalact_demage_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_ThuDMGUpForPhysicFlame_Level2",
+						"CodeName": "Buff_Origin_ThuDMGUpForPhysicFlame_Level2",
+						"RuName": "Volt & Flame Fusion II",
+						"Description": "Volt damage dealt to targets affected by Armor Dissolve is increased by 30%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_020.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_020.png"
+					},
+					{
+						"_codeName": "buff_War_FearLand_Level1",
+						"CodeName": "buff_War_FearLand_Level1",
+						"RuName": "Land of Fear",
+						"Description": "[Not Dropped] Continuously lose HP. Lose 5% of Max HP every second, and HP recovery is reduced by 80%. Courageous Heart doubles HP recovery effects.",
+						"imgPath": "buffs2/buff_weakness_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_weakness_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 20,
+				"Number": 20,
+				"Waves": [
+					{
+						"_codeName": "s15_f20_w1",
+						"Id": 1,
+						"CodeName": "s15_f20_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f20_w1",
+								"Number": "032",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_032.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_032.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  16.563.633",
+								"ElementalResist": " 4000",
+								"Resist": " 0"
+							},
+							{
+								"CodeName": "s15_f20_w1",
+								"Number": "026",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_026.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_026.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  31.056.812",
+								"ElementalResist": " 4000",
+								"Resist": " 5000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_ThuDam_Level5",
+						"CodeName": "buff_Origin_ThuDam_Level5",
+						"RuName": "Volt Boost V",
+						"Description": "When dealing volt damage, triggers additional volt damage equal to 20,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_Origin_Break",
+						"CodeName": "buff_Origin_Break",
+						"RuName": "Break Defenses",
+						"Description": "Increase shatter by 150%, while reduce damage by 35%.",
+						"imgPath": "buffs2/buff_chongdong_player_019.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_019.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "Buff_War_HealDown",
+						"CodeName": "Buff_War_HealDown",
+						"RuName": "Healing Suppression",
+						"Description": "Not Dropped: Without Benediction Resonance, healing effect is decreased by 80%.",
+						"imgPath": "buffs2/Buff_WeaponPas_011.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_011.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 21,
+				"Number": 21,
+				"Waves": [
+					{
+						"_codeName": "s15_f21_w1",
+						"Id": 1,
+						"CodeName": "s15_f21_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f21_w1",
+								"Number": "014",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_014.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_014.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  17.134.792",
+								"ElementalResist": " 4000",
+								"Resist": " 35000"
+							},
+							{
+								"CodeName": "s15_f21_w1",
+								"Number": "001",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_001.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_001.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  32.127.736",
+								"ElementalResist": " 4000",
+								"Resist": " 8000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_IceDamage_Level2",
+						"CodeName": "buff_War_IceDamage_Level2",
+						"RuName": "Frost Boost II",
+						"Description": "Frost damage dealt is increased by 20%.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "buff_TeamAssist_level1",
+						"CodeName": "buff_TeamAssist_level1",
+						"RuName": "Squad Support I",
+						"Description": "Final damage of allies within a radius of 10 meters (excluding yourself) is increased by 5%.",
+						"imgPath": "buffs2/buff_WeaponAttack_002.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_WeaponAttack_002.png"
+					},
+					{
+						"_codeName": "Buff_Origin_BeDMGDownAndTaunt_Level2",
+						"CodeName": "Buff_Origin_BeDMGDownAndTaunt_Level2",
+						"RuName": "Fortification II",
+						"Description": "Reduce the Wanderer's damage taken by 15%. Every 8 seconds, forcefully taunt targets within a 10-meter radius, lasting for 3 seconds.",
+						"imgPath": "buffs2/buff_chongdong_mijing_006.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_006.png"
+					},
+					{
+						"_codeName": "Buff_War_Disturb",
+						"CodeName": "Buff_War_Disturb",
+						"RuName": "Interference",
+						"Description": "Not Dropped: Decrease the damage of non-Fortitude units targeted by enemies.",
+						"imgPath": "buffs2/buff_Blend_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_Blend_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 22,
+				"Number": 22,
+				"Waves": [
+					{
+						"_codeName": "s15_f22_w1",
+						"Id": 1,
+						"CodeName": "s15_f22_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f22_w1",
+								"Number": "046",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_046.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_046.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  17.705.952",
+								"ElementalResist": " 4000",
+								"Resist": " 35000"
+							},
+							{
+								"CodeName": "s15_f22_w1",
+								"Number": "072",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_072.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_072.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  33.198.660",
+								"ElementalResist": " 4000",
+								"Resist": " 12000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_PhyDamage_Level2",
+						"CodeName": "buff_War_PhyDamage_Level2",
+						"RuName": "Physical Boost II",
+						"Description": "Physical damage dealt is increased by 20%.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "buff_War_Atk_Level3",
+						"CodeName": "buff_War_Atk_Level3",
+						"RuName": "Strong Fighter III",
+						"Description": "After battle begins, ATK increases by 20%.",
+						"imgPath": "buffs2/Buff_WeaponPas_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_008.png"
+					},
+					{
+						"_codeName": "Buff_Origin_MakeTargetDMGDown_Level2",
+						"CodeName": "Buff_Origin_MakeTargetDMGDown_Level2",
+						"RuName": "Weapon Destruction II",
+						"Description": "Reduce target's final damage by 20% for 10 seconds.",
+						"imgPath": "buffs2/Buff_EMBY_BrokenWeak.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_EMBY_BrokenWeak.png"
+					},
+					{
+						"_codeName": "buff_War_FearLand_Level1",
+						"CodeName": "buff_War_FearLand_Level1",
+						"RuName": "Land of Fear",
+						"Description": "[Not Dropped] Continuously lose HP. Lose 5% of Max HP every second, and HP recovery is reduced by 80%. Courageous Heart doubles HP recovery effects.",
+						"imgPath": "buffs2/buff_weakness_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_weakness_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 23,
+				"Number": 23,
+				"Waves": [
+					{
+						"_codeName": "s15_f23_w1",
+						"Id": 1,
+						"CodeName": "s15_f23_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f23_w1",
+								"Number": "020",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_020.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_020.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  18.277.112",
+								"ElementalResist": " 4000",
+								"Resist": " 9000"
+							},
+							{
+								"CodeName": "s15_f23_w1",
+								"Number": "042",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_042.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_042.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  34.269.584",
+								"ElementalResist": " 4000",
+								"Resist": " 7000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_ThunderDamage_Level2",
+						"CodeName": "buff_War_ThunderDamage_Level2",
+						"RuName": "Volt Boost II",
+						"Description": "Volt damage dealt is increased by 20%.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_TeamAssist_level2",
+						"CodeName": "buff_TeamAssist_level2",
+						"RuName": "Squad Support II",
+						"Description": "Final damage of allies within a radius of 10 meters (excluding yourself) is increased by 10%.",
+						"imgPath": "buffs2/buff_WeaponAttack_002.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_WeaponAttack_002.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "Buff_War_HealDown",
+						"CodeName": "Buff_War_HealDown",
+						"RuName": "Healing Suppression",
+						"Description": "Not Dropped: Without Benediction Resonance, healing effect is decreased by 80%.",
+						"imgPath": "buffs2/Buff_WeaponPas_011.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_011.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 24,
+				"Number": 24,
+				"Waves": [
+					{
+						"_codeName": "s15_f24_w1",
+						"Id": 1,
+						"CodeName": "s15_f24_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f24_w1",
+								"Number": "037",
+								"RuName": null,
+								"imgPath": "monster/Boss_037.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_037.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  18.848.272",
+								"ElementalResist": " 4000",
+								"Resist": " 40000"
+							},
+							{
+								"CodeName": "s15_f24_w1",
+								"Number": "030",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_030.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_030.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  35.340.510",
+								"ElementalResist": " 4000",
+								"Resist": " 40000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_FireDamage_Level2",
+						"CodeName": "buff_War_FireDamage_Level2",
+						"RuName": "Flame Boost II",
+						"Description": "Flame damage dealt is increased by 20%.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "Buff_OriginWar_ExactHitCritUp_L3",
+						"CodeName": "Buff_OriginWar_ExactHitCritUp_L3",
+						"RuName": "Right on Target Lv. 3",
+						"Description": "Crit Rate increased by 60%.",
+						"imgPath": "buffs2/buff_normalact_demage_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_normalact_demage_001.png"
+					},
+					{
+						"_codeName": "Buff_War_Halo",
+						"CodeName": "Buff_War_Halo",
+						"RuName": "Radiation",
+						"Description": "Deal damage equal to100% of ATK to nearby targets every second.",
+						"imgPath": "buffs2/buff_chongdong_player_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_015.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 25,
+				"Number": 25,
+				"Waves": [
+					{
+						"_codeName": "s15_f25_w1",
+						"Id": 1,
+						"CodeName": "s15_f25_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f25_w1",
+								"Number": "010",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_010.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_010.png",
+								"Class": "Normal",
+								"Mechs": "",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  19.419.432",
+								"ElementalResist": " 4000",
+								"Resist": " 9000"
+							},
+							{
+								"CodeName": "s15_f25_w1",
+								"Number": "025",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_025.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_025.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  36.411.436",
+								"ElementalResist": " 4000",
+								"Resist": " 8000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "Buff_War_CreateBlackHole_Level1",
+						"CodeName": "Buff_War_CreateBlackHole_Level1",
+						"RuName": "Black Hole",
+						"Description": "Every 40 seconds, cast a Black Hole at the locked-on target for 20 seconds, dealing damage equal to 200% of ATK every second.",
+						"imgPath": "buffs2/buff_cubeshield_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_cubeshield_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_MakeTargetDMGDown_Level2",
+						"CodeName": "Buff_Origin_MakeTargetDMGDown_Level2",
+						"RuName": "Weapon Destruction II",
+						"Description": "Reduce target's final damage by 20% for 10 seconds.",
+						"imgPath": "buffs2/Buff_EMBY_BrokenWeak.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_EMBY_BrokenWeak.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "buff_War_FearLand_Level1",
+						"CodeName": "buff_War_FearLand_Level1",
+						"RuName": "Land of Fear",
+						"Description": "[Not Dropped] Continuously lose HP. Lose 5% of Max HP every second, and HP recovery is reduced by 80%. Courageous Heart doubles HP recovery effects.",
+						"imgPath": "buffs2/buff_weakness_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_weakness_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 26,
+				"Number": 26,
+				"Waves": [
+					{
+						"_codeName": "s15_f26_w1",
+						"Id": 1,
+						"CodeName": "s15_f26_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f26_w1",
+								"Number": "020",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_020.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_020.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  27.415.668",
+								"ElementalResist": " 4000",
+								"Resist": " 9000"
+							},
+							{
+								"CodeName": "s15_f26_w1",
+								"Number": "042",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_042.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_042.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  51.404.380",
+								"ElementalResist": " 4000",
+								"Resist": " 7000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_Atk_Level3",
+						"CodeName": "buff_War_Atk_Level3",
+						"RuName": "Strong Fighter III",
+						"Description": "After battle begins, ATK increases by 20%.",
+						"imgPath": "buffs2/Buff_WeaponPas_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_008.png"
+					},
+					{
+						"_codeName": "buff_War_Kill_Level1",
+						"CodeName": "buff_War_Kill_Level1",
+						"RuName": "Finisher",
+						"Description": "Instantly finish a target when its health is less than 10%.",
+						"imgPath": "buffs2/buff_chongdong_player_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_008.png"
+					}
+				],
+				"BuffsDrop": [
+					{
+						"_codeName": "buff_War_ThunderDamage_Level2",
+						"CodeName": "buff_War_ThunderDamage_Level2",
+						"RuName": "Volt Boost II",
+						"Description": "Volt damage dealt is increased by 20%.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_TeamAssist_level2",
+						"CodeName": "buff_TeamAssist_level2",
+						"RuName": "Squad Support II",
+						"Description": "Final damage of allies within a radius of 10 meters (excluding yourself) is increased by 10%.",
+						"imgPath": "buffs2/buff_WeaponAttack_002.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_WeaponAttack_002.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					}
+				]
+			},
+			{
+				"Id": 27,
+				"Number": 27,
+				"Waves": [
+					{
+						"_codeName": "s15_f27_w1",
+						"Id": 1,
+						"CodeName": "s15_f27_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f27_w1",
+								"Number": "037",
+								"RuName": null,
+								"imgPath": "monster/Boss_037.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_037.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  38.790.330",
+								"ElementalResist": " 4000",
+								"Resist": " 40000"
+							},
+							{
+								"CodeName": "s15_f27_w1",
+								"Number": "030",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_030.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_030.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  72.731.860",
+								"ElementalResist": " 4000",
+								"Resist": " 40000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_Atk_Level3",
+						"CodeName": "buff_War_Atk_Level3",
+						"RuName": "Strong Fighter III",
+						"Description": "After battle begins, ATK increases by 20%.",
+						"imgPath": "buffs2/Buff_WeaponPas_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_008.png"
+					},
+					{
+						"_codeName": "buff_War_Kill_Level1",
+						"CodeName": "buff_War_Kill_Level1",
+						"RuName": "Finisher",
+						"Description": "Instantly finish a target when its health is less than 10%.",
+						"imgPath": "buffs2/buff_chongdong_player_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_008.png"
+					}
+				],
+				"BuffsDrop": [
+					{
+						"_codeName": "buff_War_FireDamage_Level2",
+						"CodeName": "buff_War_FireDamage_Level2",
+						"RuName": "Flame Boost II",
+						"Description": "Flame damage dealt is increased by 20%.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "Buff_OriginWar_ExactHitCritUp_L3",
+						"CodeName": "Buff_OriginWar_ExactHitCritUp_L3",
+						"RuName": "Right on Target Lv. 3",
+						"Description": "Crit Rate increased by 60%.",
+						"imgPath": "buffs2/buff_normalact_demage_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_normalact_demage_001.png"
+					},
+					{
+						"_codeName": "Buff_War_Halo",
+						"CodeName": "Buff_War_Halo",
+						"RuName": "Radiation",
+						"Description": "Deal damage equal to100% of ATK to nearby targets every second.",
+						"imgPath": "buffs2/buff_chongdong_player_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_015.png"
+					}
+				]
+			},
+			{
+				"Id": 28,
+				"Number": 28,
+				"Waves": [
+					{
+						"_codeName": "s15_f28_w1",
+						"Id": 1,
+						"CodeName": "s15_f28_w1",
+						"Monsters": [
+							{
+								"CodeName": "s15_f28_w1",
+								"Number": "010",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_010.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_010.png",
+								"Class": "Normal",
+								"Mechs": "",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  43.028.188",
+								"ElementalResist": " 4000",
+								"Resist": " 9000"
+							},
+							{
+								"CodeName": "s15_f28_w1",
+								"Number": "025",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_025.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_025.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  80.677.860",
+								"ElementalResist": " 4000",
+								"Resist": " 8000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_Atk_Level3",
+						"CodeName": "buff_War_Atk_Level3",
+						"RuName": "Strong Fighter III",
+						"Description": "After battle begins, ATK increases by 20%.",
+						"imgPath": "buffs2/Buff_WeaponPas_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_008.png"
+					},
+					{
+						"_codeName": "buff_War_Kill_Level1",
+						"CodeName": "buff_War_Kill_Level1",
+						"RuName": "Finisher",
+						"Description": "Instantly finish a target when its health is less than 10%.",
+						"imgPath": "buffs2/buff_chongdong_player_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_008.png"
+					}
+				],
+				"BuffsDrop": [
+					{
+						"_codeName": "Buff_War_CreateBlackHole_Level1",
+						"CodeName": "Buff_War_CreateBlackHole_Level1",
+						"RuName": "Black Hole",
+						"Description": "Every 40 seconds, cast a Black Hole at the locked-on target for 20 seconds, dealing damage equal to 200% of ATK every second.",
+						"imgPath": "buffs2/buff_cubeshield_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_cubeshield_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_MakeTargetDMGDown_Level2",
+						"CodeName": "Buff_Origin_MakeTargetDMGDown_Level2",
+						"RuName": "Weapon Destruction II",
+						"Description": "Reduce target's final damage by 20% for 10 seconds.",
+						"imgPath": "buffs2/Buff_EMBY_BrokenWeak.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_EMBY_BrokenWeak.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"SeasonId": 17,
+		"SeasonName": "Next season",
+		"Floors": [
+			{
+				"Id": 1,
+				"Number": 1,
+				"Waves": [
+					{
+						"_codeName": "s17_f1_w1",
+						"Id": 1,
+						"CodeName": "s17_f1_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f1_w2",
+						"Id": 2,
+						"CodeName": "s17_f1_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f1_w3",
+						"Id": 3,
+						"CodeName": "s17_f1_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_IceDam_Level1",
+						"CodeName": "buff_Origin_IceDam_Level1",
+						"RuName": "Frost Boost I",
+						"Description": "When dealing frost damage, trigger additional frost damage equal to 4,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkFire_Level1",
+						"CodeName": "buff_Origin_AtkFire_Level1",
+						"RuName": "Pyroblaze I",
+						"Description": "Deals additional Flame DMG equal to 10,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_fire_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_fire_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_PhyDMGUpForThunderIce",
+						"CodeName": "Buff_Origin_PhyDMGUpForThunderIce",
+						"RuName": "Deadly Pursuit I",
+						"Description": "Physical damage dealt to targets affected by Force Impact is increased by 15%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_021.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_021.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level1",
+						"CodeName": "buff_War_PeriodWind_Level1",
+						"RuName": "Slightly Windy",
+						"Description": "Not Dropped: There are occasionally strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 2,
+				"Number": 2,
+				"Waves": [
+					{
+						"_codeName": "s17_f2_w1",
+						"Id": 1,
+						"CodeName": "s17_f2_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f2_w2",
+						"Id": 2,
+						"CodeName": "s17_f2_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f2_w3",
+						"Id": 3,
+						"CodeName": "s17_f2_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_PhyDam_Level1",
+						"CodeName": "buff_Origin_PhyDam_Level1",
+						"RuName": "Physical Boost I",
+						"Description": "When dealing physical damage, trigger additional physical damage equal to 4,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "Buff_War_HealUp_Level1",
+						"CodeName": "Buff_War_HealUp_Level1",
+						"RuName": "Healing Angel I",
+						"Description": "Outgoing healing is increased by 15%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_025.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_025.png"
+					},
+					{
+						"_codeName": "Buff_War_FanShang_Level1",
+						"CodeName": "Buff_War_FanShang_Level1",
+						"RuName": "Anti-Armor",
+						"Description": "Apply a damage reflection effect every 30 seconds, gaining 200% damage reflection for 15 seconds.",
+						"imgPath": "buffs2/buff_chongdong_monster_002.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_002.png"
+					},
+					{
+						"_codeName": "Buff_Origin_FireDMGUpForThunderIce",
+						"CodeName": "Buff_Origin_FireDMGUpForThunderIce",
+						"RuName": "Kindle Fury I",
+						"Description": "Flame damage dealt to targets affected by Force Impact is increased by 15%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_019.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_019.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 3,
+				"Number": 3,
+				"Waves": [
+					{
+						"_codeName": "s17_f3_w1",
+						"Id": 1,
+						"CodeName": "s17_f3_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f3_w2",
+						"Id": 2,
+						"CodeName": "s17_f3_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f3_w3",
+						"Id": 3,
+						"CodeName": "s17_f3_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_FireDam_Level1",
+						"CodeName": "buff_Origin_FireDam_Level1",
+						"RuName": "Flame Boost I",
+						"Description": "When dealing flame damage, trigger additional flame damage equal to 4,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkIce_Level1",
+						"CodeName": "buff_Origin_AtkIce_Level1",
+						"RuName": "Frostglaze I",
+						"Description": "Deals additional Frost DMG equal to 10,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_ice_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_ice_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_IceDMGUpForPhysicFlame",
+						"CodeName": "Buff_Origin_IceDMGUpForPhysicFlame",
+						"RuName": "Armor Collapse I",
+						"Description": "Frost damage dealt to targets affected by Armor Dissolve is increased by 15%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_018.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_018.png"
+					},
+					{
+						"_codeName": "buff_War_MonAddZhuoShao_Level1",
+						"CodeName": "buff_War_MonAddZhuoShao_Level1",
+						"RuName": "Scorched Land",
+						"Description": "Not Dropped: The Wanderer gets burned over time, losing 1% of Max HP every second.",
+						"imgPath": "buffs2/buff_chongdong_mijing_002.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_002.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 4,
+				"Number": 4,
+				"Waves": [
+					{
+						"_codeName": "s17_f4_w1",
+						"Id": 1,
+						"CodeName": "s17_f4_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f4_w2",
+						"Id": 2,
+						"CodeName": "s17_f4_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f4_w3",
+						"Id": 3,
+						"CodeName": "s17_f4_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_ThuDam_Level1",
+						"CodeName": "buff_Origin_ThuDam_Level1",
+						"RuName": "Volt Boost I",
+						"Description": "When dealing volt damage, trigger additional volt damage equal to 4,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkThu_Level1",
+						"CodeName": "buff_Origin_AtkThu_Level1",
+						"RuName": "Electrocute I",
+						"Description": "Deals additional Volt DMG equal to 10,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_elehujia_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_elehujia_001.png"
+					},
+					{
+						"_codeName": "buff_War_ChenZhong_Level1",
+						"CodeName": "buff_War_ChenZhong_Level1",
+						"RuName": "Heavy",
+						"Description": "Become heavier and cannot be blown into the air.",
+						"imgPath": "buffs2/buff_chongdong_player_021.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_021.png"
+					},
+					{
+						"_codeName": "Buff_Origin_ThuDMGUpForPhysicFlame",
+						"CodeName": "Buff_Origin_ThuDMGUpForPhysicFlame",
+						"RuName": "Volt & Flame Fusion I",
+						"Description": "Volt damage dealt to targets affected by Armor Dissolve is increased by 15%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_020.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_020.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 5,
+				"Number": 5,
+				"Waves": [
+					{
+						"_codeName": "s17_f5_w1",
+						"Id": 1,
+						"CodeName": "s17_f5_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f5_w1",
+								"Number": "015",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_015.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_015.png",
+								"Class": "Boss",
+								"Mechs": "Механики",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  160.604.370",
+								"ElementalResist": " 14100",
+								"Resist": " 25000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_IceDam_Level2",
+						"CodeName": "buff_Origin_IceDam_Level2",
+						"RuName": "Frost Boost II",
+						"Description": "Deals additional Frost DMG equal to 8,000% of ATK when hit by Frost attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkPhy_Level1",
+						"CodeName": "buff_Origin_AtkPhy_Level1",
+						"RuName": "Thrash I",
+						"Description": "Deals additional Physical DMG equal to 10,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_AddPhyAtkFoodBase.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_AddPhyAtkFoodBase.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 6,
+				"Number": 6,
+				"Waves": [
+					{
+						"_codeName": "s17_f6_w1",
+						"Id": 1,
+						"CodeName": "s17_f6_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f6_w2",
+						"Id": 2,
+						"CodeName": "s17_f6_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f6_w3",
+						"Id": 3,
+						"CodeName": "s17_f6_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_PhyDam_Level2",
+						"CodeName": "buff_Origin_PhyDam_Level2",
+						"RuName": "Physical Boost II",
+						"Description": "Deals additional Physical DMG equal to 8,000% of ATK when hit by physical attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "buff_War_Atk_Level1",
+						"CodeName": "buff_War_Atk_Level1",
+						"RuName": "Strong Fighter I",
+						"Description": "After battle begins, ATK increases by 10%.",
+						"imgPath": "buffs2/Buff_WeaponPas_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_008.png"
+					},
+					{
+						"_codeName": "Buff_Origin_MakeTargetDMGDown",
+						"CodeName": "Buff_Origin_MakeTargetDMGDown",
+						"RuName": "Weapon Destruction I",
+						"Description": "Reduce target's final damage by 10% for 10 seconds.",
+						"imgPath": "buffs2/Buff_EMBY_BrokenWeak.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_EMBY_BrokenWeak.png"
+					},
+					{
+						"_codeName": "Buff_War_HealDown",
+						"CodeName": "Buff_War_HealDown",
+						"RuName": "Healing Suppression",
+						"Description": "Not Dropped: Without Benediction Resonance, healing effect is decreased by 80%.",
+						"imgPath": "buffs2/Buff_WeaponPas_011.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_011.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 7,
+				"Number": 7,
+				"Waves": [
+					{
+						"_codeName": "s17_f7_w1",
+						"Id": 1,
+						"CodeName": "s17_f7_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f7_w2",
+						"Id": 2,
+						"CodeName": "s17_f7_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f7_w3",
+						"Id": 3,
+						"CodeName": "s17_f7_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_FireDam_Level2",
+						"CodeName": "buff_Origin_FireDam_Level2",
+						"RuName": "Flame Boost II",
+						"Description": "Deals additional Flame DMG equal to 8,000% of ATK when hit by Flame attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkSuper_Level1",
+						"CodeName": "buff_Origin_AtkSuper_Level1",
+						"RuName": "Energy Concentration I",
+						"Description": "Deals additional Altered DMG equal to 10,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_JDWC_yn.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_JDWC_yn.png"
+					},
+					{
+						"_codeName": "Buff_War_CreateBlackHole_Level1",
+						"CodeName": "Buff_War_CreateBlackHole_Level1",
+						"RuName": "Black Hole",
+						"Description": "Every 40 seconds, cast a Black Hole at the locked-on target for 20 seconds, dealing damage equal to 200% of ATK every second.",
+						"imgPath": "buffs2/buff_cubeshield_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_cubeshield_001.png"
+					},
+					{
+						"_codeName": "buff_Origin_BeDamDown_Level1",
+						"CodeName": "buff_Origin_BeDamDown_Level1",
+						"RuName": "Safeguard I",
+						"Description": "Damage received by self and nearby allies is reduced by 10%.",
+						"imgPath": "buffs2/buff_kill_shield_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_kill_shield_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 8,
+				"Number": 8,
+				"Waves": [
+					{
+						"_codeName": "s17_f8_w1",
+						"Id": 1,
+						"CodeName": "s17_f8_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f8_w2",
+						"Id": 2,
+						"CodeName": "s17_f8_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f8_w3",
+						"Id": 3,
+						"CodeName": "s17_f8_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_ThuDam_Level2",
+						"CodeName": "buff_Origin_ThuDam_Level2",
+						"RuName": "Volt Boost II",
+						"Description": "When dealing volt damage, triggers additional volt damage equal to 8,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkFire_Level2",
+						"CodeName": "buff_Origin_AtkFire_Level2",
+						"RuName": "Pyroblaze II",
+						"Description": "Deals additional Flame DMG equal to 15,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_fire_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_fire_001.png"
+					},
+					{
+						"_codeName": "buff_War_IronMan_Level1",
+						"CodeName": "buff_War_IronMan_Level1",
+						"RuName": "Iron Man",
+						"Description": "Reduce endurance consumption by 30% and increase movement speed by 20%.",
+						"imgPath": "buffs2/Buff_WeaponPas_004.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_004.png"
+					},
+					{
+						"_codeName": "Buff_War_Disturb",
+						"CodeName": "Buff_War_Disturb",
+						"RuName": "Interference",
+						"Description": "Not Dropped: Decrease the damage of non-Fortitude units targeted by enemies.",
+						"imgPath": "buffs2/buff_Blend_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_Blend_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 9,
+				"Number": 9,
+				"Waves": [
+					{
+						"_codeName": "s17_f9_w1",
+						"Id": 1,
+						"CodeName": "s17_f9_w1",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f9_w2",
+						"Id": 2,
+						"CodeName": "s17_f9_w2",
+						"Monsters": []
+					},
+					{
+						"_codeName": "s17_f9_w3",
+						"Id": 3,
+						"CodeName": "s17_f9_w3",
+						"Monsters": []
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_IceDam_Level3",
+						"CodeName": "buff_Origin_IceDam_Level3",
+						"RuName": "Frost Boost III",
+						"Description": "Deals additional Frost DMG equal to 12,000% of ATK when hit by Frost attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkIce_Level2",
+						"CodeName": "buff_Origin_AtkIce_Level2",
+						"RuName": "Frostglaze II",
+						"Description": "Deals additional Frost DMG equal to 15,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_ice_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_ice_001.png"
+					},
+					{
+						"_codeName": "Buff_War_JinJI_Level1",
+						"CodeName": "Buff_War_JinJI_Level1",
+						"RuName": "Pursuit",
+						"Description": "Increase damage received by 30%, and increase shatter by 100%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_022.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_022.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 10,
+				"Number": 10,
+				"Waves": [
+					{
+						"_codeName": "s17_f10_w1",
+						"Id": 1,
+						"CodeName": "s17_f10_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f10_w1",
+								"Number": "062",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_062.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_062.png",
+								"Class": "Boss",
+								"Mechs": "Механики",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  217.963.070",
+								"ElementalResist": " 14100",
+								"Resist": " 5000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_PhyDam_Level3",
+						"CodeName": "buff_Origin_PhyDam_Level3",
+						"RuName": "Physical Boost III",
+						"Description": "When dealing physical damage, triggers additional physical damage equal to 12,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkThu_Level2",
+						"CodeName": "buff_Origin_AtkThu_Level2",
+						"RuName": "Electrocute II",
+						"Description": "Deals additional Volt DMG equal to 15,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_elehujia_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_elehujia_001.png"
+					},
+					{
+						"_codeName": "Buff_JinZu_Level1",
+						"CodeName": "Buff_JinZu_Level1",
+						"RuName": "Confinement",
+						"Description": "Upon hit, confine the target for 5 seconds. For every 1 meter the target moves, the target takes damage equal to 200% of your ATK. Damage dealt every second will not exceed 400%.",
+						"imgPath": "buffs2/debuff_speed_down.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\debuff_speed_down.png"
+					},
+					{
+						"_codeName": "Buff_Origin_BeDMGDownAndTaunt",
+						"CodeName": "Buff_Origin_BeDMGDownAndTaunt",
+						"RuName": "Fortification I",
+						"Description": "Reduce the Wanderer's damage taken by 10%. Every 10 seconds, forcefully taunt targets within a 10-meter radius, lasting for 3 seconds.",
+						"imgPath": "buffs2/buff_chongdong_mijing_006.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_006.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 11,
+				"Number": 11,
+				"Waves": [
+					{
+						"_codeName": "s17_f11_w1",
+						"Id": 1,
+						"CodeName": "s17_f11_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f11_w1",
+								"Number": "014",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_014.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_014.png",
+								"Class": "Boss",
+								"Mechs": "Механики",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  229.434.820",
+								"ElementalResist": " 14100",
+								"Resist": " 30000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_FireDam_Level3",
+						"CodeName": "buff_Origin_FireDam_Level3",
+						"RuName": "Flame Boost III",
+						"Description": "Deals additional Flame DMG equal to 12,000% of ATK when hit by Flame attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "Buff_War_HealUp_Level2",
+						"CodeName": "Buff_War_HealUp_Level2",
+						"RuName": "Healing Angel II",
+						"Description": "Outgoing healing is increased by 30%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_025.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_025.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level2",
+						"CodeName": "buff_War_RecoveryHp_Level2",
+						"RuName": "Courageous Heart II",
+						"Description": "Recover 2.5% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 12,
+				"Number": 12,
+				"Waves": [
+					{
+						"_codeName": "s17_f12_w1",
+						"Id": 1,
+						"CodeName": "s17_f12_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f12_w1",
+								"Number": "065",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_065.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_065.png",
+								"Class": "Boss",
+								"Mechs": "Механики",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  240.906.560",
+								"ElementalResist": " 14100",
+								"Resist": " 8000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_ThuDam_Level3",
+						"CodeName": "buff_Origin_ThuDam_Level3",
+						"RuName": "Volt Boost III",
+						"Description": "When dealing volt damage, triggers additional volt damage equal to 12,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkPhy_Level2",
+						"CodeName": "buff_Origin_AtkPhy_Level2",
+						"RuName": "Thrash II",
+						"Description": "Deals additional Physical DMG equal to 15,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_AddPhyAtkFoodBase.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_AddPhyAtkFoodBase.png"
+					},
+					{
+						"_codeName": "Buff_War_Halo",
+						"CodeName": "Buff_War_Halo",
+						"RuName": "Radiation",
+						"Description": "Deal damage equal to100% of ATK to nearby targets every second.",
+						"imgPath": "buffs2/buff_chongdong_player_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_015.png"
+					},
+					{
+						"_codeName": "buff_War_FearLand_Level1",
+						"CodeName": "buff_War_FearLand_Level1",
+						"RuName": "Land of Fear",
+						"Description": "[Not Dropped] Continuously lose HP. Lose 5% of Max HP every second, and HP recovery is reduced by 80%. Courageous Heart doubles HP recovery effects.",
+						"imgPath": "buffs2/buff_weakness_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_weakness_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 13,
+				"Number": 13,
+				"Waves": [
+					{
+						"_codeName": "s17_f13_w1",
+						"Id": 1,
+						"CodeName": "s17_f13_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f13_w1",
+								"Number": "036",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_036.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_036.png",
+								"Class": "Boss",
+								"Mechs": "Механики",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  252.378.290",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_IceDam_Level4",
+						"CodeName": "buff_Origin_IceDam_Level4",
+						"RuName": "Frost Boost IV",
+						"Description": "Deals additional Frost DMG equal to 16,000% of ATK when hit by Frost attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "buff_Origin_AtkSuper_Level2",
+						"CodeName": "buff_Origin_AtkSuper_Level2",
+						"RuName": "Energy Concentration II",
+						"Description": "Deals additional Altered DMG equal to 15,000% of ATK upon hitting the target. Unaffected by buffs or debuffs. Cooldown: 2s.",
+						"imgPath": "buffs2/buff_JDWC_yn.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_JDWC_yn.png"
+					},
+					{
+						"_codeName": "Buff_War_HealDown",
+						"CodeName": "Buff_War_HealDown",
+						"RuName": "Healing Suppression",
+						"Description": "Not Dropped: Without Benediction Resonance, healing effect is decreased by 80%.",
+						"imgPath": "buffs2/Buff_WeaponPas_011.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_011.png"
+					},
+					{
+						"_codeName": "Buff_War_Disturb",
+						"CodeName": "Buff_War_Disturb",
+						"RuName": "Interference",
+						"Description": "Not Dropped: Decrease the damage of non-Fortitude units targeted by enemies.",
+						"imgPath": "buffs2/buff_Blend_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_Blend_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 14,
+				"Number": 14,
+				"Waves": [
+					{
+						"_codeName": "s17_f14_w1",
+						"Id": 1,
+						"CodeName": "s17_f14_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f14_w1",
+								"Number": "064",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_064.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_064.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  263.850.030",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_PhyDam_Level4",
+						"CodeName": "buff_Origin_PhyDam_Level4",
+						"RuName": "Physical Boost IV",
+						"Description": "When dealing physical damage, triggers additional physical damage equal to 16,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "Buff_OriginWar_ExactHitCritUp_L1",
+						"CodeName": "Buff_OriginWar_ExactHitCritUp_L1",
+						"RuName": "Right on Target Lv. 1",
+						"Description": "Crit Rate increased by 20%.",
+						"imgPath": "buffs2/buff_normalact_demage_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_normalact_demage_001.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 15,
+				"Number": 15,
+				"Waves": [
+					{
+						"_codeName": "s17_f15_w1",
+						"Id": 1,
+						"CodeName": "s17_f15_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f15_w1",
+								"Number": "017",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_017.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_017.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  137.660.880",
+								"ElementalResist": " 14100",
+								"Resist": " 7000"
+							},
+							{
+								"CodeName": "s17_f15_w1",
+								"Number": "030",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_030.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_030.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  275.321.760",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_FireDam_Level4",
+						"CodeName": "buff_Origin_FireDam_Level4",
+						"RuName": "Flame Boost IV",
+						"Description": "Deals additional Flame DMG equal to 16,000% of ATK when hit by Flame attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "buff_War_Atk_Level2",
+						"CodeName": "buff_War_Atk_Level2",
+						"RuName": "Strong Fighter II",
+						"Description": "After battle begins, ATK increases by 15%.",
+						"imgPath": "buffs2/Buff_WeaponPas_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_008.png"
+					},
+					{
+						"_codeName": "buff_War_ImmuneDamageCD_Level1",
+						"CodeName": "buff_War_ImmuneDamageCD_Level1",
+						"RuName": "Nothingness",
+						"Description": "Become immune to damage once every 2.5 seconds.",
+						"imgPath": "buffs2/buff_chongdong_monster_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_001.png"
+					},
+					{
+						"_codeName": "buff_War_FearLand_Level1",
+						"CodeName": "buff_War_FearLand_Level1",
+						"RuName": "Land of Fear",
+						"Description": "[Not Dropped] Continuously lose HP. Lose 5% of Max HP every second, and HP recovery is reduced by 80%. Courageous Heart doubles HP recovery effects.",
+						"imgPath": "buffs2/buff_weakness_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_weakness_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 16,
+				"Number": 16,
+				"Waves": [
+					{
+						"_codeName": "s17_f16_w1",
+						"Id": 1,
+						"CodeName": "s17_f16_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f16_w1",
+								"Number": "015",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_015.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_015.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  143.396.750",
+								"ElementalResist": " 14100",
+								"Resist": " 30000"
+							},
+							{
+								"CodeName": "s17_f16_w1",
+								"Number": "026",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_026.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_026.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  286.793.500",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_ThuDam_Level4",
+						"CodeName": "buff_Origin_ThuDam_Level4",
+						"RuName": "Volt Boost IV",
+						"Description": "When dealing volt damage, triggers additional volt damage equal to 16,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_Origin_BeDamDown_Level2",
+						"CodeName": "buff_Origin_BeDamDown_Level2",
+						"RuName": "Safeguard II",
+						"Description": "Damage received by self and nearby allies is reduced by 15%.",
+						"imgPath": "buffs2/buff_kill_shield_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_kill_shield_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_PhyDMGUpForThunderIce_Level2",
+						"CodeName": "Buff_Origin_PhyDMGUpForThunderIce_Level2",
+						"RuName": "Deadly Pursuit II",
+						"Description": "Physical damage dealt to targets affected by Force Impact is increased by 30%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_021.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_021.png"
+					},
+					{
+						"_codeName": "Buff_War_Disturb",
+						"CodeName": "Buff_War_Disturb",
+						"RuName": "Interference",
+						"Description": "Not Dropped: Decrease the damage of non-Fortitude units targeted by enemies.",
+						"imgPath": "buffs2/buff_Blend_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_Blend_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 17,
+				"Number": 17,
+				"Waves": [
+					{
+						"_codeName": "s17_f17_w1",
+						"Id": 1,
+						"CodeName": "s17_f17_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f17_w1",
+								"Number": "030",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_030.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_030.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  149.132.620",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							},
+							{
+								"CodeName": "s17_f17_w1",
+								"Number": "047",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_047.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_047.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  298.265.250",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_IceDam_Level5",
+						"CodeName": "buff_Origin_IceDam_Level5",
+						"RuName": "Frost Boost V",
+						"Description": "Deals additional Frost DMG equal to 20,000% of ATK when hit by Frost attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "Buff_War_HealUp_Level3",
+						"CodeName": "Buff_War_HealUp_Level3",
+						"RuName": "Healing Angel III",
+						"Description": "Outgoing healing is increased by 50%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_025.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_025.png"
+					},
+					{
+						"_codeName": "Buff_Origin_FireDMGUpForThunderIce_Level2",
+						"CodeName": "Buff_Origin_FireDMGUpForThunderIce_Level2",
+						"RuName": "Kindle Fury II",
+						"Description": "Flame damage dealt to targets affected by Force Impact is increased by 30%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_019.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_019.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 18,
+				"Number": 18,
+				"Waves": [
+					{
+						"_codeName": "s17_f18_w1",
+						"Id": 1,
+						"CodeName": "s17_f18_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f18_w1",
+								"Number": "046",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_046.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_046.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  154.868.500",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							},
+							{
+								"CodeName": "s17_f18_w1",
+								"Number": "072",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_072.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_072.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  309.737.000",
+								"ElementalResist": " 14100",
+								"Resist": " 0"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_PhyDam_Level5",
+						"CodeName": "buff_Origin_PhyDam_Level5",
+						"RuName": "Physical Boost V",
+						"Description": "When dealing physical damage, triggers additional physical damage equal to 20,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "Buff_Origin_IceDMGUpForPhysicFlame_Level2",
+						"CodeName": "Buff_Origin_IceDMGUpForPhysicFlame_Level2",
+						"RuName": "Armor Collapse II",
+						"Description": "Frost damage dealt to targets affected by Armor Dissolve is increased by 30%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_018.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_018.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "Buff_War_HealDown",
+						"CodeName": "Buff_War_HealDown",
+						"RuName": "Healing Suppression",
+						"Description": "Not Dropped: Without Benediction Resonance, healing effect is decreased by 80%.",
+						"imgPath": "buffs2/Buff_WeaponPas_011.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_011.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 19,
+				"Number": 19,
+				"Waves": [
+					{
+						"_codeName": "s17_f19_w1",
+						"Id": 1,
+						"CodeName": "s17_f19_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f19_w1",
+								"Number": "036",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_036.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_036.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  160.604.370",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							},
+							{
+								"CodeName": "s17_f19_w1",
+								"Number": "042",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_042.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_042.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  321.208.740",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_FireDam_Level5",
+						"CodeName": "buff_Origin_FireDam_Level5",
+						"RuName": "Flame Boost V",
+						"Description": "Deals additional Flame DMG equal to 20,000% of ATK when hit by Flame attacks. Unaffected by buffs or debuffs. Cooldown: 1s.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "Buff_OriginWar_ExactHitCritUp_L2",
+						"CodeName": "Buff_OriginWar_ExactHitCritUp_L2",
+						"RuName": "Right on Target Lv. 2",
+						"Description": "Crit Rate increased by 40%.",
+						"imgPath": "buffs2/buff_normalact_demage_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_normalact_demage_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_ThuDMGUpForPhysicFlame_Level2",
+						"CodeName": "Buff_Origin_ThuDMGUpForPhysicFlame_Level2",
+						"RuName": "Volt & Flame Fusion II",
+						"Description": "Volt damage dealt to targets affected by Armor Dissolve is increased by 30%.",
+						"imgPath": "buffs2/buff_chongdong_mijing_020.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_020.png"
+					},
+					{
+						"_codeName": "buff_War_FearLand_Level1",
+						"CodeName": "buff_War_FearLand_Level1",
+						"RuName": "Land of Fear",
+						"Description": "[Not Dropped] Continuously lose HP. Lose 5% of Max HP every second, and HP recovery is reduced by 80%. Courageous Heart doubles HP recovery effects.",
+						"imgPath": "buffs2/buff_weakness_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_weakness_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 20,
+				"Number": 20,
+				"Waves": [
+					{
+						"_codeName": "s17_f20_w1",
+						"Id": 1,
+						"CodeName": "s17_f20_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f20_w1",
+								"Number": "002",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_002.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_002.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  166.340.240",
+								"ElementalResist": " 14100",
+								"Resist": " 30000"
+							},
+							{
+								"CodeName": "s17_f20_w1",
+								"Number": "010",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_010.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_010.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  332.680.480",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_Origin_ThuDam_Level5",
+						"CodeName": "buff_Origin_ThuDam_Level5",
+						"RuName": "Volt Boost V",
+						"Description": "When dealing volt damage, triggers additional volt damage equal to 20,000% of ATK, unaffected by any buffs or debuffs. Cooldown: 1 second.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_Origin_Break",
+						"CodeName": "buff_Origin_Break",
+						"RuName": "Break Defenses",
+						"Description": "Increase shatter by 150%, while reduce damage by 35%.",
+						"imgPath": "buffs2/buff_chongdong_player_019.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_019.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "Buff_War_HealDown",
+						"CodeName": "Buff_War_HealDown",
+						"RuName": "Healing Suppression",
+						"Description": "Not Dropped: Without Benediction Resonance, healing effect is decreased by 80%.",
+						"imgPath": "buffs2/Buff_WeaponPas_011.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_011.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 21,
+				"Number": 21,
+				"Waves": [
+					{
+						"_codeName": "s17_f21_w1",
+						"Id": 1,
+						"CodeName": "s17_f21_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f21_w1",
+								"Number": "073",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_073.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_073.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  172.076.110",
+								"ElementalResist": " 14100",
+								"Resist": " 0"
+							},
+							{
+								"CodeName": "s17_f21_w1",
+								"Number": "020",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_020.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_020.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  344.152.220",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_IceDamage_Level2",
+						"CodeName": "buff_War_IceDamage_Level2",
+						"RuName": "Frost Boost II",
+						"Description": "Frost damage dealt is increased by 20%.",
+						"imgPath": "buffs2/buff_chongdong_monster_012.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_012.png"
+					},
+					{
+						"_codeName": "buff_TeamAssist_level1",
+						"CodeName": "buff_TeamAssist_level1",
+						"RuName": "Squad Support I",
+						"Description": "Final damage of allies within a radius of 10 meters (excluding yourself) is increased by 5%.",
+						"imgPath": "buffs2/buff_WeaponAttack_002.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_WeaponAttack_002.png"
+					},
+					{
+						"_codeName": "Buff_Origin_BeDMGDownAndTaunt_Level2",
+						"CodeName": "Buff_Origin_BeDMGDownAndTaunt_Level2",
+						"RuName": "Fortification II",
+						"Description": "Reduce the Wanderer's damage taken by 15%. Every 8 seconds, forcefully taunt targets within a 10-meter radius, lasting for 3 seconds.",
+						"imgPath": "buffs2/buff_chongdong_mijing_006.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_mijing_006.png"
+					},
+					{
+						"_codeName": "Buff_War_Disturb",
+						"CodeName": "Buff_War_Disturb",
+						"RuName": "Interference",
+						"Description": "Not Dropped: Decrease the damage of non-Fortitude units targeted by enemies.",
+						"imgPath": "buffs2/buff_Blend_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_Blend_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 22,
+				"Number": 22,
+				"Waves": [
+					{
+						"_codeName": "s17_f22_w1",
+						"Id": 1,
+						"CodeName": "s17_f22_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f22_w1",
+								"Number": "007",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_007.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_007.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  177.811.980",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							},
+							{
+								"CodeName": "s17_f22_w1",
+								"Number": "001",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_001.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_001.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  355.623.970",
+								"ElementalResist": " 14100",
+								"Resist": " 8000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_PhyDamage_Level2",
+						"CodeName": "buff_War_PhyDamage_Level2",
+						"RuName": "Physical Boost II",
+						"Description": "Physical damage dealt is increased by 20%.",
+						"imgPath": "buffs2/buff_chongdong_monster_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_015.png"
+					},
+					{
+						"_codeName": "buff_War_Atk_Level3",
+						"CodeName": "buff_War_Atk_Level3",
+						"RuName": "Strong Fighter III",
+						"Description": "After battle begins, ATK increases by 20%.",
+						"imgPath": "buffs2/Buff_WeaponPas_008.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_008.png"
+					},
+					{
+						"_codeName": "Buff_Origin_MakeTargetDMGDown_Level2",
+						"CodeName": "Buff_Origin_MakeTargetDMGDown_Level2",
+						"RuName": "Weapon Destruction II",
+						"Description": "Reduce target's final damage by 20% for 10 seconds.",
+						"imgPath": "buffs2/Buff_EMBY_BrokenWeak.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_EMBY_BrokenWeak.png"
+					},
+					{
+						"_codeName": "buff_War_FearLand_Level1",
+						"CodeName": "buff_War_FearLand_Level1",
+						"RuName": "Land of Fear",
+						"Description": "[Not Dropped] Continuously lose HP. Lose 5% of Max HP every second, and HP recovery is reduced by 80%. Courageous Heart doubles HP recovery effects.",
+						"imgPath": "buffs2/buff_weakness_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_weakness_001.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 23,
+				"Number": 23,
+				"Waves": [
+					{
+						"_codeName": "s17_f23_w1",
+						"Id": 1,
+						"CodeName": "s17_f23_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f23_w1",
+								"Number": "010",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_010.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_010.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  183.547.860",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							},
+							{
+								"CodeName": "s17_f23_w1",
+								"Number": "032",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_032.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_032.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  330.386.140",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_ThunderDamage_Level2",
+						"CodeName": "buff_War_ThunderDamage_Level2",
+						"RuName": "Volt Boost II",
+						"Description": "Volt damage dealt is increased by 20%.",
+						"imgPath": "buffs2/buff_chongdong_monster_014.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_014.png"
+					},
+					{
+						"_codeName": "buff_TeamAssist_level2",
+						"CodeName": "buff_TeamAssist_level2",
+						"RuName": "Squad Support II",
+						"Description": "Final damage of allies within a radius of 10 meters (excluding yourself) is increased by 10%.",
+						"imgPath": "buffs2/buff_WeaponAttack_002.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_WeaponAttack_002.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "Buff_War_HealDown",
+						"CodeName": "Buff_War_HealDown",
+						"RuName": "Healing Suppression",
+						"Description": "Not Dropped: Without Benediction Resonance, healing effect is decreased by 80%.",
+						"imgPath": "buffs2/Buff_WeaponPas_011.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_WeaponPas_011.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 24,
+				"Number": 24,
+				"Waves": [
+					{
+						"_codeName": "s17_f24_w1",
+						"Id": 1,
+						"CodeName": "s17_f24_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f24_w1",
+								"Number": "047",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_047.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_047.png",
+								"Class": "Normal",
+								"Mechs": "Механики",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  189.283.710",
+								"ElementalResist": " 14100",
+								"Resist": " 5000"
+							},
+							{
+								"CodeName": "s17_f24_w1",
+								"Number": "012",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_012.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_012.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  378.567.420",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "buff_War_FireDamage_Level2",
+						"CodeName": "buff_War_FireDamage_Level2",
+						"RuName": "Flame Boost II",
+						"Description": "Flame damage dealt is increased by 20%.",
+						"imgPath": "buffs2/buff_chongdong_monster_13.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_monster_13.png"
+					},
+					{
+						"_codeName": "Buff_OriginWar_ExactHitCritUp_L3",
+						"CodeName": "Buff_OriginWar_ExactHitCritUp_L3",
+						"RuName": "Right on Target Lv. 3",
+						"Description": "Crit Rate increased by 60%.",
+						"imgPath": "buffs2/buff_normalact_demage_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_normalact_demage_001.png"
+					},
+					{
+						"_codeName": "Buff_War_Halo",
+						"CodeName": "Buff_War_Halo",
+						"RuName": "Radiation",
+						"Description": "Deal damage equal to100% of ATK to nearby targets every second.",
+						"imgPath": "buffs2/buff_chongdong_player_015.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_015.png"
+					},
+					{
+						"_codeName": "buff_War_PeriodWind_Level2",
+						"CodeName": "buff_War_PeriodWind_Level2",
+						"RuName": "Very Windy",
+						"Description": "Not Dropped: There are frequent strong winds that blow units into the air, ignoring hyperbody.",
+						"imgPath": "buffs2/buff_chongdong_player_007.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_chongdong_player_007.png"
+					}
+				],
+				"BuffsDrop": null
+			},
+			{
+				"Id": 25,
+				"Number": 25,
+				"Waves": [
+					{
+						"_codeName": "s17_f25_w1",
+						"Id": 1,
+						"CodeName": "s17_f25_w1",
+						"Monsters": [
+							{
+								"CodeName": "s17_f25_w1",
+								"Number": "022",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_022.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_022.png",
+								"Class": "Normal",
+								"Mechs": "",
+								"BorderColor": "#FF008000",
+								"HP": "HP:  195.019.580",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							},
+							{
+								"CodeName": "s17_f25_w1",
+								"Number": "019",
+								"RuName": null,
+								"imgPath": "monster/Boss_hum_019.png",
+								"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\monster\\Boss_hum_019.png",
+								"Class": "Boss",
+								"Mechs": "",
+								"BorderColor": "#FFFF0000",
+								"HP": "HP:  390.039.170",
+								"ElementalResist": " 14100",
+								"Resist": " 6000"
+							}
+						]
+					}
+				],
+				"BuffsVisible": [
+					{
+						"_codeName": "Buff_War_CreateBlackHole_Level1",
+						"CodeName": "Buff_War_CreateBlackHole_Level1",
+						"RuName": "Black Hole",
+						"Description": "Every 40 seconds, cast a Black Hole at the locked-on target for 20 seconds, dealing damage equal to 200% of ATK every second.",
+						"imgPath": "buffs2/buff_cubeshield_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_cubeshield_001.png"
+					},
+					{
+						"_codeName": "Buff_Origin_MakeTargetDMGDown_Level2",
+						"CodeName": "Buff_Origin_MakeTargetDMGDown_Level2",
+						"RuName": "Weapon Destruction II",
+						"Description": "Reduce target's final damage by 20% for 10 seconds.",
+						"imgPath": "buffs2/Buff_EMBY_BrokenWeak.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\Buff_EMBY_BrokenWeak.png"
+					},
+					{
+						"_codeName": "buff_War_RecoveryHp_Level1",
+						"CodeName": "buff_War_RecoveryHp_Level1",
+						"RuName": "Courageous Heart I",
+						"Description": "Recover 1.2% HP every second.\\r\\nNote: Affected by healing buffs and debuffs.",
+						"imgPath": "buffs2/buff_assisatnt.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_assisatnt.png"
+					},
+					{
+						"_codeName": "buff_War_FearLand_Level1",
+						"CodeName": "buff_War_FearLand_Level1",
+						"RuName": "Land of Fear",
+						"Description": "[Not Dropped] Continuously lose HP. Lose 5% of Max HP every second, and HP recovery is reduced by 80%. Courageous Heart doubles HP recovery effects.",
+						"imgPath": "buffs2/buff_weakness_001.png",
+						"imgPathVM": "J:\\123\\TOF\\TOF\\bin\\Debug\\buffs2\\buff_weakness_001.png"
+					}
+				],
+				"BuffsDrop": null
+			}
+		]
+	}
+]

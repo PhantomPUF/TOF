@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>OOW</title>
+        <style href="/css/reset.css"></style>
+        <style href="/css/reset.css"></style>
+        <style>
+            .orange-button {
+            color: #fff;
+            background: rgb(255, 124, 1);
+            background: linear-gradient(0deg, rgba(255, 124, 1, 1) 0%, rgba(255, 171, 1, 1) 100%);
+            border-color: orange;
+            display: inline-block;
+            font-weight: 400;
+            text-align: center;
+            vertical-align: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            border: 1px solid transparent;
+            padding: .375rem .75rem;
+            font-size: 1rem;
+            line-height: 1.5;
+            border-radius: .25rem;
+            transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+            margin-bottom: 10px;
+        }
+          body { font-family: Arial, sans-serif; }
+            .season { border: 1px solid #ccc; margin: 10px; padding: 10px; background-color: #35639d; color: #fff;
+                display: flex;
+                width: 160px;
+                flex-wrap: wrap;
+                justify-content: space-around;
+            }
+            .floor { 
+                /* border-bottom: 3px solid #000;  */
+                background-color: #35639d;
+            }
+            .wave { display: flex; }
+            .monster { min-width: 170px; max-width: 25%; height: auto; margin-right: 50px; text-align: center; }
+
+            h3 {
+                margin: 7px 0;
+            }
+
+            .bossimg {
+                min-height: 84px;              
+                width: 100%;
+                min-width: 170px;
+            }
+
+            .monster p {
+                margin: 5px 0;
+            }
+
+            .bosshp {
+                height: 15px;
+            }
+
+            .bossres {
+                height: 25px;
+            }
+
+            .buffs {
+                display: flex;
+                
+            }
+
+            .buff {
+                width: 200px;
+                margin: 5px;
+            }
+
+            .buffname {
+                text-align: center;
+            }
+
+            .buff img {
+                height: 100px;
+                width: 100px;
+                display: block;
+                margin: 0 auto;
+            }
+
+            .wavebuffs {
+                display: block;
+            }
+            
+            .mechs {
+                margin-top: 10px;
+                display: none;
+            }
+
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+
+            li {
+                text-align: left;
+                margin-bottom: 7px;
+            }
+
+            #container1 .floor {
+                padding: 10px;
+                color: #fff;
+            }
+
+            @media screen and (max-width: 1050px) {
+                .buffs {
+                    flex-wrap: wrap;
+                }
+            }
+            @media screen and (max-width: 640px) {
+                body {
+                    flex-wrap: wrap;
+                }
+            }
+
+        </style>
+    </head>
+    <body>
+        <div>
+            <input type="radio" class="lang" name="lang" value="en" checked> en
+            <input type="radio" class="lang" name="lang" value="ru"> ru
+        </div>
+        <div style="display: flex;">
+            <div id="container"></div>
+            <div id="container1"></div>
+         </div>
+        <!-- <div id="Mechs"></div> -->
+    </body>
+
+
+ <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+
+let data;
+let mechdata;
+let Lang;
+
+const radios = document.querySelectorAll('input[type="radio"].lang');
+
+radios.forEach(radio => {
+    radio.addEventListener('change', () => {
+        const selectedValue = document.querySelector('input[name="lang"]:checked').value;
+        loadAllData(selectedValue);
+    });
+});
+
+
+function loadAllData(lang)
+{
+    Lang = lang;
+    loadData(lang);
+    loadMechData(lang);
+}
+
+
+async function loadMechData(lang) {
+    try {
+        const response = await fetch(`evoGlobal_${lang}.json`);
+        mechdata = await response.json();
+    } catch (error) {
+        console.error('Ошибка загрузки данных:', error);
+    }
+}
+
+
+async function loadData(lang) 
+{
+    try {
+        const response = await fetch(`originGlobal_${lang}.json`);
+        data = await response.json();
+        renderData();
+    } catch (error) {
+        console.error('Ошибка загрузки данных:', error);
+    }
+}
+
+loadAllData("en");
+
+// function openFloor(id){
+//     let waves = document.getElementsByClassName("wavebuffs");
+//     $ (waves[id]).stop(true, true).slideToggle(400);  
+// }
+
+function openMechs(id, number){
+    let mechs = document.getElementsByClassName("mechs");
+    getMechs(number, mechs[id]);
+    $ (mechs[id]).stop(true, true).slideToggle(400);
+}
+
+function loadFloor(seasonId, id){
+  const container = document.getElementById('container1');
+   data.forEach(season => {
+    console.log(`"${season.SeasonId} == ${seasonId}"`)
+    if(season.SeasonId == seasonId)
+   {
+    let i = 0;
+    let m = 0;
+    season.Floors.forEach(floor => {
+       if (floor.Number != id)
+        {
+            return;
+        }
+        const floorDiv = document.createElement('div');
+        
+        floorDiv.className = 'floor';
+    //    floorDiv.innerHTML = `<h3 onclick="openFloor(${i})">Этаж ${floor.Number}</h3>`;
+        const wavebuffsDiv = document.createElement('div');
+            wavebuffsDiv.className = 'wavebuffs';
+      i++;
+        floor.Waves.forEach(wave => {
+        const waveDiv = document.createElement('div');
+        waveDiv.className = 'wave';
+
+       
+        
+        if (wave.Monsters && wave.Monsters.length > 0) {
+          wave.Monsters.forEach(monster => {
+            const monsterDiv = document.createElement('div');
+            monsterDiv.className = 'monster';
+            let htmlContent =`
+              <img class="bossimg" src="${monster.imgPath}" width="50" />
+              <p class="bosshp">${monster.HP}</p>
+              <p class="bossres">Resist: ${monster.Resist}</p>
+                 
+            `;
+            if (monster.Mechs != "") {
+                    if(Lang == "en")
+                        htmlContent += `<button onclick="openMechs(${m}, '${monster.Number}')">Mechanics</button><div class="mechs"></div>`;
+                    else
+                        htmlContent += `<button onclick="openMechs(${m}, '${monster.Number}')">Механики</button><div class="mechs"></div>`;
+                    m++;
+                }
+            monsterDiv.innerHTML = htmlContent;
+            waveDiv.appendChild(monsterDiv);
+          });
+        }
+        wavebuffsDiv.appendChild(waveDiv);       
+      });
+      
+      const buffsDiv = document.createElement('div');
+      buffsDiv.className = 'buffs';
+  
+        floor.BuffsVisible.forEach(buff=>{
+            const buffDiv = document.createElement('div');
+                buffDiv.className = 'buff';
+                let htmlContent = `<p class="buffname">${buff.RuName}</p>`;
+                htmlContent += `<img src="${buff.imgPath}" width="50" />`;
+
+                if (buff.Description != null) {
+                    htmlContent += `<p>${buff.Description}</p>`;
+                }
+               
+
+                buffDiv.innerHTML = htmlContent;
+            buffsDiv.appendChild(buffDiv);
+        })
+        wavebuffsDiv.appendChild(buffsDiv);
+        floorDiv.appendChild(wavebuffsDiv);
+        container.innerHTML = "";
+        container.appendChild(floorDiv);
+
+    });
+};
+});
+}
+
+function renderData() {
+  const container = document.getElementById('container');
+  container.innerHTML = "";
+  data.forEach(season => {
+    const seasonDiv = document.createElement('div');
+    seasonDiv.className = 'season';
+    seasonDiv.innerHTML = `<h3 style="text-align: center;">${season.SeasonName}</h2>`;
+    //seasonDiv.innerHTML = `<h2>SeasonId: ${season.SeasonId}</h2>`;
+    let i = 0;
+    let m = 0;
+    season.Floors.forEach(floor => {
+       if (floor.Number < 10)
+        {
+            return;
+        }
+        const floorDiv = document.createElement('div');
+        
+        floorDiv.className = 'floor';
+    //   floorDiv.innerHTML = `<h3>Floor ${floor.Number} (Id: ${floor.Id})</h3>`;
+        if(Lang == "en")
+            floorDiv.innerHTML = `<h3 onclick="loadFloor(${season.SeasonId}, ${floor.Number})">Floor ${floor.Number}</h3>`;
+        else
+            floorDiv.innerHTML = `<h3 onclick="loadFloor(${season.SeasonId}, ${floor.Number})">Этаж ${floor.Number}</h3>`;
+        const wavebuffsDiv = document.createElement('div');
+            wavebuffsDiv.className = 'wavebuffs';
+        i++;
+            floor.Waves.forEach(wave => {
+            const waveDiv = document.createElement('div');
+            waveDiv.className = 'wave';
+            // waveDiv.innerHTML = `<h4>Wave ${wave.CodeName} (Id: ${wave.Id})</h4>`;
+        });
+        seasonDiv.appendChild(floorDiv);
+    
+        container.appendChild(seasonDiv);
+        });
+    });
+}
+
+function getMechs(id, block){
+  mechdata.forEach(item => {
+    item.Bosses.forEach(boss => {
+        if(boss.CodeName == id)
+        {
+            const bossDiv = document.createElement('div');
+            bossDiv.className = 'boss';
+
+            // Механики
+            const mechList = document.createElement('ul');
+            boss.Mechs.forEach(mech => {
+                const li = document.createElement('li');
+                li.className = 'mech';
+                li.textContent = mech.Mechanic;
+                mechList.appendChild(li);
+            });
+            bossDiv.appendChild(mechList);
+            block.innerHTML = "";
+            block.appendChild(bossDiv);
+        }       
+    })
+  });
+}
+
+</script>
+
+</body>
+</html>
