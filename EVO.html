@@ -120,6 +120,7 @@
         </style>
     </head>
     <body>
+      <button id="backButton">Back</button>
       <div>
           <input type="radio" class="lang" name="lang" value="en" checked> en
           <input type="radio" class="lang" name="lang" value="ru"> ru
@@ -131,6 +132,10 @@
     </body>
 
 <script>
+
+document.getElementById('backButton').addEventListener('click', () => {
+    history.back();
+});
 
 const radios = document.querySelectorAll('input[type="radio"].lang');
 
