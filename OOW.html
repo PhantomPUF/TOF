@@ -119,17 +119,21 @@
                 body {
                     flex-wrap: wrap;
                 }
+                #main {
+                    flex-wrap: wrap;
+                }
             }
 
         </style>
     </head>
     <body>
         <button id="backButton">Back</button>
+        <button> <a href="index.html">Main</a></button>
         <div>
             <input type="radio" class="lang" name="lang" value="en" checked> en
             <input type="radio" class="lang" name="lang" value="ru"> ru
         </div>
-        <div style="display: flex;">
+        <div id="main" style="display: flex;">
             <div id="container"></div>
             <div id="container1"></div>
          </div>
