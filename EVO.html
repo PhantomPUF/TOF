@@ -123,6 +123,33 @@
               }
           }
 
+          #loader {
+            display: flex;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            height: 100vh;
+            justify-content: center;
+            align-content: center;
+            align-items: center;
+          }
+
+        .spinner {
+          border: 8px solid #f3f3f3;
+          border-top: 8px solid #3498db;
+          border-radius: 50%;
+          width: 40px;
+          height: 40px;
+          animation: spin 1s linear infinite;
+          margin: auto;
+        }
+
+        @keyframes spin {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+
 
         </style>
     </head>
@@ -133,6 +160,13 @@
           <input type="radio" class="lang" name="lang" value="en" checked> en
           <input type="radio" class="lang" name="lang" value="ru"> ru
         </div>
+        <div>
+            <input type="radio" class="mode" name="mode" value="Global" checked> Global
+            <input type="radio" class="mode" name="mode" value="CN"> CN
+        </div>
+      <div id="loader" style="display: none;">
+        <div class="spinner"></div>
+      </div>
       <div>
         <div id="container"></div>   
         <div id="Mechs"></div>   
@@ -150,44 +184,60 @@ const radios = document.querySelectorAll('input[type="radio"].lang');
 radios.forEach(radio => {
     radio.addEventListener('change', () => {
         const selectedValue = document.querySelector('input[name="lang"]:checked').value;
-        loadData(selectedValue);
+        loadlanguage(selectedValue);
+        lang = selectedValue;
+        //loadData(selectedValue);
+    });
+});
+
+const radios1 = document.querySelectorAll('input[type="radio"].mode');
+
+radios1.forEach(radio => {
+    radio.addEventListener('change', () => {
+        const selectedValue = document.querySelector('input[name="mode"]:checked').value;
+        mode = selectedValue;
+        loadData(lang, selectedValue);
     });
 });
 
 
-
-let data;
-async function loadData(lang) {
-    try {
-        const response = await fetch(`evoGlobal_${lang}.json`);
-        data = await response.json();
-        getBosses();
-    } catch (error) {
-        console.error('Ошибка загрузки данных:', error);
-    }
+function showLoader() {
+  document.getElementById('loader').style.display = 'block';
 }
 
-loadData("en");
+function hideLoader() {
+  document.getElementById('loader').style.display = 'none';
+}
 
-function getBosses(){
-  document.getElementById('Mechs').innerHTML = "";
-  const container = document.getElementById('container');
-  container.innerHTML = "";
-  data.forEach(item => {
-    item.Bosses.forEach(boss => {
-      const bossDiv = document.createElement('div');
+class Boss
+{
+  constructor(codename, name, imgPath)
+  {
+    this.codeName = codename;
+    this.name = name;
+    this.mechanics = [];
+    this.imgPath = imgPath;
+    this.damageTypes = [];
+  }
+  print(){
+    console.log(`${this.codeName} ${this.name} ${this.imgPath}`);
+  }
+  createDiv(){
+
+    const container = document.getElementById('container');
+
+    const bossDiv = document.createElement('div');
       bossDiv.className = 'boss';
 
       // кнопка
       const button = document.createElement('button');
       button.addEventListener("click", () => {
-          document.getElementById("Mechs").innerHTML="";
-          getMechs(boss.CodeName)
+          getMechs2(this.codeName)
       });
 
        // Название босса
       const title = document.createElement('h6');
-      title.textContent = `${boss.RuName}`;
+      title.textContent = `${this.name}`;
       button.appendChild(title);
 
       bossDiv.appendChild(button);
@@ -195,57 +245,227 @@ function getBosses(){
       // Изображение
       const img = document.createElement('img');
       img.className = 'bosspreview';
-      img.src = boss.imgPath;
-      img.alt = boss.RuName;
+      img.src = this.imgPath;
+      img.alt = this.RuName;
       button.appendChild(img);
 
 
-      container.appendChild(bossDiv);      
-    })
+      container.appendChild(bossDiv);   
+  }
+
+  createDivMechs(){
+
+    const bossDiv = document.createElement('div');
+    bossDiv.className = 'boss';
+
+    // Название босса
+    const title = document.createElement('h2');
+    title.textContent = `${this.name}`;
+    bossDiv.appendChild(title);
+
+    const imgMechDiv = document.createElement('div');
+    imgMechDiv.className = 'imgMech';
+    bossDiv.appendChild(imgMechDiv);
+
+
+    // Изображение
+    const img = document.createElement('img');
+    img.src = this.imgPath;
+    img.alt = this.name;
+    imgMechDiv.appendChild(img);
+
+    // Механики
+    const mechList = document.createElement('ul');
+    this.mechanics.forEach(mech => {
+        const li = document.createElement('li');
+        li.className = 'mech';
+        li.textContent = mech.mech;
+        mechList.appendChild(li);
+    });
+    imgMechDiv.appendChild(mechList);
+
+    document.getElementById("Mechs").appendChild(bossDiv);
+
+  }
+}
+
+class Mechanics{
+  constructor(codename, mech) {
+    this.codename = codename;
+    this.mech = mech;
+  }
+}
+let bosses = [];
+
+let seasons1;
+let languagejson;
+let selectedBoss;
+
+let lang = "en";
+let mode = "Global";
+
+const replaceHum = ["boss_hum_", "boss_", "_1", "_2", "_3", "_4", "_5", "_02", "_03", "_04", "_05"];
+
+let data;
+async function loadData(lang, mode) {
+  showLoader();
+  try {
+    const response = await fetch(`Global-5.0/BorderWarSeasonDataTable.json`);
+    seasons1 = await response.json();
+    const response2 = await fetch(`${mode}/BorderWarSeasonDataTable.json`);
+    seasons2 = await response2.json();
+    // const response1 = await fetch(`Drops/drop/DropGroupDataTable_treasure.json`);
+    // treasures = await response1.json();
+    // const response2 = await fetch(`Drops/drop/DropSequenceDataTable_common.json`);
+    // common = await response2.json();
+    // const response3 = await fetch(`Drops/ItemConfigs.json`);
+    // items = await response3.json();
+    // const response4 = await fetch(`Drops/Map/DT_MapWorldBoss.json`);
+    // worldBosses = await response4.json();
+
+
+
+      // const response1 = await fetch(`evoGlobal_${lang}.json`);
+      // data = await response1.json();
+      getBosses1(seasons1);
+      getBosses1(seasons2);
+      loadlanguage("en");
+  } catch (error) {
+      console.error('Ошибка загрузки данных:', error);
+  }
+  finally {
+    hideLoader();
+  }
+}
+
+function getBosses1(file){
+  file.forEach(item => {
+    for (let key of Object.keys(item.Rows)) {
+      for (let allbosses of item.Rows[key].BorderWarAllBossList) {
+        allbosses.AllChallengeWaves.forEach(boss=>{
+          if(boss.BossSkillInfo[0])
+          {
+            let codename = removeSubstrings(boss.AttributeID.toLowerCase(), replaceHum);
+            if(codename == "bjzq")
+              codename = "032";
+            if(codename == "64")
+              codename = "064";
+
+            let boss1;
+            const index = bosses.findIndex(i => i.codeName == codename);
+            if (index == -1)
+            {
+              boss1 = new Boss(codename, "", `monster/Boss_hum_${codename}.png`);
+              mechanic = new Mechanics(boss.BossSkillInfo[0].SkillDec.Key, "");
+              boss1.mechanics.push(mechanic);
+              boss1.createDiv();
+              bosses.push(boss1);
+            }
+            else
+            {
+              boss1 = bosses[index];
+            }
+
+            const mechindex = boss1.mechanics.findIndex(i => i.codename == boss.BossSkillInfo[0].SkillDec.Key);
+            if (mechindex == -1)
+            {
+              mechanic = new Mechanics(boss.BossSkillInfo[0].SkillDec.Key, "");
+              boss1.mechanics.push(mechanic);
+            }
+          }
+        })
+      }
+    };
   });
 }
 
-//getMechs("069");
+function getMechs2(codename){
+  showLoader();
+  try {
+      document.getElementById("Mechs").innerHTML="";
+    selectedBoss = codename;
+    let i = 1;
+    const index = bosses.findIndex(i => i.codeName == codename);
+    if (index !== -1)
+    {
+      let boss = bosses[index];
+      boss.mechanics.forEach(mechanic=>{
+        if(codename == "064" && lang == "en")
+          mechanic.mech= `${i}) ${findValueByKey(languagejson, mechanic.codename.replace("64","064"))}`;
+        else
+          mechanic.mech= `${i}) ${findValueByKey(languagejson, mechanic.codename)}`;
+      })
+      i++;
 
-function getMechs(id){
-  data.forEach(item => {
-    item.Bosses.forEach(boss => {
-        if(boss.CodeName == id)
-        {
-            const bossDiv = document.createElement('div');
-            bossDiv.className = 'boss';
-
-            // Название босса
-            const title = document.createElement('h2');
-            title.textContent = `${boss.RuName}`;
-            bossDiv.appendChild(title);
-
-            const imgMechDiv = document.createElement('div');
-            imgMechDiv.className = 'imgMech';
-            bossDiv.appendChild(imgMechDiv);
-
-
-            // Изображение
-            const img = document.createElement('img');
-            img.src = boss.imgPath;
-            img.alt = boss.RuName;
-            imgMechDiv.appendChild(img);
-
-            // Механики
-            const mechList = document.createElement('ul');
-            boss.Mechs.forEach(mech => {
-                const li = document.createElement('li');
-                li.className = 'mech';
-                li.textContent = mech.Mechanic;
-                mechList.appendChild(li);
-            });
-            imgMechDiv.appendChild(mechList);
-
-            document.getElementById("Mechs").appendChild(bossDiv);
-        }       
-    })
-  });
+      boss.createDivMechs();
+    }
+  } catch (error) {
+      console.error('Ошибка загрузки данных:', error);
+  }
+  finally {
+    hideLoader();
+  }
 }
+
+
+async function loadlanguage(lang) {
+  try {
+      const response = await fetch(`${mode}/Game_${lang}.json`);
+      languagejson = await response.json();
+
+
+      for (const boss of bosses) {
+        if(boss.codeName=="037")
+          boss.name = findValueByKey(languagejson, `boss_hum_037_stage1`);
+        else
+          boss.name = findValueByKey(languagejson, `Boss_hum_${boss.codeName}`);
+      }
+
+      container.innerHTML = "";
+      for (const boss of bosses) {
+        boss.createDiv();
+      }
+      getMechs2(selectedBoss);
+
+      document.querySelectorAll('.itemName').forEach(function(element) {
+        element.style.display = 'block';
+      });
+
+  } catch (error) {
+      console.error('Ошибка загрузки данных:', error);
+  }
+}
+
+
+function removeSubstrings(str, substrings) {
+  let result = str;
+  substrings.forEach(sub => {
+    const regex = new RegExp(sub, 'g');
+    result = result.replace(regex, '');
+  });
+  return result;
+}
+
+function findValueByKey(obj, targetKey) {
+  if (typeof obj !== 'object' || obj === null) {
+    return null;
+  }
+
+  for (const key in obj) {
+    if (key.toLocaleLowerCase() === targetKey.toLocaleLowerCase()) {
+      return obj[key];
+    }
+    const nestedResult = findValueByKey(obj[key], targetKey);
+    if (nestedResult !== null) {
+      return nestedResult;
+    }
+  }
+  return null;
+}
+
+
+
+loadData(lang, mode);
 
 </script>
 

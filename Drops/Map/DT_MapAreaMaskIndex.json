@@ -1,0 +1,101 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MapAreaMaskIndex",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'MapMaskUnlockRow'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "QRSL_P": {
+        "LevelName": "QRSL_P",
+        "MinIndex": 0,
+        "MaxIndex": 5,
+        "CantUnlockIndexList": []
+      },
+      "Vera_P": {
+        "LevelName": "Vera_P",
+        "MinIndex": 100,
+        "MaxIndex": 114,
+        "CantUnlockIndexList": [
+          108
+        ]
+      },
+      "XMKK_1": {
+        "LevelName": "Vera_Maze_P",
+        "MinIndex": 200,
+        "MaxIndex": 201,
+        "CantUnlockIndexList": [
+          201
+        ]
+      },
+      "XMKK_2": {
+        "LevelName": "Vera_Maze_P",
+        "MinIndex": 300,
+        "MaxIndex": 304,
+        "CantUnlockIndexList": [
+          304
+        ]
+      },
+      "XMKK_3": {
+        "LevelName": "Vera_Maze_P",
+        "MinIndex": 400,
+        "MaxIndex": 401,
+        "CantUnlockIndexList": [
+          401
+        ]
+      },
+      "Map_sea_p_1": {
+        "LevelName": "Map_sea_p",
+        "MinIndex": 500,
+        "MaxIndex": 504,
+        "CantUnlockIndexList": [
+          504
+        ]
+      },
+      "Map_sea_p_2": {
+        "LevelName": "Map_sea_p",
+        "MinIndex": 510,
+        "MaxIndex": 518,
+        "CantUnlockIndexList": [
+          518
+        ]
+      },
+      "Map_sea_p_3": {
+        "LevelName": "Map_sea_p",
+        "MinIndex": 520,
+        "MaxIndex": 521,
+        "CantUnlockIndexList": [
+          521
+        ]
+      },
+      "JIUYU_P": {
+        "LevelName": "JIUYU_P",
+        "MinIndex": 600,
+        "MaxIndex": 627,
+        "CantUnlockIndexList": [
+          600
+        ]
+      },
+      "jiuyu_xw_city": {
+        "LevelName": "jiuyu_xw_city",
+        "MinIndex": 700,
+        "MaxIndex": 701,
+        "CantUnlockIndexList": [
+          700
+        ]
+      },
+      "Norn_P": {
+        "LevelName": "Norn_P",
+        "MinIndex": 751,
+        "MaxIndex": 762,
+        "CantUnlockIndexList": [
+          751
+        ]
+      }
+    }
+  }
+]

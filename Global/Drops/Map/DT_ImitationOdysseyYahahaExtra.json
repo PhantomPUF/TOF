@@ -1,0 +1,2019 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ImitationOdysseyYahahaExtra",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ImitationOdysseyYahahaExtraRow'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "WorldPuzzle_StrangeMine_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "QRSL_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_a4_lv3_Mount_004_a"
+      },
+      "WorldPuzzle_Hyena_A3": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "QRSL_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_a3_lv3_Mount_011_a"
+      },
+      "DevelopLog_1": {
+        "RelateType": "EExploreType::gather",
+        "LevelMap": "Homeland_world",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gather_a7_1"
+      },
+      "DevelopLog_2": {
+        "RelateType": "EExploreType::gather",
+        "LevelMap": "Homeland_world",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gather_a7_2"
+      },
+      "DevelopLog_3": {
+        "RelateType": "EExploreType::gather",
+        "LevelMap": "Homeland_world",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gather_a7_3"
+      },
+      "DevelopLog_4": {
+        "RelateType": "EExploreType::gather",
+        "LevelMap": "Homeland_world",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gather_a7_4"
+      },
+      "DevelopLog_5": {
+        "RelateType": "EExploreType::gather",
+        "LevelMap": "Homeland_world",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gather_a7_5"
+      },
+      "DevelopLog_6": {
+        "RelateType": "EExploreType::gather",
+        "LevelMap": "Homeland_world",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gather_a7_6"
+      },
+      "DevelopLog_7": {
+        "RelateType": "EExploreType::gather",
+        "LevelMap": "Homeland_world",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gather_a7_7"
+      },
+      "DevelopLog_8": {
+        "RelateType": "EExploreType::gather",
+        "LevelMap": "Homeland_world",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gather_a7_8"
+      },
+      "DevelopLog_9": {
+        "RelateType": "EExploreType::gather",
+        "LevelMap": "Homeland_world",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gather_a7_9"
+      },
+      "DevelopLog_10": {
+        "RelateType": "EExploreType::gather",
+        "LevelMap": "Homeland_world",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gather_a7_10"
+      },
+      "Vera_huiyu_monsterdoor_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_red"
+      },
+      "Vera_huiyu_monsterdoor_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_007": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_008": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_009": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_010": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_011": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_012": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_013": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_014": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_015": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_016": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_017": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_018": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_red"
+      },
+      "Vera_huiyu_monsterdoor_019": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_red"
+      },
+      "Vera_huiyu_monsterdoor_020": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_021": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_022": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_023": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_024": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_025": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_026": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_027": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_red"
+      },
+      "Vera_huiyu_monsterdoor_028": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_029": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_030": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_031": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_032": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_033": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_red"
+      },
+      "Vera_huiyu_monsterdoor_034": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_035": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_bossdoor_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_boss"
+      },
+      "Vera_huiyu_bossdoor_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_boss"
+      },
+      "Vera_huiyu_bossdoor_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_boss"
+      },
+      "Vera_huiyu_monsterdoor_039": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_040": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_041": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_042": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_043": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_044": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_045": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_046": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Vera_huiyu_monsterdoor_047": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_048": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_049": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_050": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_051": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_052": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b11_orange"
+      },
+      "Vera_huiyu_monsterdoor_053": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_054": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_055": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_056": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_057": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_058": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_059": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_060": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_061": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_062": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_063": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_064": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b10_orange"
+      },
+      "Vera_huiyu_monsterdoor_065": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_b9_orange"
+      },
+      "Anyu_TreasureBox_Common_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Anyu_TreasureBox_Common_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Anyu_TreasureBox_Common_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Anyu_TreasureBox_Common_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Anyu_TreasureBox_Common_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_orange"
+      },
+      "Anyu_TreasureBox_Common_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_orange"
+      },
+      "Anyu_TreasureBox_Common_007": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_orange"
+      },
+      "Anyu_TreasureBox_Common_008": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_orange"
+      },
+      "Anyu_TreasureBox_Common_009": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_orange"
+      },
+      "Anyu_TreasureBox_Common_010": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Common_011": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Common_012": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Common_013": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_orange"
+      },
+      "Anyu_TreasureBox_Common_014": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Anyu_TreasureBox_Common_015": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_orange"
+      },
+      "Anyu_TreasureBox_Common_016": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Anyu_TreasureBox_Common_017": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Common_018": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Common_019": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Common_020": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Common_021": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Common_022": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Monster_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Monster_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_007": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_008": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_009": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Monster_010": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_011": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Monster_012": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_013": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Monster_014": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Monster_015": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Monster_016": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_017": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_018": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_019": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_020": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_021": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_022": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_023": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Monster_024": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_025": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Monster_026": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_027": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_028": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Monster_029": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_030": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Monster_031": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_032": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_033": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_034": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_035": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_036": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_037": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_038": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_039": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Monster_040": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_007": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_008": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_009": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_010": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_011": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_012": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_013": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_014": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Charged_015": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Charged_016": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Charged_017": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Charged_018": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Charged_019": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Charged_020": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Charged_021": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Charged_022": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Charged_023": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Charged_024": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Charged_025": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Charged_026": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Charged_027": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Charged_028": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_029": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Charged_030": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_007": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_008": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_009": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_010": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_011": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_012": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_013": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_014": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_015": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_016": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_017": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_018": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_019": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_020": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_021": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_022": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_023": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_024": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Camouflage_025": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Invisible_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Invisible_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Invisible_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Invisible_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Invisible_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Invisible_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Invisible_007": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Invisible_008": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Invisible_009": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_010": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Invisible_011": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_012": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_013": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_014": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_015": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_016": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_017": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_purple"
+      },
+      "Anyu_TreasureBox_Invisible_018": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_019": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Invisible_020": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_purple"
+      },
+      "Anyu_TreasureBox_Invisible_021": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_022": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_023": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_024": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Invisible_025": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_purple"
+      },
+      "Anyu_TreasureBox_Boss_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Boss_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c11_orange"
+      },
+      "Anyu_TreasureBox_Boss_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c9_orange"
+      },
+      "Anyu_TreasureBox_Boss_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Anyu_TreasureBox_Boss_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Anyu_TreasureBox_Boss_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Anyu_TreasureBox_Boss_007": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Anyu_TreasureBox_Boss_008": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::NormalServerOnly",
+        "RelateDropId": "treasureone_c10_orange"
+      },
+      "Minigame_main_LumenJellyFishCave_A21_7x9_2": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "gem_a21_004_sp1"
+      },
+      "Scene_Box_OnceOnly_UAV_003_Under_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_a32_Power_001"
+      },
+      "Scene_Box_OnceOnly_UAV_003_Under_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_a32_Power_002"
+      },
+      "Scene_Box_OnceOnly_UAV_003_Under_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_a32_Power_003"
+      },
+      "Scene_Box_OnceOnly_UAV_003_Under_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_a32_Power_004"
+      },
+      "Scene_Box_OnceOnly_UAV_003_Under_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_a32_Power_005"
+      },
+      "Scene_Box_OnceOnly_UAV_003_Under_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_a32_Power_006"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_01"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_02"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_03"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_04"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_05"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_06"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_007": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_07"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_008": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_08"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_009": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_09"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_010": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_10"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_011": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_11"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_012": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_12"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_013": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_13"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_014": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_14"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_015": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_15"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_016": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_16"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_017": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_17"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_018": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_18"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_019": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_19"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_020": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_20"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_021": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_21"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_022": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_22"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_023": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_23"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_024": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_24"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_025": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_25"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_026": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_26"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_027": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_27"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_028": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_28"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_029": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_29"
+      },
+      "Scene_Box_OnceOnly_UAV_002_Under_030": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Base_collection_30"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_01"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_02"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_03"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_04"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_05"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_06"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_007": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_07"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_008": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_08"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_009": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_09"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_010": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_10"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_011": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_11"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_012": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_12"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_013": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_13"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_014": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_14"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_015": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_15"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_016": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_16"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_017": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_17"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_018": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_18"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_019": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_19"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_020": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_20"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_021": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_21"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_022": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_22"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_023": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_23"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_024": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_24"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_025": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_25"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_026": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_26"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_027": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_27"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_028": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_28"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_029": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_29"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_030": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_30"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_031": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_31"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_032": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_32"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_033": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_33"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_034": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_34"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_035": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_35"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_036": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_36"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_037": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_37"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_038": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_38"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_039": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_39"
+      },
+      "Scene_Box_OnceOnly_UAV_001_Under_040": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "treasureone_A32_Wild_collection_40"
+      },
+      "Scene_Box_OnceOnly_Flash_001": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_01"
+      },
+      "Scene_Box_OnceOnly_Flash_002": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_02"
+      },
+      "Scene_Box_OnceOnly_Flash_003": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_03"
+      },
+      "Scene_Box_OnceOnly_Flash_004": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_04"
+      },
+      "Scene_Box_OnceOnly_Flash_005": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_05"
+      },
+      "Scene_Box_OnceOnly_Flash_006": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_06"
+      },
+      "Scene_Box_OnceOnly_Flash_007": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_07"
+      },
+      "Scene_Box_OnceOnly_Flash_008": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_08"
+      },
+      "Scene_Box_OnceOnly_Flash_009": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_09"
+      },
+      "Scene_Box_OnceOnly_Flash_010": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_10"
+      },
+      "Scene_Box_OnceOnly_Flash_011": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_11"
+      },
+      "Scene_Box_OnceOnly_Flash_012": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_12"
+      },
+      "Scene_Box_OnceOnly_Flash_013": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_13"
+      },
+      "Scene_Box_OnceOnly_Flash_014": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_14"
+      },
+      "Scene_Box_OnceOnly_Flash_015": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_15"
+      },
+      "Scene_Box_OnceOnly_Flash_016": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_16"
+      },
+      "Scene_Box_OnceOnly_Flash_017": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_17"
+      },
+      "Scene_Box_OnceOnly_Flash_018": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_18"
+      },
+      "Scene_Box_OnceOnly_Flash_019": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_19"
+      },
+      "Scene_Box_OnceOnly_Flash_020": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_20"
+      },
+      "Scene_Box_OnceOnly_Flash_021": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_21"
+      },
+      "Scene_Box_OnceOnly_Flash_022": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_22"
+      },
+      "Scene_Box_OnceOnly_Flash_023": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_23"
+      },
+      "Scene_Box_OnceOnly_Flash_024": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_24"
+      },
+      "Scene_Box_OnceOnly_Flash_025": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_25"
+      },
+      "Scene_Box_OnceOnly_Flash_026": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_26"
+      },
+      "Scene_Box_OnceOnly_Flash_027": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_27"
+      },
+      "Scene_Box_OnceOnly_Flash_028": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_28"
+      },
+      "Scene_Box_OnceOnly_Flash_029": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_29"
+      },
+      "Scene_Box_OnceOnly_Flash_030": {
+        "RelateType": "EExploreType::treasureone",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Harvest_a32_Collection_30"
+      }
+    }
+  }
+]

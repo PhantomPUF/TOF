@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ImitationOdysseyBasicConfig",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ImitationOdysseyBasicConfig'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "MaxQueueNum": 12,
+        "MonthCardAddMaxQueueNum": 6,
+        "MaxLoadSeconds": 25,
+        "UpdateSeconds": 3,
+        "MinDelaySeconds": 45.0,
+        "MaxDelaySeconds": 75.0,
+        "MaxAwardNum": 5,
+        "LevelDefaultAwardIdMap": [
+          {
+            "Key": "1",
+            "Value": "drop_Odyssey_filler"
+          }
+        ]
+      }
+    }
+  }
+]

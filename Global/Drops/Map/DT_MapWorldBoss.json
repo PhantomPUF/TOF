@@ -1,0 +1,1726 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MapWorldBoss",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'WorldBossInfoRow'",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "Boss_1": {
+        "BossId": "Boss_1",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MapPoint_Boss_A1",
+          "SourceString": "罗贝拉格",
+          "LocalizedString": "罗贝拉格"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/World_Boss_1.World_Boss_1",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/BOSS_1_yuan.BOSS_1_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_0.map_mark_shouling1_0",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "DF28D0514283B22ECD68FCADD8D826DE",
+          "SourceString": "亚夏",
+          "LocalizedString": "亚夏"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0302004",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Boss_2": {
+        "BossId": "Boss_2",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Mappoint_Boss_A2",
+          "SourceString": "阿波菲斯",
+          "LocalizedString": "阿波菲斯"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/World_Boss_2_new.World_Boss_2_new",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/BOSS_2_yuan.BOSS_2_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_1.map_mark_shouling1_1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "B24A11D54E08870C0785EEA9EF2504CE",
+          "SourceString": "亚夏",
+          "LocalizedString": "亚夏"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0302008",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Boss_3": {
+        "BossId": "Boss_3",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Mappoint_Boss_A3",
+          "SourceString": "急冻机甲",
+          "LocalizedString": "急冻机甲"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/World_Boss_3.World_Boss_3",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/BOSS_3_yuan.BOSS_3_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_2.map_mark_shouling1_2",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "8104342F4376E5876666DD95776D38DE",
+          "SourceString": "亚夏",
+          "LocalizedString": "亚夏"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0302009",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Boss_4": {
+        "BossId": "Boss_4",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Mappoint_Boss_A4",
+          "SourceString": "索贝克",
+          "LocalizedString": "索贝克"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/World_Boss_4.World_Boss_4",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/BOSS_4_yuan.BOSS_4_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_3.map_mark_shouling1_3",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "4361B1A241D39C4C2C258F937E505121",
+          "SourceString": "亚夏",
+          "LocalizedString": "亚夏"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0302011",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Boss_5": {
+        "BossId": "Boss_5",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Mappoint_Boss_A5",
+          "SourceString": "巴巴罗萨",
+          "LocalizedString": "巴巴罗萨"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/World_Boss_5.World_Boss_5",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/BOSS_5_yuan.BOSS_5_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_4.map_mark_shouling1_4",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "55F0D6FF453086B87890C8B9997DBDB2",
+          "SourceString": "亚夏",
+          "LocalizedString": "亚夏"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0904089",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "TeamBoss_9": {
+        "BossId": "TeamBoss_9",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MapPoint_BossTeam_A4_3",
+          "SourceString": "露琪亚",
+          "LocalizedString": "露琪亚"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/TeamBoss_9.TeamBoss_9",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/TeamBoss_9_yuan.TeamBoss_9_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1.map_mark_shouling1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "829F2BC247EAC0D80B0C939434F96877",
+          "SourceString": "亚夏",
+          "LocalizedString": "亚夏"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0302010",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Vera_Boss_1": {
+        "BossId": "Vera_Boss_1",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Vera_Boss_1_name",
+          "SourceString": "伦迪尔",
+          "LocalizedString": "伦迪尔"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/fuben/taofazuozhan/UI_NEWTFZZ_P2_boss4.UI_NEWTFZZ_P2_boss4",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_BOSS_1_yuan.Vera_BOSS_1_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapVera_mark_lu1.mapVera_mark_lu1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "4266846643D56407D4F3B490A30F1557",
+          "SourceString": "维拉",
+          "LocalizedString": "维拉"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0302101",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Vera_Boss_2": {
+        "BossId": "Vera_Boss_2",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Vera_Boss_2_name",
+          "SourceString": "玛格玛",
+          "LocalizedString": "玛格玛"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_Boss_2.Vera_Boss_2",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_BOSS_2_yuan.Vera_BOSS_2_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapVera_mark_eyu1.mapVera_mark_eyu1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "70F358114CF09305C3A710A4AA2B6661",
+          "SourceString": "维拉",
+          "LocalizedString": "维拉"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0302102",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Vera_XMKK_Boss_3": {
+        "BossId": "Vera_XMKK_Boss_3",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Vera_Boss_XMKK_3_chenhao",
+          "SourceString": "阿比斯-伊娃",
+          "LocalizedString": "阿比斯-伊娃"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_XMKK_Boss_3.Vera_XMKK_Boss_3",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_XMKK_BOSS_3_yuan.Vera_XMKK_BOSS_3_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_9.map_mark_shouling1_9",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "C46D527142BF81BDD2C9318ABDE5D83F",
+          "SourceString": "维拉",
+          "LocalizedString": "维拉"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0302105",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Vera_XMKK_Boss_1": {
+        "BossId": "Vera_XMKK_Boss_1",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Vera_Boss_XMKK_1_chenhao",
+          "SourceString": "晶核重蹄-科尔顿",
+          "LocalizedString": "晶核重蹄-科尔顿"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_XMKK_Boss_1.Vera_XMKK_Boss_1",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_XMKK_BOSS_1_yuan.Vera_XMKK_BOSS_1_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_7.map_mark_shouling1_7",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "0595071D483A81634B7B5D8D2A8451CF",
+          "SourceString": "第三城市",
+          "LocalizedString": "第三城市"
+        },
+        "StandLayer": "XMKK_3",
+        "MustHaveAchievementId": "0302103",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Vera_XMKK_Boss_2": {
+        "BossId": "Vera_XMKK_Boss_2",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Vera_Boss_XMKK_2_chenhao",
+          "SourceString": "阿比斯-海拉",
+          "LocalizedString": "阿比斯-海拉"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_XMKK_Boss_2.Vera_XMKK_Boss_2",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_XMKK_BOSS_2_yuan.Vera_XMKK_BOSS_2_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_8.map_mark_shouling1_8",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "1EDDF2494D17F220BD4BDC86401CBAC7",
+          "SourceString": "无序深渊",
+          "LocalizedString": "无序深渊"
+        },
+        "StandLayer": "XMKK_2",
+        "MustHaveAchievementId": "0302104",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -151170.66,
+            "Y": 136438.42,
+            "Z": -128190.58
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Vera_Sea_Boss_1": {
+        "BossId": "Vera_Sea_Boss_1",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Vera_Sea_Boss_1_name",
+          "SourceString": "阿比斯-丝奇拉",
+          "LocalizedString": "阿比斯-丝奇拉"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_Sea_Boss_1.Vera_Sea_Boss_1",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_Sea_BOSS_1_yuan.Vera_Sea_BOSS_1_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_10.map_mark_shouling1_10",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "592C52C244A0C8F8A21F33A655339F99",
+          "SourceString": "溟海",
+          "LocalizedString": "溟海"
+        },
+        "StandLayer": "Map_sea_p_1",
+        "MustHaveAchievementId": "0302201",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Vera_Sea_Boss_2": {
+        "BossId": "Vera_Sea_Boss_2",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Vera_Sea_Boss_2_name",
+          "SourceString": "阿比斯-哈伯拉",
+          "LocalizedString": "阿比斯-哈伯拉"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_Sea_Boss_2.Vera_Sea_Boss_2",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_Sea_BOSS_2_yuan.Vera_Sea_BOSS_2_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_11.map_mark_shouling1_11",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "A50554C04D744C4AD41AD9B3423A1B8A",
+          "SourceString": "龙口火山",
+          "LocalizedString": "龙口火山"
+        },
+        "StandLayer": "Map_sea_p_3",
+        "MustHaveAchievementId": "0302202",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Vera_Sea_Boss_3": {
+        "BossId": "Vera_Sea_Boss_3",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Vera_Sea_Boss_3_name",
+          "SourceString": "阿比斯-纳克亚",
+          "LocalizedString": "阿比斯-纳克亚"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_Sea_Boss_3.Vera_Sea_Boss_3",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Vera_Sea_BOSS_3_yuan.Vera_Sea_BOSS_3_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_16.map_mark_shouling1_16",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "A8C0D9F947F3333F8D3B2487CAA273FF",
+          "SourceString": "茵纳斯",
+          "LocalizedString": "茵纳斯"
+        },
+        "StandLayer": "Map_sea_p_2",
+        "MustHaveAchievementId": "0302203",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Homeland_Boss_2": {
+        "BossId": "Homeland_Boss_2",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Homeland_Boss_02",
+          "SourceString": "间跃霜火龙",
+          "LocalizedString": "间跃霜火龙"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Boss_6.Boss_6",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/BOSS_6_yuan.BOSS_6_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_5.map_mark_shouling1_5",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "08FFADA446F93A695DDF609DCEEB9B79",
+          "SourceString": "人工岛",
+          "LocalizedString": "人工岛"
+        },
+        "StandLayer": "Homeland_world",
+        "MustHaveAchievementId": "0302013",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Homeland_Boss_1": {
+        "BossId": "Homeland_Boss_1",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Homeland_Boss_01",
+          "SourceString": "吞噬者",
+          "LocalizedString": "吞噬者"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Boss_7.Boss_7",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/BOSS_7_yuan.BOSS_7_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_mark_shouling1_6.map_mark_shouling1_6",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "2C856DB14C5762F2A3282E8AA4C4E144",
+          "SourceString": "人工岛",
+          "LocalizedString": "人工岛"
+        },
+        "StandLayer": "Homeland_world",
+        "MustHaveAchievementId": "0302012",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Jiuyu_Boss_1": {
+        "BossId": "Jiuyu_Boss_1",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_057",
+          "SourceString": "朱厌",
+          "LocalizedString": "朱厌"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/fuben/taofazuozhan/UI_NEWTFZZ_P2_boss6.UI_NEWTFZZ_P2_boss6",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/jiuyu_Boss_1_yuan.jiuyu_Boss_1_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapjiuyu_mark_boss1-1.mapjiuyu_mark_boss1-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "09C7E4D7429A6C9C4F6D6095327E8668",
+          "SourceString": "九域",
+          "LocalizedString": "九域"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0302204",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Jiuyu_Boss_2": {
+        "BossId": "Jiuyu_Boss_2",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_059",
+          "SourceString": "暝伥·玄鸦",
+          "LocalizedString": "暝伥·玄鸦"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/jiuyu_Boss_2.jiuyu_Boss_2",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/jiuyu_Boss_2_yuan.jiuyu_Boss_2_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapjiuyu_mark_boss2-1.mapjiuyu_mark_boss2-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "DA9A8A3B43B3FFDFC0E6A8AD3E6A10E4",
+          "SourceString": "九域",
+          "LocalizedString": "九域"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0903030",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Jiuyu_Boss_3": {
+        "BossId": "Jiuyu_Boss_3",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_055",
+          "SourceString": "晦暝·饕餮",
+          "LocalizedString": "晦暝·饕餮"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/fuben/taofazuozhan/UI_NEWTFZZ_P2_BOSS7.UI_NEWTFZZ_P2_BOSS7",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/jiuyu_Boss_3_yuan.jiuyu_Boss_3_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapjiuyu_mark_boss3-1.mapjiuyu_mark_boss3-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "4857D4E449881129A2F4FC9204225C6C",
+          "SourceString": "卧虎溶洞",
+          "LocalizedString": "卧虎溶洞"
+        },
+        "StandLayer": "JiuYu_ql_cave_2",
+        "MustHaveAchievementId": "0904017",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Jiuyu_Boss_5": {
+        "BossId": "Jiuyu_Boss_5",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_065",
+          "SourceString": "晦暝·姹鲛",
+          "LocalizedString": "晦暝·姹鲛"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/jiuyu_Boss_5.jiuyu_Boss_5",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/jiuyu_Boss_5_yuan.jiuyu_Boss_5_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapjiuyu_mark_boss5-1.mapjiuyu_mark_boss5-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "CDC19AE148069467104E418F0FDE7A49",
+          "SourceString": "九域",
+          "LocalizedString": "九域"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0904025",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Jiuyu_Boss_6": {
+        "BossId": "Jiuyu_Boss_6",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_064",
+          "SourceString": "晦暝·刑天",
+          "LocalizedString": "晦暝·刑天"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/fuben/taofazuozhan/UI_NEWTFZZ_P2_BOSS8.UI_NEWTFZZ_P2_BOSS8",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/jiuyu_Boss_6_yuan.jiuyu_Boss_6_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapjiuyu_mark_boss4-1.mapjiuyu_mark_boss4-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "A480B80A45FDA5DFD7B6B8A98D01A3E0",
+          "SourceString": "九域",
+          "LocalizedString": "九域"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0904032",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Jiuyu_Boss_7": {
+        "BossId": "Jiuyu_Boss_7",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_067",
+          "SourceString": "飞廉",
+          "LocalizedString": "飞廉"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/fuben/taofazuozhan/UI_NEWTFZZ_P2_BOSS10.UI_NEWTFZZ_P2_BOSS10",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/jiuyu_Boss_7_yuan.jiuyu_Boss_7_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapjiuyu_mark_boss6-1.mapjiuyu_mark_boss6-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "4E463F3E489EE0A5BF06DEBBFC79FEF8",
+          "SourceString": "九域",
+          "LocalizedString": "九域"
+        },
+        "StandLayer": "",
+        "MustHaveAchievementId": "0904044",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Jiuyu_Boss_8": {
+        "BossId": "Jiuyu_Boss_8",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_061",
+          "SourceString": "英招",
+          "LocalizedString": "英招"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/fuben/taofazuozhan/UI_NEWTFZZ_P2_BOSS9.UI_NEWTFZZ_P2_BOSS9",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/jiuyu_Boss_8_yuan.jiuyu_Boss_8_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapjiuyu_mark_boss7-1.mapjiuyu_mark_boss7-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "E7BBA72440AA3D1B25D331A64803DA41",
+          "SourceString": "第八号舱",
+          "LocalizedString": "第八号舱"
+        },
+        "StandLayer": "jiuyu_xw_city",
+        "MustHaveAchievementId": "0904045",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Norn_Boss_1": {
+        "BossId": "Norn_Boss_1",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_075",
+          "SourceString": "阵点球α-实验型",
+          "LocalizedString": "阵点球α-实验型"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Norn_Boss_1.Norn_Boss_1",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Norn_Boss_1_yuan.Norn_Boss_1_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapNorn_mark_boss1-1.mapNorn_mark_boss1-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "DE1AF56D49533532B536A38D5658E81E",
+          "SourceString": "格网",
+          "LocalizedString": "格网"
+        },
+        "StandLayer": "Norn_p",
+        "MustHaveAchievementId": "0904046",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 900.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Norn_Boss_2": {
+        "BossId": "Norn_Boss_2",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_074",
+          "SourceString": "幻蝎",
+          "LocalizedString": "幻蝎"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Norn_BOSS_2.Norn_BOSS_2",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Norn_BOSS_2_yuan.Norn_BOSS_2_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapNorn_mark_boss2-1.mapNorn_mark_boss2-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "DE1AF56D49533532B536A38D5658E81E",
+          "SourceString": "格网",
+          "LocalizedString": "格网"
+        },
+        "StandLayer": "Norn_p",
+        "MustHaveAchievementId": "0904090",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Norn_Boss_3": {
+        "BossId": "Norn_Boss_3",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "Boss_hum_078",
+          "SourceString": "地驭",
+          "LocalizedString": "地驭"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Norn_BOSS_3.Norn_BOSS_3",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Norn_BOSS_3_yuan.Norn_BOSS_3_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapNorn_mark_boss3-1.mapNorn_mark_boss3-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "DE1AF56D49533532B536A38D5658E81E",
+          "SourceString": "格网",
+          "LocalizedString": "格网"
+        },
+        "StandLayer": "Norn_p",
+        "MustHaveAchievementId": "0904061",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Norn_Boss_4": {
+        "BossId": "Norn_Boss_4",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_Boss_4",
+          "SourceString": "捍卫者-重炮型",
+          "LocalizedString": "捍卫者-重炮型"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Norn_BOSS_4.Norn_BOSS_4",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Norn_BOSS_4_yuan.Norn_BOSS_4_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapNorn_mark_boss4-1.mapNorn_mark_boss4-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "DE1AF56D49533532B536A38D5658E81E",
+          "SourceString": "格网",
+          "LocalizedString": "格网"
+        },
+        "StandLayer": "Norn_City_F2",
+        "MustHaveAchievementId": "0904069",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Norn_Boss_5": {
+        "BossId": "Norn_Boss_5",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_Boss_5",
+          "SourceString": "全觉之眼",
+          "LocalizedString": "全觉之眼"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Norn_BOSS_5.Norn_BOSS_5",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Norn_BOSS_5_yuan.Norn_BOSS_5_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapNorn_mark_boss5-1.mapNorn_mark_boss5-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "Namespace": "",
+          "Key": "DE1AF56D49533532B536A38D5658E81E",
+          "SourceString": "格网",
+          "LocalizedString": "格网"
+        },
+        "StandLayer": "Norn_B2",
+        "MustHaveAchievementId": "0904079",
+        "MustHaveAchievementId_Oversea": "None",
+        "FootholdLocationOffSet": {
+          "X": 6000.0,
+          "Y": 0.0,
+          "Z": 3000.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Kailo_Boss_1": {
+        "BossId": "Kailo_Boss_1",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Kailo_Boss_1_name",
+          "SourceString": "皇后虫",
+          "LocalizedString": "皇后虫"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Kailo_BOSS_show.Kailo_BOSS_show",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Kailo_BOSS_1_yuan.Kailo_BOSS_1_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapKailo_mark_boss1-1.mapKailo_mark_boss1-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Tower_NameTip15",
+          "SourceString": "启罗",
+          "LocalizedString": "启罗"
+        },
+        "StandLayer": "Kailo_P",
+        "MustHaveAchievementId": "0904100",
+        "MustHaveAchievementId_Oversea": "904100",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      }
+    }
+  }
+]

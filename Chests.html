@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>EVO</title>
+        <style href="/css/reset.css"></style>
+        <style href="/css/reset.css"></style>
+        <style>
+            .orange-button {
+            color: #fff;
+            background: rgb(255, 124, 1);
+            background: linear-gradient(0deg, rgba(255, 124, 1, 1) 0%, rgba(255, 171, 1, 1) 100%);
+            border-color: orange;
+            display: inline-block;
+            font-weight: 400;
+            text-align: center;
+            vertical-align: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            border: 1px solid transparent;
+            padding: .375rem .75rem;
+            font-size: 1rem;
+            line-height: 1.5;
+            border-radius: .25rem;
+            transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+            margin-bottom: 10px;
+          }
+          body { font-family: Arial, sans-serif; }
+          .season { border: 1px solid #ccc; margin: 10px; padding: 10px; }
+          .floor { margin-left: 20px; }
+          .wave { margin-left: 40px; }
+          .monster { margin-left: 60px; }
+
+          #container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            flex-direction: column;
+            overflow-y: scroll;
+          }
+
+          .boss {
+            display: flex;
+            border: 1px solid #000;
+            justify-content: flex-start;
+            align-items: center;
+          }
+
+          .bossimg {
+            display: flex;
+            height: 100px;
+          }
+          .drop {
+            margin: 0 7px;
+            text-align: center;
+          }
+
+          .drop img {
+            width: 25px;
+          }
+
+          .drops {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+          }
+
+          .itemName {
+            display: none;
+            margin: 0;
+          }
+
+
+          @media screen and (max-width: 800px) {
+
+          }
+           @media screen and (max-width: 530px) {
+
+          }
+
+          #loader {
+            display: flex;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            height: 100vh;
+            justify-content: center;
+            align-content: center;
+            align-items: center;
+          }
+
+        .spinner {
+          border: 8px solid #f3f3f3;
+          border-top: 8px solid #3498db;
+          border-radius: 50%;
+          width: 40px;
+          height: 40px;
+          animation: spin 1s linear infinite;
+          margin: auto;
+        }
+
+        @keyframes spin {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+
+
+        </style>
+    </head>
+    <body>
+      <button id="backButton">Back</button>
+      <button> <a href="index.html">Main</a></button>
+      <div>
+        <input type="radio" class="lang" name="lang" value="en" checked> en
+        <input type="radio" class="lang" name="lang" value="ru"> ru
+      </div>
+      <div id="loader" style="display: none;">
+        <div class="spinner"></div>
+      </div>
+      <div id="container"></div> 
+      <div>
+        <div id="Mechs"></div>   
+      </div>       
+    </body>
+
+<script>
+
+document.getElementById('backButton').addEventListener('click', () => {
+    history.back();
+});
+
+const radios = document.querySelectorAll('input[type="radio"].lang');
+
+radios.forEach(radio => {
+    radio.addEventListener('change', () => {
+        const selectedValue = document.querySelector('input[name="lang"]:checked').value;
+        loadlanguage(selectedValue);
+    });
+});
+
+
+let mapPoints;
+let treasures;
+let common;
+let items;
+let worldBosses;
+let sequence;
+let treasureNames = [];
+let bosses = [];
+
+loadmapPoints();
+
+class Boss {
+  constructor(name, imgPath) {
+    this.name = name;
+    this.imgPath = imgPath;
+    this.drops = [];
+  }
+
+  createDiv() {
+    const container = document.getElementById('container');
+
+    const bossDiv = document.createElement('div');
+    bossDiv.className = 'boss';
+
+    const img = document.createElement('img');
+    img.className = "bossimg";
+    img.src = this.imgPath;
+    bossDiv.appendChild(img);
+
+    const dropsDiv = document.createElement('div');
+    dropsDiv.className = 'drops';
+    bossDiv.appendChild(dropsDiv);
+         
+    this.drops.forEach(drop => {
+      dropsDiv.appendChild(drop.createDiv());
+    });
+
+    container.appendChild(bossDiv);  
+  }
+
+}
+
+class Drop{
+  constructor(name, itemName, imgPath, count, chance) {
+    this.name = name;
+    this.itemName = itemName;
+    this.imgPath = imgPath;
+    this.count = count;
+    this.chance = chance;
+  }
+  createDiv() {
+    
+    const itemDiv = document.createElement('div');
+    itemDiv.className = "drop";
+
+    const img = document.createElement('img');
+    img.src = this.imgPath;
+
+    const itemcountDiv = document.createElement('div');
+    let htmlContent =`
+      <p class="itemName">${this.itemName}</p
+      <p class="itemcount">${this.count}</p>
+    `;
+    //   let htmlContent =`
+    //   <p class="itemcount">${count}</p>
+    //   <p>${key1}</p
+    //   <p>${chance}</p
+    // `;
+    itemcountDiv.innerHTML = htmlContent;
+
+    itemDiv.appendChild(img);
+    itemDiv.appendChild(itemcountDiv);
+
+    return itemDiv;
+  }
+  print() {
+    console.log(this.name + " " + this.imgPath + " " + this.count + " " + this.chance);
+  }
+}
+
+async function loadmapPoints() {
+  showLoader();
+  try {
+      const response = await fetch(`Drops/DT_MapPoint.json`);
+      mapPoints = await response.json();
+      const response1 = await fetch(`Drops/drop/DropGroupDataTable_treasure.json`);
+      treasures = await response1.json();
+      const response2 = await fetch(`Drops/drop/DropSequenceDataTable_common.json`);
+      common = await response2.json();
+      const response3 = await fetch(`Drops/ItemConfigs.json`);
+      items = await response3.json();
+      const response4 = await fetch(`Drops/Map/DT_MapWorldBoss.json`);
+      worldBosses = await response4.json();
+      
+      const response5 = await fetch(`Drops/drop/DropSequenceDataTable.json`);
+      sequence = await response5.json();
+      test();
+      loadlanguage("en");
+  } catch (error) {
+      console.error('Ошибка загрузки данных:', error);
+  }
+  finally {
+    hideLoader();
+  }
+}
+
+function test() 
+{
+  const container = document.getElementById('container');
+  mapPoints.forEach(item => {
+    if (item.Rows) {
+      Object.keys(item.Rows).forEach(key => {
+        if (key.includes("Boss")) {
+          row = item.Rows[key];
+          if(row.PreviewAwardInfo && row.PreviewAwardInfo[0])
+          {
+            //console.log("---------------------------");
+            const bossDiv = document.createElement('div');
+            bossDiv.className = 'boss';
+            
+            //console.log(key);
+            //console.log(row.PreviewAwardInfo[0].Value);
+
+            let reward = row.PreviewAwardInfo[0].Value.replace("show4","").replace("_show","");//.replace("_1_show","");
+
+            //console.log(key);
+            //console.log(reward);
+
+            imgPath = getBoss(key, bossDiv);
+            if(imgPath != undefined)
+            {
+              const boss = new Boss(key, imgPath);
+              bosses.push(boss);
+
+
+              let bossDropItems = [];
+
+              getTreasures(reward, bossDropItems, boss);
+
+              //console.log(boss.drops);
+
+              boss.createDiv();
+            }
+
+          }
+        }
+      });
+    } 
+    else {
+      console.log("Нет свойства Rows");
+    }
+  });
+}
+
+function getTreasures (name, bossDropItems, boss)
+{
+  treasures.forEach(item => {
+    if (item.Rows) {
+      Object.keys(item.Rows).forEach(key => {
+        if (key.includes(name)) {
+          row = item.Rows[key]
+          //console.log(row);
+          //console.log(row.SequenceID);
+         
+          let count;
+
+          //console.log(key);
+          //console.log(row);
+          
+          if(row.ModifyNumProbability && row.ModifyNumProbability[0])
+            count = getMinMaxDropValue(row.ModifyNumProbability);
+          else
+            count = row.ModifyNum;
+
+          chance = row.SequenceWeight;
+
+          //if(row.SpecialFall != "0" && row.SpecialFallGroupID != "none")// && !key.includes("show"))
+          //{
+            getCommon(row.SequenceID, count, key, bossDropItems, chance, common, boss);
+            getCommon(row.SequenceID, count, key, bossDropItems, chance, sequence, boss);
+          //}
+          
+        }
+      });
+    }
+  });
+}
+
+function getMinMaxDropValue(array) {
+  if (!array || array.length === 0) return '';
+
+  const values = array.map(item => item.DropValue);
+
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+
+  return `${min}-${max}`;
+}
+
+function getCommon(name, count, key1, bossDropItems, chance, dir, boss)
+{
+  for (const item of dir) {
+    if (item.Rows) {
+      for (let key of Object.keys(item.Rows)) {
+        if (key.includes(name)) {
+          row = item.Rows[key]
+          
+          //console.log(name);
+          //console.log(row);
+          //console.log(row.ItemID);
+          getItem(row.ItemID, count, key1, bossDropItems, chance, boss);
+        }
+      };
+    }
+  }
+}
+
+function removeSubstrings(str, substrings) {
+  let result = str;
+  substrings.forEach(sub => {
+    const regex = new RegExp(sub, 'g');
+    result = result.replace(regex, '');
+  });
+  return result;
+}
+
+function getItem(name, count, key1, bossDropItems, chance, boss)
+{
+  for (const item of items) {
+    if (item.Rows) {
+      for (let key of Object.keys(item.Rows)) {
+
+        substrings = ["fragment_,", "_orange_Balance", "_OS"];
+        key = removeSubstrings(key, substrings);
+        if (key.includes(name) && !key.includes("pack") && !key.includes("Badge")&& !key.includes("plasm")) {
+          //console.log(bossDropItems);
+          //console.log(row);
+          //bossDropItems.push(key);
+          const index = treasureNames.indexOf(key);
+          if(!treasureNames.includes(key1) )
+          {
+            treasureNames.push(key1);
+            row = item.Rows[key]
+
+            imgPath = "Drops/"+ row.ItemIcon.AssetPathName.replace("/Game/Resources/","").split('.')[0]+".png";
+            const index = boss.drops.findIndex(i => i.itemName == name);
+            if (index !== -1) {
+              if (boss.drops[index].chance < chance) {
+                boss.drops[index] = new Drop(row.ItemName.Key, name, imgPath, count, chance);
+              }
+            }
+            else
+              boss.drops.push(new Drop(row.ItemName.Key, name, imgPath, count, chance));
+          }
+        }
+      };
+    }
+  };
+}
+
+function getBoss(name, bossDiv)
+{
+  for (const item of worldBosses) {
+    if (item.Rows) {
+      for (const key of Object.keys(item.Rows)) {
+        if (key.includes(name)) {
+          row = item.Rows[key]
+          imgPath = "Drops/"+ row.BigImage.AssetPathName.replace("/Game/Resources/","").split('.')[0]+".png";
+          
+          return imgPath;
+        }
+      };
+    }
+  }
+}
+
+function showLoader() {
+  document.getElementById('loader').style.display = 'block';
+}
+
+function hideLoader() {
+  document.getElementById('loader').style.display = 'none';
+}
+
+async function loadlanguage(lang) {
+  try {
+      const response = await fetch(`Game_${lang}.json`);
+      languagejson = await response.json();
+
+      //keyToFind = "StrengthenStone_07_name";
+
+      //const result = findValueByKey(languagejson, keyToFind);
+      //console.log(result);
+
+      for (const boss of bosses) {
+        for (const drop of boss.drops) {
+          drop.itemName = findValueByKey(languagejson, drop.name);
+        }
+      }
+
+      container.innerHTML = "";
+      for (const boss of bosses) {
+        boss.createDiv();
+      }
+
+      document.querySelectorAll('.itemName').forEach(function(element) {
+        element.style.display = 'block';
+      });
+
+  } catch (error) {
+      console.error('Ошибка загрузки данных:', error);
+  }
+}
+
+function findValueByKey(obj, targetKey) {
+  if (typeof obj !== 'object' || obj === null) {
+    return null;
+  }
+
+  for (const key in obj) {
+    if (key === targetKey) {
+      return obj[key];
+    }
+    const nestedResult = findValueByKey(obj[key], targetKey);
+    if (nestedResult !== null) {
+      return nestedResult;
+    }
+  }
+  return null;
+}
+
+
+</script>
+
+</body>
+</html>
+
+
+
+<!-- [
+  "Rows": {
+    "areaTree0": {
+    }
+    "areaTree1": {
+    }
+    "areaTree2": {
+    }
+    "Boss1": {
+    }
+    "Boss2": {
+    }
+    "Boss3": {
+    }
+  }
+] -->

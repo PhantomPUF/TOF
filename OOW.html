@@ -105,6 +105,10 @@
                 margin-bottom: 7px;
             }
 
+            #container1 {
+                margin: 10px;
+            }
+
             #container1 .floor {
                 padding: 10px;
                 color: #fff;
@@ -124,6 +128,33 @@
                 }
             }
 
+            #loader {
+                display: flex;
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                height: 100vh;
+                justify-content: center;
+                align-content: center;
+                align-items: center;
+            }
+
+            .spinner {
+                border: 8px solid #f3f3f3;
+                border-top: 8px solid #3498db;
+                border-radius: 50%;
+                width: 40px;
+                height: 40px;
+                animation: spin 1s linear infinite;
+                margin: auto;
+            }
+
+            @keyframes spin {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+            }
+
         </style>
     </head>
     <body>
@@ -133,11 +164,17 @@
             <input type="radio" class="lang" name="lang" value="en" checked> en
             <input type="radio" class="lang" name="lang" value="ru"> ru
         </div>
+         <div>
+            <input type="radio" class="mode" name="mode" value="Global" checked> Global
+            <input type="radio" class="mode" name="mode" value="CN"> CN
+        </div>
+        <div id="loader" style="display: none;">
+            <div class="spinner"></div>
+        </div>
         <div id="main" style="display: flex;">
             <div id="container"></div>
             <div id="container1"></div>
          </div>
-        <!-- <div id="Mechs"></div> -->
     </body>
 
 
@@ -157,190 +194,550 @@ const radios = document.querySelectorAll('input[type="radio"].lang');
 radios.forEach(radio => {
     radio.addEventListener('change', () => {
         const selectedValue = document.querySelector('input[name="lang"]:checked').value;
-        loadAllData(selectedValue);
+        loadlanguage(selectedValue);
+        Lang = selectedValue;
     });
 });
 
 
-function loadAllData(lang)
-{
-    Lang = lang;
-    loadData(lang);
-    loadMechData(lang);
+const radios1 = document.querySelectorAll('input[type="radio"].mode');
+
+radios1.forEach(radio => {
+    radio.addEventListener('change', () => {
+        const selectedValue = document.querySelector('input[name="mode"]:checked').value;
+        loadAllData(Lang, selectedValue);
+    });
+});
+
+
+function showLoader() {
+  document.getElementById('loader').style.display = 'block';
 }
 
+function hideLoader() {
+  document.getElementById('loader').style.display = 'none';
+}
 
-async function loadMechData(lang) {
-    try {
-        const response = await fetch(`evoGlobal_${lang}.json`);
-        mechdata = await response.json();
-    } catch (error) {
-        console.error('Ошибка загрузки данных:', error);
+let monstermechIndex = 0;
+
+let selectedFloor;
+
+class Season
+{
+    constructor(seasonId){
+        this.seasonId = seasonId;
+        this.floors = [];
+    }
+
+    createDiv(){
+        const container = document.getElementById('container');
+        container.innerHTML = "";
+        const seasonDiv = document.createElement('div');
+        seasonDiv.className = 'season';
+        // if(Lang == "en")
+        //     seasonDiv.innerHTML = `<h3 style="text-align: center;">This season</h2>`;
+        // else
+        //     seasonDiv.innerHTML = `<h3 style="text-align: center;">Этот сезон</h2>`;
+
+        
+        
+        
+        this.floors.forEach(floor => {
+            const floorDiv = document.createElement('div');
+        
+            floorDiv.className = 'floor';
+            if(Lang == "en")
+                floorDiv.innerHTML = `<h3 onclick="loadFloor(${this.seasonId}, ${floor.number})">Floor ${floor.number}</h3>`;
+            else
+                floorDiv.innerHTML = `<h3 onclick="loadFloor(${this.seasonId}, ${floor.number})">Этаж ${floor.number}</h3>`;
+            seasonDiv.appendChild(floorDiv);
+        });
+        container.appendChild(seasonDiv);
     }
 }
 
-
-async function loadData(lang) 
+class Floor
 {
-    try {
-        const response = await fetch(`originGlobal_${lang}.json`);
-        data = await response.json();
-        renderData();
-    } catch (error) {
-        console.error('Ошибка загрузки данных:', error);
+    constructor(number) {
+        this.number = number;
+        this.waves = [];
+        this.buffsVisible = [];
+        this.buffsDrop = [];
     }
-}
-
-loadAllData("en");
-
-// function openFloor(id){
-//     let waves = document.getElementsByClassName("wavebuffs");
-//     $ (waves[id]).stop(true, true).slideToggle(400);  
-// }
-
-function openMechs(id, number){
-    let mechs = document.getElementsByClassName("mechs");
-    getMechs(number, mechs[id]);
-    $ (mechs[id]).stop(true, true).slideToggle(400);
-}
-
-function loadFloor(seasonId, id){
-  const container = document.getElementById('container1');
-   data.forEach(season => {
-    console.log(`"${season.SeasonId} == ${seasonId}"`)
-    if(season.SeasonId == seasonId)
-   {
-    let i = 0;
-    let m = 0;
-    season.Floors.forEach(floor => {
-       if (floor.Number != id)
-        {
-            return;
-        }
+    createDiv(seasonId, number){
+        const container = document.getElementById('container1');
+        container.innerHTML = "";
         const floorDiv = document.createElement('div');
         
         floorDiv.className = 'floor';
-    //    floorDiv.innerHTML = `<h3 onclick="openFloor(${i})">Этаж ${floor.Number}</h3>`;
+        if(Lang == "en")
+            floorDiv.innerHTML = `<h3 onclick="loadFloor(${seasonId}, ${this.number})">Floor ${this.number}</h3>`;
+        else
+            floorDiv.innerHTML = `<h3 onclick="loadFloor(${seasonId}, ${this.number})">Этаж ${this.number}</h3>`;
+
         const wavebuffsDiv = document.createElement('div');
-            wavebuffsDiv.className = 'wavebuffs';
-      i++;
-        floor.Waves.forEach(wave => {
-        const waveDiv = document.createElement('div');
-        waveDiv.className = 'wave';
+        wavebuffsDiv.className = 'wavebuffs';
 
-       
-        
-        if (wave.Monsters && wave.Monsters.length > 0) {
-          wave.Monsters.forEach(monster => {
-            const monsterDiv = document.createElement('div');
-            monsterDiv.className = 'monster';
-            let htmlContent =`
-              <img class="bossimg" src="${monster.imgPath}" width="50" />
-              <p class="bosshp">${monster.HP}</p>
-              <p class="bossres">Resist: ${monster.Resist}</p>
-                 
-            `;
-            if (monster.Mechs != "") {
-                    if(Lang == "en")
-                        htmlContent += `<button onclick="openMechs(${m}, '${monster.Number}')">Mechanics</button><div class="mechs"></div>`;
-                    else
-                        htmlContent += `<button onclick="openMechs(${m}, '${monster.Number}')">Механики</button><div class="mechs"></div>`;
-                    m++;
-                }
-            monsterDiv.innerHTML = htmlContent;
-            waveDiv.appendChild(monsterDiv);
-          });
-        }
-        wavebuffsDiv.appendChild(waveDiv);       
-      });
-      
-      const buffsDiv = document.createElement('div');
-      buffsDiv.className = 'buffs';
-  
-        floor.BuffsVisible.forEach(buff=>{
-            const buffDiv = document.createElement('div');
-                buffDiv.className = 'buff';
-                let htmlContent = `<p class="buffname">${buff.RuName}</p>`;
-                htmlContent += `<img src="${buff.imgPath}" width="50" />`;
+        this.waves.forEach(wave => {
+            wavebuffsDiv.appendChild(wave.getDiv());
+        });
 
-                if (buff.Description != null) {
-                    htmlContent += `<p>${buff.Description}</p>`;
-                }
-               
-
-                buffDiv.innerHTML = htmlContent;
-            buffsDiv.appendChild(buffDiv);
+        const buffsDiv = document.createElement('div');
+        buffsDiv.className = 'buffs';
+        this.buffsVisible.forEach(buff =>{
+            buffsDiv.appendChild(buff.getDiv());
         })
         wavebuffsDiv.appendChild(buffsDiv);
         floorDiv.appendChild(wavebuffsDiv);
-        container.innerHTML = "";
         container.appendChild(floorDiv);
+    }
+}
+
+class Wave
+{
+    constructor(codename) {
+        this.codename = codename;
+        this.monsters = [];
+    }
+    getDiv()
+    {
+        const waveDiv = document.createElement('div');
+        waveDiv.className = 'wave';
+        
+        if (this.monsters && this.monsters.length > 0) {
+            this.monsters.forEach(monster => {
+                waveDiv.appendChild(monster.getDiv());
+            });
+        }
+        return waveDiv;
+    }
+}
+
+class Buff
+{
+    constructor(codename, name, description, imgPath) {
+        this.codename = codename;
+        this.name = name;
+        this.description = description;
+        this.imgPath = imgPath;
+    }
+    getDiv(){
+        const buffDiv = document.createElement('div');
+        buffDiv.className = 'buff';
+        let htmlContent = `<p class="buffname">${this.name}</p>`;
+        htmlContent += `<img src="${this.imgPath}" width="50" />`;
+
+        if (this.description != null) {
+            htmlContent += `<p>${this.description}</p>`;
+        }
+        buffDiv.innerHTML = htmlContent;
+        return(buffDiv);
+    }   
+}
+
+class Monster
+{
+    hp;
+    eresist;
+    resist;
+
+    constructor(codename, number, name, imgPath, Mclass, mechs) {
+        this.codename = codename;
+        this.number = number;
+        this.name = name;
+        this.imgPath = imgPath;
+        this.Mclass = Mclass;
+        this.mechs = mechs;
+    }
+    getDiv(){
+        const monsterDiv = document.createElement('div');
+            monsterDiv.className = `monster ${this.number}`;
+            let htmlContent =`
+              <img class="bossimg" src="${this.imgPath}" width="50" />
+              <p class="bosshp">${this.hp}</p>
+              <p class="bossres">Resist: ${this.resist}</p>
+            `;
+            if (this.mechs) {
+                if(Lang == "en")
+                    htmlContent += `<button onclick="openMechs('${this.number}')">Mechanics</button><div class="mechs"></div>`;
+                else
+                    htmlContent += `<button onclick="openMechs('${this.number}')">Механики</button><div class="mechs"></div>`;
+                monstermechIndex++;
+            }
+            monsterDiv.innerHTML = htmlContent;
+        return monsterDiv;
+    }
+}
+
+loadAllData("en", "Global");
+
+function loadAllData(lang, mode)
+{
+    Lang = lang;
+    loadData(lang, mode);
+}
+
+let borderWarSeasonDataTable;
+let seasons;
+let monsters;
+let monsterData;
+let buffs;
+let seasons1;
+
+let lastSeason;
+let mechsboss;
+
+let openMechanics = [];
+
+
+
+
+async function loadData(lang, mode) 
+{
+    showLoader();
+    try {
+        const response = await fetch(`${mode}/BorderWarSeasonDataTable.json`);
+        borderWarSeasonDataTable = await response.json();
+        const response2 = await fetch(`${mode}/OriginWarRoundConfigDataTable.json`);
+        seasons = await response2.json();
+        const response3 = await fetch(`${mode}/OriginWarMonsterPoolDataTable.json`);
+        monsters = await response3.json();
+        const response4 = await fetch(`${mode}/DT_MonsterStaticData.json`);
+        monsterData = await response4.json();
+        const response5 = await fetch(`${mode}/GameplayEffectTipsDataTable.json`);
+        buffs = await response5.json();
+        const response6 = await fetch(`Global-5.0/BorderWarSeasonDataTable.json`);
+        seasons1 = await response6.json();
+
+        const seasonId = getSeasonId();
+
+        lastSeason = new Season(seasonId-1);
+        getSeasonInfo(seasonId);
+
+        lastSeason.createDiv();
+
+        await loadlanguage(lang);
+
+    } catch (error) {
+        console.error('Ошибка загрузки данных:', error);
+    }
+    finally {
+        hideLoader();
+    }
+}
+
+function getSeasonId()
+{
+    const originSeasonIDs = [];
+    seasons.forEach(item => {
+        for (let key of Object.keys(item.Rows)) {
+            const row = item.Rows[key];
+            if (row.OriginSeasonID !== undefined) {
+                originSeasonIDs.push(row.OriginSeasonID);
+            }
+        }
+    });
+    const uniqueIDs = Array.from(new Set(originSeasonIDs));
+    uniqueIDs.sort((a, b) => b - a);
+
+    const lastseasons = uniqueIDs.slice(0, 1);
+
+    console.log('Последние 3 OriginSeasonID:', lastseasons);
+    return lastseasons[0];
+}
+
+function getSeasonInfo(seasonId){
+    let i = 10;
+    seasons.forEach(item => {
+        for (let key of Object.keys(item.Rows)) {
+            const row = item.Rows[key];
+            if (row.OriginSeasonID !== undefined) {
+                floorid = row.WaveMonsterPool[0].split('_')[1].replace("f","");
+                if(row.OriginSeasonID == seasonId && floorid>=10)
+                {
+                    if(!lastSeason.floors[i])
+                    {
+                        lastSeason.floors[i] = new Floor(floorid);
+                        wave = new Wave(row.WaveMonsterPool[0]);
+                        lastSeason.floors[i].waves.push(wave)
+                        getFloorInfo(row.WaveMonsterPool[0], wave);
+
+                        row.ShowBuffs.forEach(buff=>{
+
+                            parts = buff.AssetPathName.split("/");
+                            const lastSegment = parts[parts.length - 1];
+
+                            codename = lastSegment.split(".")[0];
+                            if (codename == "buff_War_HealPro_Level1")
+                                codename = "Buff_War_HealDown";
+
+                            getBuffInfo(codename, lastSeason.floors[i].buffsVisible);
+                        })
+                    }
+                    i++;
+                }
+            }
+        }
+    });
+}
+
+function getFloorInfo(codename, wave){
+    monsters.forEach(item => {
+        for (let key of Object.keys(item.Rows)) {
+            if(key == codename)
+            {
+                const row = item.Rows[key];
+                row.PoolMonsters.forEach(monster=> {
+                    if(row.MonsterType != "BS_MONSTER_NORMAL")
+                    {
+                        AssetPathName = monster.MonsterClass.AssetPathName;
+                        if(!AssetPathName.includes("OriginWarMonster/Elite/"))
+                        {
+                            mechs = false;
+                            if(AssetPathName.includes("_EX"))
+                                mechs = true;
+                            let partFromZero;
+                            const startIndex = AssetPathName.indexOf('_0') + 1;
+                            const monsterNumber = AssetPathName.substring(startIndex, startIndex + 3);
+
+                            Mclass = "normal";
+                            if(row.MonsterType == "BS_MONSTER_BOSS")
+                                Mclass = "boss";
+                            if(row.MonsterType == "BS_MONSTER_ELITE")
+                                Mclass = "elite";
+
+                            monster1 = new Monster(monster.AttributeID, monsterNumber, "", `monster/Boss_hum_${monsterNumber}.png`, Mclass, mechs);
+                            getMonsterData(monster1);
+                            wave.monsters.push(monster1);
+                        }
+
+                    }
+                });                
+            }
+        }
+    });
+}
+
+function getMonsterData(monster) {
+    monsterData.forEach(item => {
+        for (let key of Object.keys(item.Rows)) {
+            if(key == monster.codename)
+            {
+                const row = item.Rows[key];
+                monster.hp = addThousandSeparators(row.MaxHealth);
+                monster.eresist = addThousandSeparators(row.PhyDefBase);
+                monster.resist = addThousandSeparators(row.ArmorBase);
+            }
+        }
+    });
+}
+
+function addThousandSeparators(number) {
+  const numStr = number.toString();
+
+  return numStr.replace(/\B(?=(\d{3})+(?!\d))/g, '.');
+}
+
+function getBuffInfo(buffname, buffsDrop){
+    buffs.forEach(item => {
+        for (let key of Object.keys(item.Rows)) {
+            if(key.includes(buffname))
+            {
+                const row = item.Rows[key];
+
+                parts = row.Icon.AssetPathName.split("/");
+                const lastSegment = parts[parts.length - 1];
+
+                let buff = new Buff(buffname, "", "", `buffs2/${lastSegment.split(".")[0]}.png`);
+
+                buffsDrop.push(buff);
+
+            }           
+
+        }
+    })
+}
+
+function loadFloor(seasonId, id){
+    lastSeason.floors.forEach(floor => {
+        if(floor.number == id)
+        {
+            floor.createDiv(seasonId, id);
+            selectedFloor = floor;
+        }
 
     });
 };
-});
-}
 
-function renderData() {
-  const container = document.getElementById('container');
-  container.innerHTML = "";
-  data.forEach(season => {
-    const seasonDiv = document.createElement('div');
-    seasonDiv.className = 'season';
-    seasonDiv.innerHTML = `<h3 style="text-align: center;">${season.SeasonName}</h2>`;
-    //seasonDiv.innerHTML = `<h2>SeasonId: ${season.SeasonId}</h2>`;
-    let i = 0;
-    let m = 0;
-    season.Floors.forEach(floor => {
-       if (floor.Number < 10)
-        {
-            return;
-        }
-        const floorDiv = document.createElement('div');
-        
-        floorDiv.className = 'floor';
-    //   floorDiv.innerHTML = `<h3>Floor ${floor.Number} (Id: ${floor.Id})</h3>`;
-        if(Lang == "en")
-            floorDiv.innerHTML = `<h3 onclick="loadFloor(${season.SeasonId}, ${floor.Number})">Floor ${floor.Number}</h3>`;
+async function loadlanguage(lang) {
+    try {
+        let response;
+        if(lang == "ru")
+            response = await fetch(`Global/Game_${lang}_origin.json`);
         else
-            floorDiv.innerHTML = `<h3 onclick="loadFloor(${season.SeasonId}, ${floor.Number})">Этаж ${floor.Number}</h3>`;
-        const wavebuffsDiv = document.createElement('div');
-            wavebuffsDiv.className = 'wavebuffs';
-        i++;
-            floor.Waves.forEach(wave => {
-            const waveDiv = document.createElement('div');
-            waveDiv.className = 'wave';
-            // waveDiv.innerHTML = `<h4>Wave ${wave.CodeName} (Id: ${wave.Id})</h4>`;
+            response = await fetch(`Global/Game_${lang}.json`);
+        languagejson = await response.json();
+
+
+        lastSeason.floors.forEach(floor => {
+            for (const buff of floor.buffsVisible) {
+                if(buff.codename == "Buff_War_HealDown" || buff.codename == "Buff_War_Disturb")
+                    buff.name = findValueByKey(languagejson, `${buff.codename}`);
+                else
+                    buff.name = findValueByKey(languagejson, `${buff.codename}_name`);
+                buff.description = findValueByKey(languagejson, `${buff.codename}_des`);
+            }
         });
-        seasonDiv.appendChild(floorDiv);
-    
-        container.appendChild(seasonDiv);
-        });
-    });
+        container.innerHTML = "";
+        lastSeason.createDiv();
+        if(selectedFloor)
+            loadFloor(selectedFloor.number, selectedFloor.number);
+        if(openMechanics && openMechanics[0])
+            for(i=0;i<openMechanics.length;i++){
+                openMech(openMechanics[i]);
+            }
+
+    } catch (error) {
+        console.error('Ошибка загрузки данных:', error);
+    }
 }
 
-function getMechs(id, block){
-  mechdata.forEach(item => {
-    item.Bosses.forEach(boss => {
-        if(boss.CodeName == id)
-        {
-            const bossDiv = document.createElement('div');
-            bossDiv.className = 'boss';
+function findValueByKey(obj, targetKey) {
+  if (typeof obj !== 'object' || obj === null) {
+    return null;
+  }
 
-            // Механики
-            const mechList = document.createElement('ul');
-            boss.Mechs.forEach(mech => {
-                const li = document.createElement('li');
-                li.className = 'mech';
-                li.textContent = mech.Mechanic;
-                mechList.appendChild(li);
-            });
-            bossDiv.appendChild(mechList);
-            block.innerHTML = "";
-            block.appendChild(bossDiv);
-        }       
-    })
+  for (const key in obj) {
+    if (key.toLocaleLowerCase() === targetKey.toLocaleLowerCase()) {
+      return obj[key];
+    }
+    const nestedResult = findValueByKey(obj[key], targetKey);
+    if (nestedResult !== null) {
+      return nestedResult;
+    }
+  }
+  return null;
+}
+
+function openMechs(id){
+    if(!openMechanics.includes(id))
+        openMechanics.push(id);
+    const monsters = document.querySelectorAll('.monster');
+    for (let i = 0; i < monsters.length; i++) {
+        const monster = monsters[i];
+        if (monster.classList.contains(id)) {
+            const mechsDiv = monster.querySelector('.mechs');
+            getMechs(id, mechsDiv);
+            $('.mechs').stop(true, true).slideToggle(400);
+        }
+    }
+}
+
+class EvoBoss
+{
+    mechanics = [];
+    constructor(codename, name, imgPath)
+    {
+        this.codeName = codename;
+        this.name = name;
+        this.imgPath = imgPath;
+        this.damageTypes = [];
+    }
+    print(){
+        console.log(`${this.codeName} ${this.name} ${this.imgPath}`);
+    }
+    createDivMechs(div){
+        const mechList = document.createElement('ul');
+        for (let i = 0; i < this.mechanics.length; i++) {
+            mechanic = this.mechanics[i];
+            const li = document.createElement('li');
+            li.className = 'mech';
+            li.textContent = mechanic.mech;
+            mechList.appendChild(li);
+        };
+        div.appendChild(mechList);
+    }
+}
+
+class Mechanics{
+  constructor(codename, mech) {
+    this.codename = codename;
+    this.mech = mech;
+  }
+}
+
+
+function getMechs(id, div){
+    showLoader();
+    try {
+        div.innerHTML="";
+        selectedBoss = id;
+        let j = 1;
+        getBoss(id);
+        for (let i = 0; i < mechsboss.mechanics.length; i++) {
+            mechanic = mechsboss.mechanics[i];
+            if(mechsboss.codename == "064" && lang == "en")
+                mechanic.mech= `${j}) ${findValueByKey(languagejson, mechanic.codename.replace("64","064"))}`;
+            else
+                mechanic.mech= `${j}) ${findValueByKey(languagejson, mechanic.codename)}`;
+        j++;
+        }
+
+        mechsboss.createDivMechs(div);
+    } catch (error) {
+        console.error('Ошибка загрузки данных:', error);
+    }
+    finally {
+        hideLoader();
+    }
+}
+
+function getBoss(id) {
+  let codename;
+  let boss1;
+
+  for (const item of seasons1) {
+    for (const key of Object.keys(item.Rows)) {
+      for (const allbosses of item.Rows[key].BorderWarAllBossList) {
+        for (const boss of allbosses.AllChallengeWaves) {
+          if (boss.BossSkillInfo[0]) {
+            codename = removeSubstrings(boss.AttributeID.toLowerCase(), replaceHum);
+            if (codename == "bjzq") codename = "032";
+            if (codename == "64") codename = "064";
+
+            if(codename == id)
+            {
+                if(mechsboss == undefined)
+                {
+                    mechsboss = new EvoBoss(codename, "", `monster/Boss_hum_${codename}.png`);
+                    mechanic = new Mechanics(boss.BossSkillInfo[0].SkillDec.Key, "");
+                    mechsboss.mechanics.push(mechanic);
+                }
+
+                const mechindex = mechsboss.mechanics.findIndex(i => i.codename == boss.BossSkillInfo[0].SkillDec.Key);
+                if (mechindex == -1)
+                {
+                    mechanic = new Mechanics(boss.BossSkillInfo[0].SkillDec.Key, "");
+                    mechsboss.mechanics.push(mechanic);
+                }
+            }
+          }
+        }
+      }
+    }
+  }
+  return null;
+}
+
+const replaceHum = ["boss_hum_", "boss_", "_1", "_2", "_3", "_4", "_5", "_02", "_03", "_04", "_05"];
+
+function removeSubstrings(str, substrings) {
+  let result = str;
+  substrings.forEach(sub => {
+    const regex = new RegExp(sub, 'g');
+    result = result.replace(regex, '');
   });
+  return result;
 }
 
 </script>
