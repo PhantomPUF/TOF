@@ -59019,6 +59019,3244 @@
         "RoundHelpPoint": 320,
         "RoundRegressionHelpPoint": 128,
         "RoundRegressionHelpPointLitter": 64
+      },
+      "461": {
+        "OriginSeasonID": "19",
+        "OriginRound": 1,
+        "WaveMonsterPool": [
+          "s19_f1_w1",
+          "s19_f1_w2",
+          "s19_f1_w3"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_1"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_1"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_1"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_1"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_JF"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/IceDam/buff_Origin_IceDam_Level1.buff_Origin_IceDam_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/AtkFire/buff_Origin_AtkFire_Level1.buff_Origin_AtkFire_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_PhyDMGUpForThunderIce.Buff_Origin_PhyDMGUpForThunderIce_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Wind/buff_War_PeriodWind_Level1.buff_War_PeriodWind_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_IceDam_Level1",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_Origin_AtkFire_Level1",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_Origin_PhyDMGUpForThunderIce",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv1_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv1_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/MonWind/Buff_war_IgnoreImmuneAniState.Buff_war_IgnoreImmuneAniState_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 100,
+        "RoundRegressionHelpPoint": 40,
+        "RoundRegressionHelpPointLitter": 20
+      },
+      "462": {
+        "OriginSeasonID": "19",
+        "OriginRound": 2,
+        "WaveMonsterPool": [
+          "s19_f2_w1",
+          "s19_f2_w2",
+          "s19_f2_w3"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_2"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_2"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_2"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_2"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/PhyDam/buff_Origin_PhyDam_Level1.buff_Origin_PhyDam_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/FanShang/Buff_War_FanShang_Level1.Buff_War_FanShang_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_FireDMGUpForThunderIce.Buff_Origin_FireDMGUpForThunderIce_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_PhyDam_Level1",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "Buff_War_HealUp_Level1",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "Buff_War_FanShang_Level1",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "Buff_Origin_FireDMGUpForThunderIce",
+            "DropWight": 2500
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv2_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv2_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 100,
+        "RoundRegressionHelpPoint": 40,
+        "RoundRegressionHelpPointLitter": 20
+      },
+      "463": {
+        "OriginSeasonID": "19",
+        "OriginRound": 3,
+        "WaveMonsterPool": [
+          "s19_f3_w1",
+          "s19_f3_w2",
+          "s19_f3_w3"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_3"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_3"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_3"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_3"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_ZRZD"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/FireDam/buff_Origin_FireDam_Level1.buff_Origin_FireDam_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/AtkIce/buff_Origin_AtkIce_Level1.buff_Origin_AtkIce_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_IceDMGUpForPhysicFlame.Buff_Origin_IceDMGUpForPhysicFlame_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/ZhuoShao/buff_War_MonAddZhuoShao_Level1.buff_War_MonAddZhuoShao_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_FireDam_Level1",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_Origin_AtkIce_Level1",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_Origin_IceDMGUpForPhysicFlame",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv3_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv3_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/ZhuoShao/buff_PeriodAddFire_Damage.buff_PeriodAddFire_Damage_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 100,
+        "RoundRegressionHelpPoint": 40,
+        "RoundRegressionHelpPointLitter": 20
+      },
+      "464": {
+        "OriginSeasonID": "19",
+        "OriginRound": 4,
+        "WaveMonsterPool": [
+          "s19_f4_w1",
+          "s19_f4_w2",
+          "s19_f4_w3"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_4"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_4"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_4"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_4"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/ThuDam/buff_Origin_ThuDam_Level1.buff_Origin_ThuDam_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/AtkThu/buff_Origin_AtkThu_Level1.buff_Origin_AtkThu_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/ChenZhong/buff_War_ChenZhong_Level1.buff_War_ChenZhong_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_ThuDMGUpForPhysicFlame.Buff_Origin_ThuDMGUpForPhysicFlame_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_ThuDam_Level1",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "buff_Origin_AtkThu_Level1",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "buff_War_ChenZhong_Level1",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "Buff_Origin_ThuDMGUpForPhysicFlame",
+            "DropWight": 2500
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv4_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv4_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 100,
+        "RoundRegressionHelpPoint": 40,
+        "RoundRegressionHelpPointLitter": 20
+      },
+      "465": {
+        "OriginSeasonID": "19",
+        "OriginRound": 5,
+        "WaveMonsterPool": [
+          "s19_f5_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_5"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_5"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_5"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_5"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_BIGJF"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/IceDam/buff_Origin_IceDam_Level2.buff_Origin_IceDam_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/AtkPhy/buff_Origin_AtkPhy_Level1.buff_Origin_AtkPhy_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Wind/buff_War_PeriodWind_Level2.buff_War_PeriodWind_Level2_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_IceDam_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_Origin_AtkPhy_Level1",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_RecoveryHp_Level1",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv5_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv5_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/MonWind/Buff_war_IgnoreImmuneAniState.Buff_war_IgnoreImmuneAniState_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 120,
+        "RoundRegressionHelpPoint": 48,
+        "RoundRegressionHelpPointLitter": 24
+      },
+      "466": {
+        "OriginSeasonID": "19",
+        "OriginRound": 6,
+        "WaveMonsterPool": [
+          "s19_f6_w1",
+          "s19_f6_w2",
+          "s19_f6_w3"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_6"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_6"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_6"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_6"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_JZL"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/PhyDam/buff_Origin_PhyDam_Level2.buff_Origin_PhyDam_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/buff_War_HealPro_Level1.buff_War_HealPro_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_PhyDam_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_Atk_Level1",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_Origin_MakeTargetDMGDown",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv6_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv6_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_HealDown.Buff_War_HealDown_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 120,
+        "RoundRegressionHelpPoint": 48,
+        "RoundRegressionHelpPointLitter": 24
+      },
+      "467": {
+        "OriginSeasonID": "19",
+        "OriginRound": 7,
+        "WaveMonsterPool": [
+          "s19_f7_w1",
+          "s19_f7_w2",
+          "s19_f7_w3"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_7"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_7"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_7"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_7"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/FireDam/buff_Origin_FireDam_Level2.buff_Origin_FireDam_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/AtkSuper/buff_Origin_AtkSuper_Level1.buff_Origin_AtkSuper_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/BlackHole/Buff_War_CreateBlackHole_Level1.Buff_War_CreateBlackHole_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1.buff_Origin_BeDamDown_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_FireDam_Level2",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "buff_Origin_AtkSuper_Level1",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "Buff_War_CreateBlackHole_Level1",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "buff_Origin_BeDamDown_Level1",
+            "DropWight": 2500
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv7_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv7_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 140,
+        "RoundRegressionHelpPoint": 56,
+        "RoundRegressionHelpPointLitter": 28
+      },
+      "468": {
+        "OriginSeasonID": "19",
+        "OriginRound": 8,
+        "WaveMonsterPool": [
+          "s19_f8_w1",
+          "s19_f8_w2",
+          "s19_f8_w3"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_8"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_8"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_8"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_8"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/ThuDam/buff_Origin_ThuDam_Level2.buff_Origin_ThuDam_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/AtkFire/buff_Origin_AtkFire_Level2.buff_Origin_AtkFire_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_IronMan_Level1.buff_War_IronMan_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_ThuDam_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_Origin_AtkFire_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_IronMan_Level1",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv8_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv8_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 140,
+        "RoundRegressionHelpPoint": 56,
+        "RoundRegressionHelpPointLitter": 28
+      },
+      "469": {
+        "OriginSeasonID": "19",
+        "OriginRound": 9,
+        "WaveMonsterPool": [
+          "s19_f9_w1",
+          "s19_f9_w2",
+          "s19_f9_w3"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_9"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_9"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_9"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_9"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_BIGJF"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/IceDam/buff_Origin_IceDam_Level3.buff_Origin_IceDam_Level3_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/AtkIce/buff_Origin_AtkIce_Level2.buff_Origin_AtkIce_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/Buff_War_JinJI_Level1.Buff_War_JinJI_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Wind/buff_War_PeriodWind_Level2.buff_War_PeriodWind_Level2_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_IceDam_Level3",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_Origin_AtkIce_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_War_JinJI_Level1",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv9_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv9_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/MonWind/Buff_war_IgnoreImmuneAniState.Buff_war_IgnoreImmuneAniState_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 160,
+        "RoundRegressionHelpPoint": 64,
+        "RoundRegressionHelpPointLitter": 32
+      },
+      "470": {
+        "OriginSeasonID": "19",
+        "OriginRound": 10,
+        "WaveMonsterPool": [
+          "s19_f10_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_10"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_10"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_10"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_10"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/PhyDam/buff_Origin_PhyDam_Level3.buff_Origin_PhyDam_Level3_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/AtkThu/buff_Origin_AtkThu_Level2.buff_Origin_AtkThu_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/JinZu/Buff_JinZu_Level1.Buff_JinZu_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_BeDMGDownAndTaunt.Buff_Origin_BeDMGDownAndTaunt_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_PhyDam_Level3",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "buff_Origin_AtkThu_Level2",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "Buff_JinZu_Level1",
+            "DropWight": 2500
+          },
+          {
+            "BuffPoolID": "Buff_Origin_BeDMGDownAndTaunt",
+            "DropWight": 2500
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv10_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv10_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 160,
+        "RoundRegressionHelpPoint": 64,
+        "RoundRegressionHelpPointLitter": 32
+      },
+      "471": {
+        "OriginSeasonID": "19",
+        "OriginRound": 11,
+        "WaveMonsterPool": [
+          "s19_f11_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_11"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_11"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_11"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_11"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_BIGJF"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/FireDam/buff_Origin_FireDam_Level3.buff_Origin_FireDam_Level3_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level2.Buff_War_HealUp_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level2.buff_War_RecoveryHp_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Wind/buff_War_PeriodWind_Level2.buff_War_PeriodWind_Level2_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_FireDam_Level3",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_War_HealUp_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_RecoveryHp_Level2",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv11_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv11_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/MonWind/Buff_war_IgnoreImmuneAniState.Buff_war_IgnoreImmuneAniState_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 180,
+        "RoundRegressionHelpPoint": 72,
+        "RoundRegressionHelpPointLitter": 36
+      },
+      "472": {
+        "OriginSeasonID": "19",
+        "OriginRound": 12,
+        "WaveMonsterPool": [
+          "s19_f12_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_12"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_12"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_12"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_12"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_KBZD"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/ThuDam/buff_Origin_ThuDam_Level3.buff_Origin_ThuDam_Level3_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/AtkPhy/buff_Origin_AtkPhy_Level2.buff_Origin_AtkPhy_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/Halo/Buff_War_Halo.Buff_War_Halo_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/buff_War_FearLand_Level1.buff_War_FearLand_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_ThuDam_Level3",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_Origin_AtkPhy_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_War_Halo",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv12_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv12_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 180,
+        "RoundRegressionHelpPoint": 72,
+        "RoundRegressionHelpPointLitter": 36
+      },
+      "473": {
+        "OriginSeasonID": "19",
+        "OriginRound": 13,
+        "WaveMonsterPool": [
+          "s19_f13_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_13"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_13"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_13"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_13"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_JZL"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/IceDam/buff_Origin_IceDam_Level4.buff_Origin_IceDam_Level4_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/AtkSuper/buff_Origin_AtkSuper_Level2.buff_Origin_AtkSuper_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/buff_War_HealPro_Level1.buff_War_HealPro_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_IceDam_Level4",
+            "DropWight": 5000
+          },
+          {
+            "BuffPoolID": "buff_Origin_AtkSuper_Level2",
+            "DropWight": 5000
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv13_d1"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv13_d1"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_HealDown.Buff_War_HealDown_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 200,
+        "RoundRegressionHelpPoint": 80,
+        "RoundRegressionHelpPointLitter": 40
+      },
+      "474": {
+        "OriginSeasonID": "19",
+        "OriginRound": 14,
+        "WaveMonsterPool": [
+          "s19_f14_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_14"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_14"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_14"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_14"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_BIGJF"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/PhyDam/buff_Origin_PhyDam_Level4.buff_Origin_PhyDam_Level4_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Level/LJY/OriginWar/Buff_OriginWar_ExactHitCritUp_L1.Buff_OriginWar_ExactHitCritUp_L1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Wind/buff_War_PeriodWind_Level2.buff_War_PeriodWind_Level2_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_PhyDam_Level4",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_OriginWar_ExactHitCritUp_L1",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_RecoveryHp_Level1",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv14_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv14_d2"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv14_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv14_d2"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/MonWind/Buff_war_IgnoreImmuneAniState.Buff_war_IgnoreImmuneAniState_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 200,
+        "RoundRegressionHelpPoint": 80,
+        "RoundRegressionHelpPointLitter": 40
+      },
+      "475": {
+        "OriginSeasonID": "19",
+        "OriginRound": 15,
+        "WaveMonsterPool": [
+          "s19_f15_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_15"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_15"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_15"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_15"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_KBZD"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/FireDam/buff_Origin_FireDam_Level4.buff_Origin_FireDam_Level4_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level2.buff_War_Atk_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/ImmuneDamCD/buff_War_ImmuneDamageCD_Level1.buff_War_ImmuneDamageCD_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/buff_War_FearLand_Level1.buff_War_FearLand_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_FireDam_Level4",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_Atk_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_ImmuneDamageCD_Level1",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv15_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv15_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv15_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv15_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv15_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv15_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 220,
+        "RoundRegressionHelpPoint": 88,
+        "RoundRegressionHelpPointLitter": 44
+      },
+      "476": {
+        "OriginSeasonID": "19",
+        "OriginRound": 16,
+        "WaveMonsterPool": [
+          "s19_f16_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_16"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_16"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_16"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_16"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/ThuDam/buff_Origin_ThuDam_Level4.buff_Origin_ThuDam_Level4_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level2.buff_Origin_BeDamDown_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_PhyDMGUpForThunderIce_Level2.Buff_Origin_PhyDMGUpForThunderIce_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_ThuDam_Level4",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_Origin_BeDamDown_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_Origin_PhyDMGUpForThunderIce_Level2",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv16_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv16_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv16_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv16_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv16_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv16_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 220,
+        "RoundRegressionHelpPoint": 88,
+        "RoundRegressionHelpPointLitter": 44
+      },
+      "477": {
+        "OriginSeasonID": "19",
+        "OriginRound": 17,
+        "WaveMonsterPool": [
+          "s19_f17_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_17"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_17"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_17"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_17"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_BIGJF"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/IceDam/buff_Origin_IceDam_Level5.buff_Origin_IceDam_Level5_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level3.Buff_War_HealUp_Level3_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_FireDMGUpForThunderIce_Level2.Buff_Origin_FireDMGUpForThunderIce_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Wind/buff_War_PeriodWind_Level2.buff_War_PeriodWind_Level2_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_IceDam_Level5",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_War_HealUp_Level3",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_Origin_FireDMGUpForThunderIce_Level2",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv17_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv17_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv17_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv17_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv17_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv17_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/MonWind/Buff_war_IgnoreImmuneAniState.Buff_war_IgnoreImmuneAniState_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 240,
+        "RoundRegressionHelpPoint": 96,
+        "RoundRegressionHelpPointLitter": 48
+      },
+      "478": {
+        "OriginSeasonID": "19",
+        "OriginRound": 18,
+        "WaveMonsterPool": [
+          "s19_f18_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_18"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_18"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_18"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_18"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_JZL"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/PhyDam/buff_Origin_PhyDam_Level5.buff_Origin_PhyDam_Level5_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_IceDMGUpForPhysicFlame_Level2.Buff_Origin_IceDMGUpForPhysicFlame_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/buff_War_HealPro_Level1.buff_War_HealPro_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_PhyDam_Level5",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_Origin_IceDMGUpForPhysicFlame_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_RecoveryHp_Level1",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv18_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv18_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv18_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv18_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv18_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv18_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_HealDown.Buff_War_HealDown_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 240,
+        "RoundRegressionHelpPoint": 96,
+        "RoundRegressionHelpPointLitter": 48
+      },
+      "479": {
+        "OriginSeasonID": "19",
+        "OriginRound": 19,
+        "WaveMonsterPool": [
+          "s19_f19_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_19"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_19"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_19"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_19"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_KBZD"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/FireDam/buff_Origin_FireDam_Level5.buff_Origin_FireDam_Level5_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Level/LJY/OriginWar/Buff_OriginWar_ExactHitCritUp_L2.Buff_OriginWar_ExactHitCritUp_L2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_ThuDMGUpForPhysicFlame_Level2.Buff_Origin_ThuDMGUpForPhysicFlame_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/buff_War_FearLand_Level1.buff_War_FearLand_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_FireDam_Level5",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_OriginWar_ExactHitCritUp_L2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_Origin_ThuDMGUpForPhysicFlame_Level2",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv19_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv19_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv19_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv19_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv19_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv19_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 260,
+        "RoundRegressionHelpPoint": 104,
+        "RoundRegressionHelpPointLitter": 52
+      },
+      "480": {
+        "OriginSeasonID": "19",
+        "OriginRound": 20,
+        "WaveMonsterPool": [
+          "s19_f20_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_20"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_20"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_20"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_20"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_JZL"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/ThuDam/buff_Origin_ThuDam_Level5.buff_Origin_ThuDam_Level5_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_Break.buff_Origin_Break_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/buff_War_HealPro_Level1.buff_War_HealPro_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_Origin_ThuDam_Level5",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_Origin_Break",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_RecoveryHp_Level1",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv20_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv20_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv20_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv20_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv20_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv20_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_HealDown.Buff_War_HealDown_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 260,
+        "RoundRegressionHelpPoint": 104,
+        "RoundRegressionHelpPointLitter": 52
+      },
+      "481": {
+        "OriginSeasonID": "19",
+        "OriginRound": 21,
+        "WaveMonsterPool": [
+          "s19_f21_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_21"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_21"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_21"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_21"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_IceDamage_Level2.buff_War_IceDamage_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/TeamAssist/buff_TeamAssist_level1.buff_TeamAssist_level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_BeDMGDownAndTaunt_Level2.Buff_Origin_BeDMGDownAndTaunt_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_War_IceDamage_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_TeamAssist_level1",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_Origin_BeDMGDownAndTaunt_Level2",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv21_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv21_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv21_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv21_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv21_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv21_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 280,
+        "RoundRegressionHelpPoint": 112,
+        "RoundRegressionHelpPointLitter": 56
+      },
+      "482": {
+        "OriginSeasonID": "19",
+        "OriginRound": 22,
+        "WaveMonsterPool": [
+          "s19_f22_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_22"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_22"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_22"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_22"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_KBZD"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_PhyDamage_Level2.buff_War_PhyDamage_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level3.buff_War_Atk_Level3_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown_Level2.Buff_Origin_MakeTargetDMGDown_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/buff_War_FearLand_Level1.buff_War_FearLand_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_War_PhyDamage_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_Atk_Level3",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_Origin_MakeTargetDMGDown_Level2",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv22_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv22_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv22_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv22_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv22_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv22_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 280,
+        "RoundRegressionHelpPoint": 112,
+        "RoundRegressionHelpPointLitter": 56
+      },
+      "483": {
+        "OriginSeasonID": "19",
+        "OriginRound": 23,
+        "WaveMonsterPool": [
+          "s19_f23_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_23"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_23"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_23"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_23"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_JZL"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ThunderDamage_Level2.buff_War_ThunderDamage_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/TeamAssist/buff_TeamAssist_level2.buff_TeamAssist_level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/buff_War_HealPro_Level1.buff_War_HealPro_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_War_ThunderDamage_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_TeamAssist_level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_RecoveryHp_Level1",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv23_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv23_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv23_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv23_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv23_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv23_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_HealDown.Buff_War_HealDown_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 300,
+        "RoundRegressionHelpPoint": 120,
+        "RoundRegressionHelpPointLitter": 60
+      },
+      "484": {
+        "OriginSeasonID": "19",
+        "OriginRound": 24,
+        "WaveMonsterPool": [
+          "s19_f24_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_24"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_24"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_24"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_24"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_BIGJF"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_FireDamage_Level2.buff_War_FireDamage_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Level/LJY/OriginWar/Buff_OriginWar_ExactHitCritUp_L3.Buff_OriginWar_ExactHitCritUp_L3_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/Halo/Buff_War_Halo.Buff_War_Halo_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Wind/buff_War_PeriodWind_Level2.buff_War_PeriodWind_Level2_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "buff_War_FireDamage_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_OriginWar_ExactHitCritUp_L3",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_War_Halo",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv24_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv24_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv24_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv24_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv24_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv24_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/MonWind/Buff_war_IgnoreImmuneAniState.Buff_war_IgnoreImmuneAniState_C",
+            "SubPathString": ""
+          }
+        ],
+        "RoundHelpPoint": 300,
+        "RoundRegressionHelpPoint": 120,
+        "RoundRegressionHelpPointLitter": 60
+      },
+      "485": {
+        "OriginSeasonID": "19",
+        "OriginRound": 25,
+        "WaveMonsterPool": [
+          "s19_f25_w1"
+        ],
+        "MonsterStrength": {
+          "CurveTable": {
+            "ObjectName": "CurveTable'OriginWarMonster'",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+          },
+          "RowName": "1_25"
+        },
+        "StrengthBuffs": [
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "2_25"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddAtk_Level1.Buff_War_AddAtk_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "4_25"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddHp_Level1.Buff_War_AddHp_Level1_C",
+              "SubPathString": ""
+            }
+          },
+          {
+            "SingleBuffStrength": {
+              "CurveTable": {
+                "ObjectName": "CurveTable'OriginWarMonster'",
+                "ObjectPath": "Hotta/Content/Resources/Abilities/DataTables/OriginWarMonster.0"
+              },
+              "RowName": "3_25"
+            },
+            "HasNewBieBuffStrength": {
+              "CurveTable": null,
+              "RowName": "None"
+            },
+            "SingleBuff": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_AddDef_Level1.Buff_War_AddDef_Level1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "SubLevelIDs": [
+          "OriginWar_CT_KBZD"
+        ],
+        "ShowBuffs": [
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/BlackHole/Buff_War_CreateBlackHole_Level1.Buff_War_CreateBlackHole_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown_Level2.Buff_Origin_MakeTargetDMGDown_Level2_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/buff_War_FearLand_Level1.buff_War_FearLand_Level1_C",
+            "SubPathString": ""
+          }
+        ],
+        "DropBuffs": [
+          {
+            "BuffPoolID": "Buff_War_CreateBlackHole_Level1",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "Buff_Origin_MakeTargetDMGDown_Level2",
+            "DropWight": 3334
+          },
+          {
+            "BuffPoolID": "buff_War_RecoveryHp_Level1",
+            "DropWight": 3334
+          }
+        ],
+        "MonsterWeakBuffs": [],
+        "RoundAwardId": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv25_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv25_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv25_d3"
+          }
+        ],
+        "RoundAwardIdReal": [
+          {
+            "Key": "100",
+            "Value": "drop_OriginWar_S8Lv25_d1"
+          },
+          {
+            "Key": "300",
+            "Value": "drop_OriginWar_S8Lv25_d2"
+          },
+          {
+            "Key": "600",
+            "Value": "drop_OriginWar_S8Lv25_d3"
+          }
+        ],
+        "SpecialDeleteBuffs": [],
+        "RoundHelpPoint": 320,
+        "RoundRegressionHelpPoint": 128,
+        "RoundRegressionHelpPointLitter": 64
       }
     }
   }

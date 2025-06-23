@@ -97644,7 +97644,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_015_EX.OriginWar_boss_015_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_057_Execute.OriginWar_boss_057_Execute_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99052,7 +99052,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_062_EX.OriginWar_boss_hum_062_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_019_EX.OriginWar_boss_hum_019_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99137,7 +99137,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_014_EX.OriginWar_boss_hum_014_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_073_EX.OriginWar_boss_hum_073_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99222,7 +99222,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_065_EX.OriginWar_boss_065_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_Boss_hum_069_EX.OriginWar_Boss_hum_069_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99307,7 +99307,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_036_EX.OriginWar_boss_hum_036_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_030_EX.OriginWar_boss_030_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99392,7 +99392,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_064.OriginWar_boss_064_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_037_EX.OriginWar_boss_hum_037_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99458,7 +99458,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_017_EX.OriginWar_boss_hum_017_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_002_EX.OriginWar_boss_002_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99489,7 +99489,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_030.OriginWar_boss_030_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_010.OriginWar_boss_010_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99555,7 +99555,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_015_EX.OriginWar_boss_015_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_073_EX.OriginWar_boss_hum_073_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99586,7 +99586,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_026.OriginWar_boss_026_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_020.OriginWar_boss_020_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99644,7 +99644,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_030_EX.OriginWar_boss_030_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_007_EX.OriginWar_boss_hum_007_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99671,7 +99671,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_047.OriginWar_boss_047_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_064.OriginWar_boss_064_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99729,7 +99729,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_046_EX.OriginWar_boss_hum_046_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_010_EX.OriginWar_boss_010_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99756,7 +99756,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_072.OriginWar_boss_072_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_032.OriginWar_boss_032_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99806,7 +99806,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_036_EX.OriginWar_boss_hum_036_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_065_EX.OriginWar_boss_065_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99829,7 +99829,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_042.OriginWar_boss_042_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_012.OriginWar_boss_012_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99887,7 +99887,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_002_EX.OriginWar_boss_002_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_017_EX.OriginWar_boss_hum_017_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99914,7 +99914,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_010.OriginWar_boss_010_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_030.OriginWar_boss_030_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -99988,7 +99988,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_073_EX.OriginWar_boss_hum_073_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_015_EX.OriginWar_boss_015_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -100023,7 +100023,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_020.OriginWar_boss_020_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_026.OriginWar_boss_026_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -100089,7 +100089,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_007_EX.OriginWar_boss_hum_007_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_012_EX.OriginWar_boss_012_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -100120,7 +100120,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_001.OriginWar_boss_001_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_047.OriginWar_boss_047_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -100186,7 +100186,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_010_EX.OriginWar_boss_010_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_046_EX.OriginWar_boss_hum_046_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -100217,7 +100217,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_032.OriginWar_boss_032_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_072.OriginWar_boss_072_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -100275,7 +100275,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_047_EX.OriginWar_boss_047_EX_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_020_EX.OriginWar_boss_hum_020_EX_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -100302,7 +100302,7 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_012.OriginWar_boss_012_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_042.OriginWar_boss_042_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -100376,7 +100376,7 @@
             ],
             "MonsterType": "BS_MONSTER_NORMAL",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_022.OriginWar_boss_022_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_020.OriginWar_boss_020_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
@@ -100411,7 +100411,3984 @@
             ],
             "MonsterType": "BS_MONSTER_BOSS",
             "MonsterClass": {
-              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_019.OriginWar_boss_019_C",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_001.OriginWar_boss_001_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f1_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f1_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_035.OriginWar_elite_hum_035_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f1_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_045A.OriginWar_elite_045A_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f1_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_018.OriginWar_elite_hum_018_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f1_w2": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f1_w2_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_035.OriginWar_elite_hum_035_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f1_w2_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_049_Elite_noboom.OriginWar_049_Elite_noboom_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f1_w2_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_018.OriginWar_elite_hum_018_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f1_w3": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f1_w3_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_035.OriginWar_elite_hum_035_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f1_w3_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_045A.OriginWar_elite_045A_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f1_w3_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_049_Elite_noboom_bai.OriginWar_049_Elite_noboom_bai_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f1_w3_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_106.OriginWar_elite_106_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f2_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_006_ice.OriginWar_elite_006_ice_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_045B.OriginWar_elite_045B_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_017Ice_Child.OriginWar_elite_hum_017Ice_Child_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f2_w2": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w2_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_006_ice.OriginWar_elite_006_ice_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w2_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_045B.OriginWar_elite_045B_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w2_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_017Ice_Child.OriginWar_elite_hum_017Ice_Child_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w2_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_007_saw.OriginWar_elite_hum_007_saw_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f2_w3": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w3_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_006_ice.OriginWar_elite_006_ice_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w3_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_045B.OriginWar_elite_045B_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w3_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_002_bow_Ice.OriginWar_elite_002_bow_Ice_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f2_w3_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level1.Buff_War_HealUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonFanShang/Buff_War_MonFanShang_Level1.Buff_War_MonFanShang_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_075.OriginWar_elite_075_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f3_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_033.OriginWar_elite_hum_033_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_036.OriginWar_elite_hum_036_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_012.OriginWar_elite_hum_012_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f3_w2": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w2_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_052.OriginWar_elite_hum_052_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w2_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_022.OriginWar_elite_hum_022_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w2_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_012.OriginWar_elite_hum_012_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w2_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_036.OriginWar_elite_hum_036_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f3_w3": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w3_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_052.OriginWar_elite_hum_052_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w3_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_012.OriginWar_elite_hum_012_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w3_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_036.OriginWar_elite_hum_036_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f3_w3_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_070.OriginWar_elite_070_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f4_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_003.OriginWar_elite_hum_003_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_034.OriginWar_elite_hum_034_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_053.OriginWar_elite_hum_053_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f4_w2": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w2_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_053.OriginWar_elite_hum_053_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w2_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_007.OriginWar_elite_hum_007_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w2_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_007_saw.OriginWar_elite_hum_007_saw_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w2_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_018.OriginWar_elite_hum_018_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f4_w3": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w3_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_003.OriginWar_elite_hum_003_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w3_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_053.OriginWar_elite_hum_053_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w3_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_018.OriginWar_elite_hum_018_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f4_w3_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_101_captain_Child.OriginWar_elite_101_captain_Child_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f5_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f5_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_002_bow_Ice.OriginWar_elite_002_bow_Ice_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f5_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_018.OriginWar_elite_hum_018_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f5_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_057_Execute.OriginWar_boss_057_Execute_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f6_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_063.OriginWar_elite_hum_063_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064.OriginWar_elite_064_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064_Big_kill2.OriginWar_elite_064_Big_kill2_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w1_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_002_bow_Ice.OriginWar_elite_002_bow_Ice_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f6_w2": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w2_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_063.OriginWar_elite_hum_063_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w2_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064.OriginWar_elite_064_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w2_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064.OriginWar_elite_064_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w2_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_002_bow_Ice.OriginWar_elite_002_bow_Ice_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f6_w3": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w3_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064.OriginWar_elite_064_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w3_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064.OriginWar_elite_064_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w3_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064_Big_kill2.OriginWar_elite_064_Big_kill2_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f6_w3_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level1.buff_War_Atk_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown.Buff_Origin_MakeTargetDMGDown_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_103.OriginWar_elite_103_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f7_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_087.OriginWar_elite_087_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_063.OriginWar_elite_hum_063_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_069.OriginWar_elite_069_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f7_w2": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w2_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_087.OriginWar_elite_087_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w2_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_063.OriginWar_elite_hum_063_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w2_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_069.OriginWar_elite_069_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w2_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_069_hei.OriginWar_elite_069_hei_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f7_w3": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w3_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_063.OriginWar_elite_hum_063_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w3_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_069.OriginWar_elite_069_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w3_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_069_hei.OriginWar_elite_069_hei_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f7_w3_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level1_Mon.buff_Origin_BeDamDown_Level1_Mon_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_070.OriginWar_elite_070_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f8_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_057.OriginWar_elite_hum_057_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_029.OriginWar_elite_hum_029_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_056.OriginWar_elite_056_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f8_w2": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w2_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_057.OriginWar_elite_hum_057_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w2_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_029.OriginWar_elite_hum_029_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w2_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_056.OriginWar_elite_056_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w2_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_046.OriginWar_elite_hum_046_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f8_w3": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w3_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_057.OriginWar_elite_hum_057_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w3_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_029.OriginWar_elite_hum_029_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w3_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_018.OriginWar_elite_hum_018_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f8_w3_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_100.OriginWar_elite_100_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f9_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_035.OriginWar_elite_hum_035_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_045A.OriginWar_elite_045A_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064.OriginWar_elite_064_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f9_w2": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w2_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_035.OriginWar_elite_hum_035_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w2_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_045A.OriginWar_elite_045A_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w2_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064.OriginWar_elite_064_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w2_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_087.OriginWar_elite_087_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f9_w3": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w3_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_087.OriginWar_elite_087_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w3_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_045B.OriginWar_elite_045B_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w3_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_087_chief_BigX3_KILL2.OriginWar_elite_087_chief_BigX3_KILL2_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f9_w3_4",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_106.OriginWar_elite_106_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f10_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f10_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonJinZu/Buff_MonJinZu_Level1.Buff_MonJinZu_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_BeDMGDownAndTaunt.Buff_Origin_BeDMGDownAndTaunt_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_087.OriginWar_elite_087_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f10_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonJinZu/Buff_MonJinZu_Level1.Buff_MonJinZu_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_BeDMGDownAndTaunt.Buff_Origin_BeDMGDownAndTaunt_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_063.OriginWar_elite_hum_063_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f10_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonJinZu/Buff_MonJinZu_Level1.Buff_MonJinZu_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_BeDMGDownAndTaunt.Buff_Origin_BeDMGDownAndTaunt_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_019_EX.OriginWar_boss_hum_019_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f11_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f11_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level2.buff_War_RecoveryHp_Level2_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_065_small.OriginWar_elite_065_small_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f11_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level2.buff_War_RecoveryHp_Level2_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_069.OriginWar_elite_069_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f11_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level2.buff_War_RecoveryHp_Level2_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_073_EX.OriginWar_boss_hum_073_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f12_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f12_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonHaLo/Buff_War_MonHalo.Buff_War_MonHalo_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_033.OriginWar_elite_hum_033_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f12_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonHaLo/Buff_War_MonHalo.Buff_War_MonHalo_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_036.OriginWar_elite_hum_036_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f12_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonHaLo/Buff_War_MonHalo.Buff_War_MonHalo_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_Boss_hum_069_EX.OriginWar_Boss_hum_069_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f13_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f13_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_029.OriginWar_elite_hum_029_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f13_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_056.OriginWar_elite_056_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f13_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_030_EX.OriginWar_boss_030_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f14_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f14_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064.OriginWar_elite_064_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f14_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_002_bow_Ice.OriginWar_elite_002_bow_Ice_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 90,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f14_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_037_EX.OriginWar_boss_hum_037_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f15_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f15_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level2.buff_War_Atk_Level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/ImmuneDamCD/buff_War_ImmuneDamageCD_Level1.buff_War_ImmuneDamageCD_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_070_hs.OriginWar_elite_070_hs_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f15_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level2.buff_War_Atk_Level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/ImmuneDamCD/buff_War_ImmuneDamageCD_Level1.buff_War_ImmuneDamageCD_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_002_EX.OriginWar_boss_002_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f15_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level2.buff_War_Atk_Level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/ImmuneDamCD/buff_War_ImmuneDamageCD_Level1.buff_War_ImmuneDamageCD_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_010.OriginWar_boss_010_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f16_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f16_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level2_Mon.buff_Origin_BeDamDown_Level2_Mon_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_075_qs.OriginWar_elite_075_qs_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f16_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level2_Mon.buff_Origin_BeDamDown_Level2_Mon_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_073_EX.OriginWar_boss_hum_073_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f16_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/buff_Origin_BeDamDown_Level2_Mon.buff_Origin_BeDamDown_Level2_Mon_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_020.OriginWar_boss_020_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f17_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f17_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level3.Buff_War_HealUp_Level3_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_070_hs.OriginWar_elite_070_hs_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f17_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level3.Buff_War_HealUp_Level3_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_007_EX.OriginWar_boss_hum_007_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f17_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Buff_War_HealUp_Level3.Buff_War_HealUp_Level3_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_064.OriginWar_boss_064_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f18_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f18_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/mon_hum_106_Chief_shouhu.mon_hum_106_Chief_shouhu_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f18_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_010_EX.OriginWar_boss_010_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f18_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_032.OriginWar_boss_032_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f19_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f19_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_101_captain_Child_hs.OriginWar_elite_101_captain_Child_hs_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f19_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_065_EX.OriginWar_boss_065_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 95,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f19_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_012.OriginWar_boss_012_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f20_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f20_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_065_small.OriginWar_elite_065_small_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f20_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_017_EX.OriginWar_boss_hum_017_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f20_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_030.OriginWar_boss_030_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f21_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f21_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/TeamAssist/buff_TeamAssist_level1.buff_TeamAssist_level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_BeDMGDownAndTaunt_Level2.Buff_Origin_BeDMGDownAndTaunt_Level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_029.OriginWar_elite_hum_029_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f21_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/TeamAssist/buff_TeamAssist_level1.buff_TeamAssist_level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_BeDMGDownAndTaunt_Level2.Buff_Origin_BeDMGDownAndTaunt_Level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_015_EX.OriginWar_boss_015_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f21_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/TeamAssist/buff_TeamAssist_level1.buff_TeamAssist_level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_BeDMGDownAndTaunt_Level2.Buff_Origin_BeDMGDownAndTaunt_Level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Blood/Buff_War_Disturb.Buff_War_Disturb_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_026.OriginWar_boss_026_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f22_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f22_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level3.buff_War_Atk_Level3_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown_Level2.Buff_Origin_MakeTargetDMGDown_Level2_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_064.OriginWar_elite_064_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f22_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level3.buff_War_Atk_Level3_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown_Level2.Buff_Origin_MakeTargetDMGDown_Level2_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_012_EX.OriginWar_boss_012_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f22_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_Atk_Level3.buff_War_Atk_Level3_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown_Level2.Buff_Origin_MakeTargetDMGDown_Level2_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_047.OriginWar_boss_047_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f23_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f23_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/TeamAssist/buff_TeamAssist_level2.buff_TeamAssist_level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_070_hs.OriginWar_elite_070_hs_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f23_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/TeamAssist/buff_TeamAssist_level2.buff_TeamAssist_level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_046_EX.OriginWar_boss_hum_046_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f23_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/TeamAssist/buff_TeamAssist_level2.buff_TeamAssist_level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_072.OriginWar_boss_072_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f24_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f24_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonHaLo/Buff_War_MonHalo.Buff_War_MonHalo_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_075_qs.OriginWar_elite_075_qs_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f24_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonHaLo/Buff_War_MonHalo.Buff_War_MonHalo_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_hum_020_EX.OriginWar_boss_hum_020_EX_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f24_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonHaLo/Buff_War_MonHalo.Buff_War_MonHalo_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_042.OriginWar_boss_042_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          }
+        ]
+      },
+      "s19_f25_w1": {
+        "PoolMonsters": [
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f25_w1_1",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown_Level2.Buff_Origin_MakeTargetDMGDown_Level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Elite/OriginWar_elite_hum_057.OriginWar_elite_hum_057_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 2
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f25_w1_2",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown_Level2.Buff_Origin_MakeTargetDMGDown_Level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_NORMAL",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_020.OriginWar_boss_020_C",
+              "SubPathString": ""
+            },
+            "MonsterCount": 1
+          },
+          {
+            "MonsterLevel": 100,
+            "MonsterName": {
+              "CultureInvariantString": null
+            },
+            "AttributeID": "s19_f25_w1_3",
+            "MonsterBuffID": [
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/ImmuneEverything/buff_War_ImmuneEverything_Level1.buff_War_ImmuneEverything_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/buff_War_ResonanceDamBeUp_Level1.buff_War_ResonanceDamBeUp_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/New/MonBlackHole/Buff_War_MonCreateBlackHole_Level1.Buff_War_MonCreateBlackHole_Level1_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/Origin/Common/Buff_Origin_MakeTargetDMGDown_Level2.Buff_Origin_MakeTargetDMGDown_Level2_C",
+                "SubPathString": ""
+              },
+              {
+                "AssetPathName": "/Game/Resources/Abilities/Buff/SecretLand/RecoveryHp/buff_War_RecoveryHp_Level1.buff_War_RecoveryHp_Level1_C",
+                "SubPathString": ""
+              }
+            ],
+            "MonsterType": "BS_MONSTER_BOSS",
+            "MonsterClass": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/OriginWarMonster/Boss/OriginWar_boss_001.OriginWar_boss_001_C",
               "SubPathString": ""
             },
             "MonsterCount": 1
