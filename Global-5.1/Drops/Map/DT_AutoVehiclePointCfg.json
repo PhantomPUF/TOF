@@ -1,0 +1,379 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_AutoVehiclePointCfg",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'AutoVehiclePointRow'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "SiteIndex": 1,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S1_001",
+          "SourceString": "星岛度假区站",
+          "LocalizedString": "星岛度假区站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "D272134A4CC312B4A58A34BA2BB0AE98",
+          "SourceString": "稍等片刻，正在自动领航至‘星岛度假区站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘星岛度假区站’"
+        },
+        "SiteLocation": {
+          "X": -112308.0,
+          "Y": 116805.0,
+          "Z": -778.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": 15.000046,
+          "Roll": 0.0
+        }
+      },
+      "2": {
+        "SiteIndex": 2,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S1_002",
+          "SourceString": "玲珑产业园站",
+          "LocalizedString": "玲珑产业园站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "A7546A7B4A1DD98B50F3B8A8E5BE5519",
+          "SourceString": "稍等片刻，正在自动领航至‘玲珑产业园站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘玲珑产业园站’"
+        },
+        "SiteLocation": {
+          "X": -34643.0,
+          "Y": 160728.0,
+          "Z": -9724.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": -40.000072,
+          "Roll": 0.0
+        }
+      },
+      "3": {
+        "SiteIndex": 3,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S1_003",
+          "SourceString": "中心幻塔-边缘站",
+          "LocalizedString": "中心幻塔-边缘站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "148D466945BB1E397D749DBCA4220A76",
+          "SourceString": "稍等片刻，正在自动领航至‘中心幻塔-边缘站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘中心幻塔-边缘站’"
+        },
+        "SiteLocation": {
+          "X": -71816.0,
+          "Y": -5755.0,
+          "Z": -12208.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": 60.000046,
+          "Roll": 0.0
+        }
+      },
+      "4": {
+        "SiteIndex": 4,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S1_004",
+          "SourceString": "极光工业总部站",
+          "LocalizedString": "极光工业总部站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "99D07FA24FB50B8D9E4AC4BA0A83647C",
+          "SourceString": "稍等片刻，正在自动领航至‘极光工业总部站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘极光工业总部站’"
+        },
+        "SiteLocation": {
+          "X": -94652.0,
+          "Y": -21454.0,
+          "Z": -11616.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": 149.60936,
+          "Roll": 0.0
+        }
+      },
+      "5": {
+        "SiteIndex": 5,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S1_005",
+          "SourceString": "星岛边区站",
+          "LocalizedString": "星岛边区站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "EE67B65045813FE9493B00ADAB7AA5DD",
+          "SourceString": "稍等片刻，正在自动领航至‘星岛边区站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘星岛边区站’"
+        },
+        "SiteLocation": {
+          "X": -45243.0,
+          "Y": 103904.0,
+          "Z": -14669.485
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.995316,
+          "Roll": 0.0
+        }
+      },
+      "6": {
+        "SiteIndex": 6,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S1_006",
+          "SourceString": "生态培育所站",
+          "LocalizedString": "生态培育所站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "AC3A73EB4B56712D821D22A2DAF30A76",
+          "SourceString": "稍等片刻，正在自动领航至‘生态培育所站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘生态培育所站’"
+        },
+        "SiteLocation": {
+          "X": -75950.0,
+          "Y": 113941.0,
+          "Z": -10365.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": 44.995285,
+          "Roll": 0.0
+        }
+      },
+      "7": {
+        "SiteIndex": 7,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S1_007",
+          "SourceString": "洛肯公园站",
+          "LocalizedString": "洛肯公园站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "A9EB91D64B9204573E0808B3F7B34F08",
+          "SourceString": "稍等片刻，正在自动领航至‘洛肯公园站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘洛肯公园站’"
+        },
+        "SiteLocation": {
+          "X": -143019.0,
+          "Y": 44118.0,
+          "Z": -14839.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": -35.004776,
+          "Roll": 0.0
+        }
+      },
+      "8": {
+        "SiteIndex": 8,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S2_01",
+          "SourceString": "低语林地站",
+          "LocalizedString": "低语林地站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "CBD945BD493818BF19AC02BFAC1794AD",
+          "SourceString": "稍等片刻，正在自动领航至‘低语林地站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘低语林地站’"
+        },
+        "SiteLocation": {
+          "X": 9207.0,
+          "Y": 48550.0,
+          "Z": -5600.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": -35.004776,
+          "Roll": 0.0
+        }
+      },
+      "9": {
+        "SiteIndex": 7,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S2_02",
+          "SourceString": "西尔维娅商业街站",
+          "LocalizedString": "西尔维娅商业街站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "CA037E244B1D850339EF9D95270B35F3",
+          "SourceString": "稍等片刻，正在自动领航至‘西尔维娅商业街站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘西尔维娅商业街站’"
+        },
+        "SiteLocation": {
+          "X": 103796.17,
+          "Y": -87934.78,
+          "Z": 387.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": 54.99999,
+          "Roll": 0.0
+        }
+      },
+      "10": {
+        "SiteIndex": 10,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S2_03",
+          "SourceString": "亚夏幻塔站",
+          "LocalizedString": "亚夏幻塔站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "B705BF444933DDE3F8D1629E5E229886",
+          "SourceString": "稍等片刻，正在自动领航至‘亚夏幻塔站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘亚夏幻塔站’"
+        },
+        "SiteLocation": {
+          "X": 13967.4,
+          "Y": -12011.857,
+          "Z": 630.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": 49.99999,
+          "Roll": 0.0
+        }
+      },
+      "11": {
+        "SiteIndex": 11,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S2_04",
+          "SourceString": "修德尔电子站",
+          "LocalizedString": "修德尔电子站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "C5DBB2914C78F3CF9BFF809F6508F121",
+          "SourceString": "稍等片刻，正在自动领航至‘修德尔电子站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘修德尔电子站’"
+        },
+        "SiteLocation": {
+          "X": 14918.425,
+          "Y": -101660.12,
+          "Z": 700.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": -15.000134,
+          "Roll": 0.0
+        }
+      },
+      "12": {
+        "SiteIndex": 12,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S2_05",
+          "SourceString": "蔚蓝海岸站",
+          "LocalizedString": "蔚蓝海岸站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "05DF63C24EA55AAD45C42CA2CBBE52B0",
+          "SourceString": "稍等片刻，正在自动领航至‘蔚蓝海岸站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘蔚蓝海岸站’"
+        },
+        "SiteLocation": {
+          "X": 179814.75,
+          "Y": -119951.055,
+          "Z": -13000.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": 44.999958,
+          "Roll": 0.0
+        }
+      },
+      "13": {
+        "SiteIndex": 13,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S2_06",
+          "SourceString": "轨道枢纽站",
+          "LocalizedString": "轨道枢纽站"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "478D567D446E0C341A63DD8CC987D46C",
+          "SourceString": "稍等片刻，正在自动领航至‘轨道枢纽站’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘轨道枢纽站’"
+        },
+        "SiteLocation": {
+          "X": -35371.457,
+          "Y": -56906.01,
+          "Z": -5637.886
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": 189.99998,
+          "Roll": 0.0
+        }
+      },
+      "14": {
+        "SiteIndex": 14,
+        "LevelMap": "Norn_P",
+        "SiteName": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_TaxiStation_S2_07",
+          "SourceString": "邮轮",
+          "LocalizedString": "邮轮"
+        },
+        "TransferTips": {
+          "Namespace": "",
+          "Key": "2E2357B543676F57B528F4A66C985DED",
+          "SourceString": "稍等片刻，正在自动领航至‘邮轮’",
+          "LocalizedString": "稍等片刻，正在自动领航至‘邮轮’"
+        },
+        "SiteLocation": {
+          "X": 236099.0,
+          "Y": -112077.0,
+          "Z": -14863.0
+        },
+        "SiteRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        }
+      }
+    }
+  }
+]

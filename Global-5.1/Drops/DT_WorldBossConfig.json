@@ -1,0 +1,535 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_WorldBossConfig",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'WorldBossConfigData'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "BorderWar_D": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D91": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D92": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D93": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D94": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D95": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D96": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D97": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D98": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D99": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D100": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D101": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D102": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D103": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D104": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "WorldBoss": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Balance/borderwarGuild_balance.borderwarGuild_balance_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "FB32_WorldBoss_level2": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss_level2",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss_level2"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Balance/borderwarGuild_balance.borderwarGuild_balance_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_level2_show"
+      },
+      "BorderWar_D105": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D106": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D107": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D108": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D109": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D110": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D111": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D112": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      },
+      "BorderWar_D113": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": [],
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff_2.Worldboss_playerbuff_2_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      }
+    }
+  }
+]

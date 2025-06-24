@@ -243,7 +243,7 @@
               "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
               "Key": "BorderWar_D",
               "SourceString": "进化90级-混乱机甲",
-              "LocalizedString": "Evolution Level 90: Chaos Armor"
+              "LocalizedString": "Evolution Level 90: Chaos Mecha"
             },
             "AllChallengeWaves": [
               {
@@ -1189,7 +1189,7 @@
               "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
               "Key": "BorderWar_D",
               "SourceString": "进化90级-混乱机甲",
-              "LocalizedString": "Evolution Level 90: Chaos Armor"
+              "LocalizedString": "Evolution Level 90: Chaos Mecha"
             },
             "AllChallengeWaves": [
               {
@@ -2135,7 +2135,7 @@
               "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
               "Key": "BorderWar_D",
               "SourceString": "进化90级-混乱机甲",
-              "LocalizedString": "Evolution Level 90: Chaos Armor"
+              "LocalizedString": "Evolution Level 90: Chaos Mecha"
             },
             "AllChallengeWaves": [
               {
@@ -3040,6 +3040,952 @@
           "drop_BorderWar_Lyncis_ice_Lv3",
           "drop_BorderWar_Lyncis_ice_Lv4",
           "drop_BorderWar_Lyncis_ice_Lv5"
+        ],
+        "HelpPoints": [
+          200,
+          250,
+          300,
+          400,
+          500
+        ],
+        "RegressionHelpPoint": [
+          80,
+          100,
+          120,
+          160,
+          200
+        ],
+        "RegressionHelpPointLitter": [
+          40,
+          50,
+          60,
+          80,
+          100
+        ],
+        "SettleUnlockID": "BorderWar",
+        "SeasonSettleRewards": [
+          {
+            "IntVal": 1,
+            "NameVal": "Item_ticket_bianjing"
+          }
+        ]
+      },
+      "5": {
+        "BorderWarSeasonPropName": "BorderWarProp",
+        "BorderWarSeasonIndex": 5,
+        "BorderWarAllBossList": [
+          {
+            "BorderWarMapName": "BorderWar_D",
+            "SingleBossIndex": 0,
+            "BossName": {
+              "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+              "Key": "BorderWar_D",
+              "SourceString": "进化90级-混乱机甲",
+              "LocalizedString": "Evolution Level 90: Chaos Mecha"
+            },
+            "AllChallengeWaves": [
+              {
+                "BossID": "HLJJ1",
+                "BossConfigID": "None",
+                "BossLevel": 90,
+                "AttributeID": "Boss_hum_046_1",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 0,
+                "BossSkillInfo": [],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "HLJJ2",
+                "BossConfigID": "None",
+                "BossLevel": 90,
+                "AttributeID": "Boss_hum_046_2",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 1,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_046_2_name",
+                      "SourceString": "强力灰噬模式",
+                      "LocalizedString": "Powerful Graying Bite"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_046_2_des",
+                      "SourceString": "攻击附带强力灰噬效果，需要提高对应元素抗性或避免被命中。",
+                      "LocalizedString": "Attacks come with a powerful Graying Bite effect. Increase corresponding elemental resistance or avoid being hit."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "HLJJ3",
+                "BossConfigID": "None",
+                "BossLevel": 90,
+                "AttributeID": "Boss_hum_046_3",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 2,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_046_3_name",
+                      "SourceString": "强力装甲模式",
+                      "LocalizedString": "Powerful Armor"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_046_3_des",
+                      "SourceString": "BOSS生命血量越低减伤越高，BOSS变为处决机制，可用破盾高的武器对其破盾并处决，处决伤害无视怪物减伤，并与攻击和抗性和增伤有关。",
+                      "LocalizedString": "The lower the boss's HP, the greater its damage reduction. The boss can then be executed. Use weapons with high shatter to break its shield and execute it. Execution damage ignores the boss's damage reduction and is affected by the Wanderer's ATK, resistance, and damage boost."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "HLJJ4",
+                "BossConfigID": "None",
+                "BossLevel": 90,
+                "AttributeID": "Boss_hum_046_4",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 3,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_046_4_name",
+                      "SourceString": "地狱烈焰模式",
+                      "LocalizedString": "Infernal Flames"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_046_4_des",
+                      "SourceString": "获得地狱烈焰技能，大部分攻击会在地面留下大面积持续燃烧，避免进入燃烧区域。",
+                      "LocalizedString": "Gain the Infernal Flames skill. The majority of the boss's attacks will leave a large area on the ground that burns continuously. Avoid entering the burning areas."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "HLJJ5",
+                "BossConfigID": "None",
+                "BossLevel": 90,
+                "AttributeID": "Boss_hum_046_5",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 4,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_046_5_name",
+                      "SourceString": "大爆破模式",
+                      "LocalizedString": "Large Explosion"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_046_5_des",
+                      "SourceString": "场景随机生成大爆破，被命中会造成致命伤害，并在区域留下地狱烈焰。",
+                      "LocalizedString": "Large random explosions will occur in the area, dealing lethal damage upon hit and leaving Infernal Flames in the area."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              }
+            ]
+          },
+          {
+            "BorderWarMapName": "BorderWar_D91",
+            "SingleBossIndex": 0,
+            "BossName": {
+              "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+              "Key": "BorderWar_D91",
+              "SourceString": "进化91级-弗丽嘉",
+              "LocalizedString": "Evolution Level 91: Frigg"
+            },
+            "AllChallengeWaves": [
+              {
+                "BossID": "FLJ1",
+                "BossConfigID": "None",
+                "BossLevel": 91,
+                "AttributeID": "Boss_hum_019_1",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 0,
+                "BossSkillInfo": [],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "FLJ2",
+                "BossConfigID": "None",
+                "BossLevel": 91,
+                "AttributeID": "Boss_hum_019_2",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 1,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_019_2_name",
+                      "SourceString": "必杀模式",
+                      "LocalizedString": "Ultimate Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_019_2_des",
+                      "SourceString": "弗丽嘉护盾值大幅提升。",
+                      "LocalizedString": "Frigg's shield strength greatly increases."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "FLJ3",
+                "BossConfigID": "None",
+                "BossLevel": 91,
+                "AttributeID": "Boss_hum_019_3",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 2,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_019_3_name",
+                      "SourceString": "增幅模式",
+                      "LocalizedString": "Boost Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_019_3_des",
+                      "SourceString": "弗丽嘉每次命中玩家获得伤害提升，可叠加。",
+                      "LocalizedString": "Frigg gains a damage boost each time she lands a hit. This effect can stack."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "FLJ4",
+                "BossConfigID": "None",
+                "BossLevel": 91,
+                "AttributeID": "Boss_hum_019_4",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 3,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_019_4_name",
+                      "SourceString": "狂暴模式",
+                      "LocalizedString": "Rampage Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_019_4_des",
+                      "SourceString": "弗丽嘉开启狂暴模式，所有行动速度大幅提升。",
+                      "LocalizedString": "Frigg enters Rampage Mode, greatly increasing her speed."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "FLJ5",
+                "BossConfigID": "None",
+                "BossLevel": 91,
+                "AttributeID": "Boss_hum_019_5",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 4,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_019_5_name",
+                      "SourceString": "极限模式",
+                      "LocalizedString": "Extreme Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_019_5_des",
+                      "SourceString": "弗丽嘉进入极限状态，所有行动速度获得提升，会在脚下地面留下霜冻，碰到霜冻的玩家会受到伤害并被减速，最高叠加3层。",
+                      "LocalizedString": "Frigg enters Extreme Mode, increasing her speed and leaving frost under her feet. If you touch the frost, you will take damage and be slowed, which can be stacked up to 3 times."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              }
+            ]
+          },
+          {
+            "BorderWarMapName": "BorderWar_D92",
+            "SingleBossIndex": 0,
+            "BossName": {
+              "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+              "Key": "BorderWar_D92",
+              "SourceString": "进化92级-瓦尔基里",
+              "LocalizedString": "Evolution Level 92: Valkyrie"
+            },
+            "AllChallengeWaves": [
+              {
+                "BossID": "WRJL1",
+                "BossConfigID": "None",
+                "BossLevel": 92,
+                "AttributeID": "bjzq_3_1",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 0,
+                "BossSkillInfo": [],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "WRJL2",
+                "BossConfigID": "None",
+                "BossLevel": 92,
+                "AttributeID": "bjzq_3_2",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 1,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_032_2_name",
+                      "SourceString": "过载模式",
+                      "LocalizedString": "Overload Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_032_2_des",
+                      "SourceString": "瓦尔基里所有行动速度提升。",
+                      "LocalizedString": "Increase speed of all of Valkyrie's actions."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "WRJL3",
+                "BossConfigID": "None",
+                "BossLevel": 92,
+                "AttributeID": "bjzq_3_3",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 2,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_032_3_name",
+                      "SourceString": "立场模式",
+                      "LocalizedString": "Stance Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_032_3_des",
+                      "SourceString": "瓦尔基里每秒可以免疫一次伤害。",
+                      "LocalizedString": "Valkyrie is immune to damage 1 time every second."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "WRJL4",
+                "BossConfigID": "None",
+                "BossLevel": 92,
+                "AttributeID": "bjzq_3_4",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 3,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_032_4_name",
+                      "SourceString": "电极模式",
+                      "LocalizedString": "Electrode Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_032_4_des",
+                      "SourceString": "瓦尔基里每隔一段时间会在自身周围地面留下可以被破坏的电极，电极每隔一定时间会对范围内释放圆形电流。",
+                      "LocalizedString": "Valkyrie leaves destructible electrodes on the ground around it at regular intervals. These electrodes periodically emit a circular electrical current in the surrounding area."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "WRJL5",
+                "BossConfigID": "None",
+                "BossLevel": 92,
+                "AttributeID": "bjzq_3_5",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 4,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_032_5_name",
+                      "SourceString": "审判模式",
+                      "LocalizedString": "Judgment Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_032_5_des",
+                      "SourceString": "每隔一段时间，瓦尔基里会对周围降下落雷，落雷会造成致命伤害，并且进入感电状态，感电状态受到雷属性攻击命中会触电。",
+                      "LocalizedString": "Valkyrie summons lightning bolts around it at regular intervals, dealing lethal damage and electrifying targets. When an electrified target is hit by a volt attack, chain lightning is triggered."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              }
+            ]
+          },
+          {
+            "BorderWarMapName": "BorderWar_D112",
+            "SingleBossIndex": 0,
+            "BossName": {
+              "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+              "Key": "BorderWar_D112",
+              "SourceString": "进化100级-英招",
+              "LocalizedString": "Evolution Level 100: Ying Zhao"
+            },
+            "AllChallengeWaves": [
+              {
+                "BossID": "YZ1",
+                "BossConfigID": "None",
+                "BossLevel": 100,
+                "AttributeID": "boss_hum_061_1",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 0,
+                "BossSkillInfo": [],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "YZ2",
+                "BossConfigID": "None",
+                "BossLevel": 100,
+                "AttributeID": "boss_hum_061_2",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 1,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "boss_hum_061_2_name",
+                      "SourceString": "保护模式",
+                      "LocalizedString": "Protection Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "boss_hum_061_2_des",
+                      "SourceString": "英招每隔20秒获得一个可以抵挡40次伤害的护盾。",
+                      "LocalizedString": "Ying Zhao gains a shield every 20 seconds, capable of blocking up to 40 instances of damage."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "YZ3",
+                "BossConfigID": "None",
+                "BossLevel": 100,
+                "AttributeID": "boss_hum_061_3",
+                "WaveExtraDropId": "drop_BorderWar_S2Lv3",
+                "WeakBuffCount": 2,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "boss_hum_061_3_name",
+                      "SourceString": "防爆模式",
+                      "LocalizedString": "Anti-Explosion Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "boss_hum_061_3_des",
+                      "SourceString": "英招无法被暴击。",
+                      "LocalizedString": "Ying Zhao cannot be critically hit."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "YZ4",
+                "BossConfigID": "None",
+                "BossLevel": 100,
+                "AttributeID": "boss_hum_061_4",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 3,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "boss_hum_061_4_name",
+                      "SourceString": "包围模式",
+                      "LocalizedString": "Siege Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "boss_hum_061_4_des",
+                      "SourceString": "英招会随机选择3个目标形成连线，并且自身进入无敌状态，只有处于被连线包围状态才会受到伤害。",
+                      "LocalizedString": "Ying Zhao randomly selects 3 targets to form a triangular link, becoming invincible. Only enemies enclosed within the triangle take damage."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "YZ5",
+                "BossConfigID": "None",
+                "BossLevel": 100,
+                "AttributeID": "boss_hum_061_5",
+                "WaveExtraDropId": "drop_BorderWar_S2Lv5",
+                "WeakBuffCount": 4,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "boss_hum_061_5_name",
+                      "SourceString": "反震模式",
+                      "LocalizedString": "Counterattack Mode"
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "boss_hum_061_5_des",
+                      "SourceString": "英招每隔15秒会对周围造成近3秒受到的伤害，该伤害不会造成致命。",
+                      "LocalizedString": "Ying Zhao unleashes damage taken over the past 3 seconds to nearby enemies every 15 seconds. This damage cannot be fatal."
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              }
+            ]
+          },
+          {
+            "BorderWarMapName": "BorderWar_D113",
+            "SingleBossIndex": 0,
+            "BossName": {
+              "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+              "Key": "BorderWar_D113",
+              "SourceString": null,
+              "LocalizedString": null
+            },
+            "AllChallengeWaves": [
+              {
+                "BossID": "ZDQ1",
+                "BossConfigID": "None",
+                "BossLevel": 100,
+                "AttributeID": "Boss_hum_075_1",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 0,
+                "BossSkillInfo": [],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "ZDQ2",
+                "BossConfigID": "None",
+                "BossLevel": 100,
+                "AttributeID": "Boss_hum_075_2",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 1,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_075_2_name",
+                      "SourceString": null,
+                      "LocalizedString": null
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_075_2_des",
+                      "SourceString": null,
+                      "LocalizedString": null
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "ZDQ3",
+                "BossConfigID": "None",
+                "BossLevel": 100,
+                "AttributeID": "Boss_hum_075_3",
+                "WaveExtraDropId": "drop_BorderWar_S2Lv3",
+                "WeakBuffCount": 2,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_075_3_name",
+                      "SourceString": null,
+                      "LocalizedString": null
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_075_3_des",
+                      "SourceString": null,
+                      "LocalizedString": null
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "ZDQ4",
+                "BossConfigID": "None",
+                "BossLevel": 100,
+                "AttributeID": "Boss_hum_075_4",
+                "WaveExtraDropId": "None",
+                "WeakBuffCount": 3,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_075_4_name",
+                      "SourceString": null,
+                      "LocalizedString": null
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_075_4_des",
+                      "SourceString": null,
+                      "LocalizedString": null
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              },
+              {
+                "BossID": "ZDQ5",
+                "BossConfigID": "None",
+                "BossLevel": 100,
+                "AttributeID": "Boss_hum_075_5",
+                "WaveExtraDropId": "drop_BorderWar_S2Lv5",
+                "WeakBuffCount": 4,
+                "BossSkillInfo": [
+                  {
+                    "SkillName": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_075_5_name",
+                      "SourceString": null,
+                      "LocalizedString": null
+                    },
+                    "SkillDec": {
+                      "TableId": "/Game/Resources/Abilities/Buff/Wormhole/NewBuff/Voidbuffdes.Voidbuffdes",
+                      "Key": "Boss_hum_075_5_des",
+                      "SourceString": null,
+                      "LocalizedString": null
+                    },
+                    "isshowNew": true
+                  }
+                ],
+                "AttackInitial": {
+                  "CultureInvariantString": null
+                },
+                "AttackExtra": {
+                  "CultureInvariantString": null
+                },
+                "HPInitial": {
+                  "CultureInvariantString": null
+                },
+                "HPExtra": {
+                  "CultureInvariantString": null
+                }
+              }
+            ]
+          }
+        ],
+        "BorderWarNormalRewards": [
+          "drop_BorderWar_StabDagger_Phy_Lv1",
+          "drop_BorderWar_StabDagger_Phy_Lv2",
+          "drop_BorderWar_StabDagger_Phy_Lv3",
+          "drop_BorderWar_StabDagger_Phy_Lv4",
+          "drop_BorderWar_StabDagger_Phy_Lv5"
         ],
         "HelpPoints": [
           200,

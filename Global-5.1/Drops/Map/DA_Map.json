@@ -1,0 +1,95 @@
+[
+  {
+    "Type": "HottaDataTableSet",
+    "Name": "DA_Map",
+    "Class": "UScriptClass'HottaDataTableSet'",
+    "Properties": {
+      "DataTables": [
+        {
+          "Key": "DT_MapRegionIdxPoint",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_MapRegionIdxPoint.DT_MapRegionIdxPoint",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_MapWorldBoss",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_MapWorldBoss.DT_MapWorldBoss",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_GoldRedCoreSource",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_GoldRedCoreSource.DT_GoldRedCoreSource",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_SatelliteKeyCfg",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_SatelliteKeyCfg.DT_SatelliteKeyCfg",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_AutoVehiclePointCfg",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_AutoVehiclePointCfg.DT_AutoVehiclePointCfg",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_ImitationOdysseySlot",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_ImitationOdysseySlot.DT_ImitationOdysseySlot",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_ImitationOdysseyExploreType",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_ImitationOdysseyExploreType.DT_ImitationOdysseyExploreType",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_ImitationOdysseyBasicConfig",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_ImitationOdysseyBasicConfig.DT_ImitationOdysseyBasicConfig",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_MapAreaMaskIndex",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_MapAreaMaskIndex.DT_MapAreaMaskIndex",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_ImitationOdysseyYahahaExtra",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_ImitationOdysseyYahahaExtra.DT_ImitationOdysseyYahahaExtra",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_ImitationOdysseySupplyBox",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_ImitationOdysseySupplyBox.DT_ImitationOdysseySupplyBox",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "DT_ImitationOdysseyActivePoint",
+          "Value": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/DataAssetSet/Map/DT_ImitationOdysseyActivePoint.DT_ImitationOdysseyActivePoint",
+            "SubPathString": ""
+          }
+        }
+      ]
+    }
+  }
+]

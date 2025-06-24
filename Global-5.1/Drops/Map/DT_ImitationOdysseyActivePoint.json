@@ -1,0 +1,680 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ImitationOdysseyActivePoint",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ImitationOdysseyActivePointRow'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Vera_tree_A17_6": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 113,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A9_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 102,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A9_3": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 103,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A11_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 104,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A11_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 105,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A11_3": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 106,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A10_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 107,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A10_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 100,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A17_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 110,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A17_3": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 111,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A17_4": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 112,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A17_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 109,
+        "RelateYahahaIds": []
+      },
+      "Vera_tree_A17_5": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Vera_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 114,
+        "RelateYahahaIds": []
+      },
+      "JiuYu_tree_A24_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 611,
+        "RelateYahahaIds": [
+          "Stargaze_A24_001"
+        ]
+      },
+      "JiuYu_tree_A24_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 608,
+        "RelateYahahaIds": [
+          "Stargaze_A24_002"
+        ]
+      },
+      "JiuYu_tree_A24_5": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 612,
+        "RelateYahahaIds": [
+          "Stargaze_A24_005"
+        ]
+      },
+      "JiuYu_tree_A24_7": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 613,
+        "RelateYahahaIds": [
+          "Stargaze_A24_007"
+        ]
+      },
+      "JiuYu_tree_A24_4": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 614,
+        "RelateYahahaIds": [
+          "Stargaze_A24_004"
+        ]
+      },
+      "JiuYu_tree_A24_6": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 610,
+        "RelateYahahaIds": [
+          "Stargaze_A24_006"
+        ]
+      },
+      "JiuYu_tree_A24_3": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 609,
+        "RelateYahahaIds": [
+          "Stargaze_A24_003"
+        ]
+      },
+      "JiuYu_tree_A25_4": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 618,
+        "RelateYahahaIds": [
+          "Stargaze_A25_004"
+        ]
+      },
+      "JiuYu_tree_A25_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 615,
+        "RelateYahahaIds": [
+          "Stargaze_A25_002"
+        ]
+      },
+      "JiuYu_tree_A25_5": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 620,
+        "RelateYahahaIds": [
+          "Stargaze_A25_005"
+        ]
+      },
+      "JiuYu_tree_A25_7": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 619,
+        "RelateYahahaIds": [
+          "Stargaze_A25_007"
+        ]
+      },
+      "JiuYu_tree_A25_6": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 621,
+        "RelateYahahaIds": [
+          "Stargaze_A25_006"
+        ]
+      },
+      "JiuYu_tree_A25_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 616,
+        "RelateYahahaIds": [
+          "Stargaze_A25_001"
+        ]
+      },
+      "JiuYu_tree_A25_3": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 617,
+        "RelateYahahaIds": [
+          "Stargaze_A25_003"
+        ]
+      },
+      "JiuYu_tree_A23_3": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 603,
+        "RelateYahahaIds": [
+          "Minigame_Stargaze_A23_6x20_001"
+        ]
+      },
+      "JiuYu_tree_A23_4": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 604,
+        "RelateYahahaIds": [
+          "Minigame_Stargaze_A23_2x20_001"
+        ]
+      },
+      "JiuYu_tree_A23_6": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 607,
+        "RelateYahahaIds": [
+          "Stargaze_A23_06"
+        ]
+      },
+      "JiuYu_tree_A23_5": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 605,
+        "RelateYahahaIds": [
+          "Stargaze_A23_05"
+        ]
+      },
+      "JiuYu_tree_A23_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 601,
+        "RelateYahahaIds": [
+          "Stargaze_A23_02"
+        ]
+      },
+      "JiuYu_tree_A23_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 602,
+        "RelateYahahaIds": [
+          "Stargaze_A23_01"
+        ]
+      },
+      "JiuYu_tree_A23_7": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 606,
+        "RelateYahahaIds": [
+          "Stargaze_A23_07"
+        ]
+      },
+      "JiuYu_tree_A26_6": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 625,
+        "RelateYahahaIds": [
+          "Stargaze_A26_006"
+        ]
+      },
+      "JiuYu_tree_A26_5": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 623,
+        "RelateYahahaIds": [
+          "Stargaze_A26_005"
+        ]
+      },
+      "JiuYu_tree_A26_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 626,
+        "RelateYahahaIds": [
+          "Stargaze_A26_001"
+        ]
+      },
+      "JiuYu_tree_A26_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 624,
+        "RelateYahahaIds": [
+          "Stargaze_A26_002"
+        ]
+      },
+      "JiuYu_tree_A26_4": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 627,
+        "RelateYahahaIds": [
+          "Stargaze_A26_004"
+        ]
+      },
+      "JiuYu_tree_A26_3": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "JIUYU_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 622,
+        "RelateYahahaIds": [
+          "Stargaze_A26_003"
+        ]
+      },
+      "Sea_tree_A19_8": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 517,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A19_3": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 512,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A19_4": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 513,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A19_5": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 514,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A19_6": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 515,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A19_7": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 516,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A20_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 520,
+        "RelateYahahaIds": [
+          "UnlockMap_Vera_Sea_A20_10x7"
+        ]
+      },
+      "Sea_tree_A19_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 510,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A19_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 511,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A18_3": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 502,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A18_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 501,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A18_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 500,
+        "RelateYahahaIds": []
+      },
+      "Sea_tree_A18_4": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Map_sea_p",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 503,
+        "RelateYahahaIds": []
+      },
+      "VeraCity_Minigame_NoteACrash_VeraCity": {
+        "RelateType": "EExploreType::dfind",
+        "LevelMap": "Vera_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "VeraCity_Minigame_RollBall": {
+        "RelateType": "EExploreType::dfind",
+        "LevelMap": "Vera_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "VeraCity_Minigame_LaserJump": {
+        "RelateType": "EExploreType::dfind",
+        "LevelMap": "Vera_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "VeraCity_Minigame_MoveShoot": {
+        "RelateType": "EExploreType::dfind",
+        "LevelMap": "Vera_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "VeraCity_Minigame_MoveArchery": {
+        "RelateType": "EExploreType::dfind",
+        "LevelMap": "Vera_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "VeraCity_Minigame_CarryBox": {
+        "RelateType": "EExploreType::dfind",
+        "LevelMap": "Vera_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "VeraCity_Minigame_FlyTraining": {
+        "RelateType": "EExploreType::dfind",
+        "LevelMap": "Vera_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "VeraCity_Minigame_HitTata": {
+        "RelateType": "EExploreType::dfind",
+        "LevelMap": "Vera_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_001": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 762,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_002": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 752,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_003": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 753,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_004": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 754,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_005": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 755,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_D2_1N": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 756,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_D2_2N": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 757,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_D2_3N": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 758,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_D2_4N": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 759,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_D2_5N": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 760,
+        "RelateYahahaIds": []
+      },
+      "Norn_dianti_D2_6N": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 761,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_JXZC_001": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_JXZC_002": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_JXZC_003": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_JXZC_004": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_City_001": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "norn_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_City_002": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "norn_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_City_003": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "norn_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_City_004": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "norn_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_City_005": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "norn_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_City_006": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "norn_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_MapTransferPoint_City_007": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "norn_city",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 0,
+        "RelateYahahaIds": []
+      },
+      "Norn_InteractiveMap_1": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 763,
+        "RelateYahahaIds": []
+      },
+      "Norn_InteractiveMap_2": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 801,
+        "RelateYahahaIds": []
+      },
+      "Norn_InteractiveMap_3": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 811,
+        "RelateYahahaIds": []
+      },
+      "Norn_InteractiveMap_4": {
+        "RelateType": "EExploreType::aunlock",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "UnlockMaskIndex": 821,
+        "RelateYahahaIds": []
+      }
+    }
+  }
+]
