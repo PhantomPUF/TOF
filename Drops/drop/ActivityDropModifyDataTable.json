@@ -1,0 +1,729 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ActivityDropModifyDataTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'DropModifyActivityConfig'",
+        "ObjectPath": "/Script/HottaFramework"
+      },
+      "bStripFromClientBuilds": true
+    },
+    "Rows": {
+      "DropUPWeek1": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 6,
+          "Day": 1,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 6,
+          "Day": 8,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a1_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Boss_1"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek2": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 6,
+          "Day": 8,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 6,
+          "Day": 15,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a2_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Boss_2"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek3": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 6,
+          "Day": 15,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 6,
+          "Day": 22,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a3_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Boss_3"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek4": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 6,
+          "Day": 22,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 6,
+          "Day": 29,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a4_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Boss_4"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek5": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 6,
+          "Day": 29,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 7,
+          "Day": 6,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a4_2"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "TeamBoss_9"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek6": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 7,
+          "Day": 6,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 7,
+          "Day": 13,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a5_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Boss_5"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek7": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 7,
+          "Day": 13,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 7,
+          "Day": 20,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a9_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Vera_Boss_1"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek8": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 7,
+          "Day": 20,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 7,
+          "Day": 27,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a10_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Vera_Boss_2"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek9": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 7,
+          "Day": 27,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 3,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a13_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Vera_XMKK_Boss_1"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek10": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 3,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 10,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a13_2"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Vera_XMKK_Boss_2"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek11": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 10,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 17,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a17_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Vera_XMKK_Boss_3"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek12": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 17,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 24,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a18_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Vera_Sea_Boss_1"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek13": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 24,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 31,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a20_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Vera_Sea_Boss_2"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek14": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 31,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 9,
+          "Day": 7,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a22_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Vera_Sea_Boss_3"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek15": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 9,
+          "Day": 7,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 9,
+          "Day": 14,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a23_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Jiuyu_Boss_1"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek16": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 9,
+          "Day": 14,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 9,
+          "Day": 21,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a23_2"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Jiuyu_Boss_2"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek17": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 9,
+          "Day": 21,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 9,
+          "Day": 28,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a24_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Jiuyu_Boss_3"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek18": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 9,
+          "Day": 28,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 10,
+          "Day": 5,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a25_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Jiuyu_Boss_6"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek19": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 10,
+          "Day": 5,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 10,
+          "Day": 12,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a26_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Jiuyu_Boss_7"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek20": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 10,
+          "Day": 12,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 10,
+          "Day": 19,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a26_2"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Jiuyu_Boss_8"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek21": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 10,
+          "Day": 19,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 10,
+          "Day": 26,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a28_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Jiuyu_Boss_5"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek22": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 10,
+          "Day": 26,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 11,
+          "Day": 2,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a29_1"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Norn_Boss_1"
+              ]
+            }
+          }
+        ]
+      },
+      "DropUPWeek23": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 11,
+          "Day": 2,
+          "Hour": 21,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 11,
+          "Day": 9,
+          "Hour": 20,
+          "Minute": 59,
+          "Second": 59
+        },
+        "DropModifyIDs": [
+          "BossDropUP_a29_2"
+        ],
+        "DropModifyClientShowInfo": [
+          {
+            "Key": "EDropModifyClientInfoType::EBossList",
+            "Value": {
+              "ShowInfos": [
+                "Norn_Boss_2"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+]

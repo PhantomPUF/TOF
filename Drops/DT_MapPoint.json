@@ -244427,6 +244427,4710 @@
         "bIsChangeIconByZOff": false,
         "MapIconTopZOff": 100.0,
         "MapIconBottomZOff": 100.0
+      },
+      "ZXWX_Boss_1": {
+        "PointType": "TreasureCave",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -26144.71,
+          "Y": 200636.23,
+          "Z": -17592.613
+        },
+        "FootholdLocation": {
+          "X": -26144.71,
+          "Y": 200636.23,
+          "Z": -17592.613
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "Namespace": "",
+          "Key": "84F1FC454908CA6636A343A2C4D34476",
+          "SourceString": "解码仪",
+          "LocalizedString": "解码仪"
+        },
+        "PointDescription": {
+          "Namespace": "",
+          "Key": "FCD4245C4E3F7938211EE5862E7CF501",
+          "SourceString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。",
+          "LocalizedString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "ZXWX_Boss_2": {
+        "PointType": "TreasureCave",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -19097.0,
+          "Y": 208895.36,
+          "Z": -19086.752
+        },
+        "FootholdLocation": {
+          "X": -19097.0,
+          "Y": 208895.36,
+          "Z": -19086.752
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "Namespace": "",
+          "Key": "84F1FC454908CA6636A343A2C4D34476",
+          "SourceString": "解码仪",
+          "LocalizedString": "解码仪"
+        },
+        "PointDescription": {
+          "Namespace": "",
+          "Key": "FCD4245C4E3F7938211EE5862E7CF501",
+          "SourceString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。",
+          "LocalizedString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "ZXWX_Boss_3": {
+        "PointType": "TreasureCave",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -40104.723,
+          "Y": 260685.0,
+          "Z": -9400.503
+        },
+        "FootholdLocation": {
+          "X": -40104.723,
+          "Y": 260685.0,
+          "Z": -9400.503
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "Namespace": "",
+          "Key": "84F1FC454908CA6636A343A2C4D34476",
+          "SourceString": "解码仪",
+          "LocalizedString": "解码仪"
+        },
+        "PointDescription": {
+          "Namespace": "",
+          "Key": "FCD4245C4E3F7938211EE5862E7CF501",
+          "SourceString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。",
+          "LocalizedString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "ZXWX_Boss_4": {
+        "PointType": "TreasureCave",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -45118.484,
+          "Y": 258745.02,
+          "Z": -10634.829
+        },
+        "FootholdLocation": {
+          "X": -45118.484,
+          "Y": 258745.02,
+          "Z": -10634.829
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "Namespace": "",
+          "Key": "84F1FC454908CA6636A343A2C4D34476",
+          "SourceString": "解码仪",
+          "LocalizedString": "解码仪"
+        },
+        "PointDescription": {
+          "Namespace": "",
+          "Key": "FCD4245C4E3F7938211EE5862E7CF501",
+          "SourceString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。",
+          "LocalizedString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "ZXWX_Boss_5": {
+        "PointType": "TreasureCave",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -41746.68,
+          "Y": 264926.75,
+          "Z": -11524.511
+        },
+        "FootholdLocation": {
+          "X": -41746.68,
+          "Y": 264926.75,
+          "Z": -11524.511
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "Namespace": "",
+          "Key": "84F1FC454908CA6636A343A2C4D34476",
+          "SourceString": "解码仪",
+          "LocalizedString": "解码仪"
+        },
+        "PointDescription": {
+          "Namespace": "",
+          "Key": "FCD4245C4E3F7938211EE5862E7CF501",
+          "SourceString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。",
+          "LocalizedString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "ZXWX_Boss_6": {
+        "PointType": "TreasureCave",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -48386.996,
+          "Y": 284244.66,
+          "Z": -12896.023
+        },
+        "FootholdLocation": {
+          "X": -48386.996,
+          "Y": 284244.66,
+          "Z": -12896.023
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "Namespace": "",
+          "Key": "84F1FC454908CA6636A343A2C4D34476",
+          "SourceString": "解码仪",
+          "LocalizedString": "解码仪"
+        },
+        "PointDescription": {
+          "Namespace": "",
+          "Key": "FCD4245C4E3F7938211EE5862E7CF501",
+          "SourceString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。",
+          "LocalizedString": "用于分析加密核心的仪器，可以在解码对应核心后生成对应的数据影像。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Kailo_Boss_2": {
+        "PointType": "Mark_shouling_30",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -43504.562,
+          "Y": 272140.6,
+          "Z": -12667.656
+        },
+        "FootholdLocation": {
+          "X": -43504.562,
+          "Y": 272140.6,
+          "Z": -12667.656
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": true,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Kailo_Boss_2_name",
+          "SourceString": "灾厄5号",
+          "LocalizedString": "灾厄5号"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Kailo_Boss_2_dec",
+          "SourceString": "灾祸联宇海盗团不知从哪里抢劫了许多机器人和武器，经过非法改造后制造出的重型作战用机器人；但由于软件冲突，导致灾厄5号陷入失控状态，请勿随意接近。",
+          "LocalizedString": "灾祸联宇海盗团不知从哪里抢劫了许多机器人和武器，经过非法改造后制造出的重型作战用机器人；但由于软件冲突，导致灾厄5号陷入失控状态，请勿随意接近。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [
+          {
+            "Key": "1",
+            "Value": "treasure_specialboss_a34_1_show"
+          }
+        ],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "BP_MapTransferPoint_Space_Ribbon_1": {
+        "PointType": "Map_Norn_CityCS",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": 47460.0,
+          "Y": 211180.0,
+          "Z": -40550.0
+        },
+        "FootholdLocation": {
+          "X": 47460.0,
+          "Y": 211180.0,
+          "Z": -40500.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": -112.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": true,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "portal_a34",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_name",
+          "SourceString": "折跃门",
+          "LocalizedString": "折跃门"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_dec",
+          "SourceString": "可在已激活的折跃门之间进行远程传送。",
+          "LocalizedString": "可在已激活的折跃门之间进行远程传送。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "BP_MapTransferPoint_Space_Ribbon_2": {
+        "PointType": "Map_Norn_CityCS",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -39373.0,
+          "Y": 262424.0,
+          "Z": -9549.0
+        },
+        "FootholdLocation": {
+          "X": -39373.0,
+          "Y": 262424.0,
+          "Z": -9500.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 18.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": true,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "portal_a34",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_name",
+          "SourceString": "折跃门",
+          "LocalizedString": "折跃门"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_dec",
+          "SourceString": "可在已激活的折跃门之间进行远程传送。",
+          "LocalizedString": "可在已激活的折跃门之间进行远程传送。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "BP_MapTransferPoint_Space_Ribbon_3": {
+        "PointType": "Map_Norn_CityCS",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -16667.0,
+          "Y": 189891.0,
+          "Z": -17878.0
+        },
+        "FootholdLocation": {
+          "X": -16667.0,
+          "Y": 189891.0,
+          "Z": -17828.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 18.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": true,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "portal_a34",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_name",
+          "SourceString": "折跃门",
+          "LocalizedString": "折跃门"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_dec",
+          "SourceString": "可在已激活的折跃门之间进行远程传送。",
+          "LocalizedString": "可在已激活的折跃门之间进行远程传送。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "BP_MapTransferPoint_Space_Ribbon_4": {
+        "PointType": "Map_Norn_CityCS",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -26752.0,
+          "Y": 220224.0,
+          "Z": -9220.0
+        },
+        "FootholdLocation": {
+          "X": -26752.0,
+          "Y": 220224.0,
+          "Z": -9170.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 18.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": true,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "portal_a34",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_name",
+          "SourceString": "折跃门",
+          "LocalizedString": "折跃门"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_dec",
+          "SourceString": "可在已激活的折跃门之间进行远程传送。",
+          "LocalizedString": "可在已激活的折跃门之间进行远程传送。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "BP_MapTransferPoint_Space_Ribbon_5": {
+        "PointType": "Map_Norn_CityCS",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -45318.0,
+          "Y": 283499.0,
+          "Z": -10968.0
+        },
+        "FootholdLocation": {
+          "X": -45318.0,
+          "Y": 283499.0,
+          "Z": -10918.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 18.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": true,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "portal_a34",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_name",
+          "SourceString": "折跃门",
+          "LocalizedString": "折跃门"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_dec",
+          "SourceString": "可在已激活的折跃门之间进行远程传送。",
+          "LocalizedString": "可在已激活的折跃门之间进行远程传送。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "BP_MapTransferPoint_Space_Ribbon_6": {
+        "PointType": "Map_Norn_CityCS",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -46148.0,
+          "Y": 290505.0,
+          "Z": -9751.0
+        },
+        "FootholdLocation": {
+          "X": -46148.0,
+          "Y": 290505.0,
+          "Z": -9701.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 18.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": true,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "portal_a34",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_name",
+          "SourceString": "折跃门",
+          "LocalizedString": "折跃门"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Norn_MapTransferPoint_City_dec",
+          "SourceString": "可在已激活的折跃门之间进行远程传送。",
+          "LocalizedString": "可在已激活的折跃门之间进行远程传送。"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Map_Kailo_SpaceExpedition_V52": {
+        "PointType": "Map_Kailo_jidi",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -22560.08,
+          "Y": 208086.44,
+          "Z": -18693.596
+        },
+        "FootholdLocation": {
+          "X": -22560.08,
+          "Y": 208086.44,
+          "Z": -18693.596
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_SpaceExpedition",
+          "SourceString": "星际探险家协会",
+          "LocalizedString": "星际探险家协会"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_SpaceExpedition_Des",
+          "SourceString": "想要成为最伟大的星际探险家吗？欢迎加入千纸鹤星际探险家协会。在这里，我们会定期发布各类探险任务，欢迎勇敢的探险家们前来挑战，并帮助我们进一步了解自己所处的宇宙。顺便，如果你在探险的过程中发现了陨星碎片，请记得提交给我们，这会对我们了解宇宙起到莫大的帮助！",
+          "LocalizedString": "想要成为最伟大的星际探险家吗？欢迎加入千纸鹤星际探险家协会。在这里，我们会定期发布各类探险任务，欢迎勇敢的探险家们前来挑战，并帮助我们进一步了解自己所处的宇宙。顺便，如果你在探险的过程中发现了陨星碎片，请记得提交给我们，这会对我们了解宇宙起到莫大的帮助！"
+        },
+        "ShowTipsContent": {
+          "CultureInvariantString": null
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_1": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -35577.3,
+          "Y": 303817.44,
+          "Z": -7636.8203
+        },
+        "FootholdLocation": {
+          "X": -35577.3,
+          "Y": 303817.44,
+          "Z": -7636.8203
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "C40643A74CD65EF6953F72ACEC665F5E",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_2": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -39690.797,
+          "Y": 262729.72,
+          "Z": -8367.844
+        },
+        "FootholdLocation": {
+          "X": -39690.797,
+          "Y": 262729.72,
+          "Z": -8367.844
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "9A02C6F349C26B91003D69810740B489",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_3": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -34457.785,
+          "Y": 303889.62,
+          "Z": -7636.8203
+        },
+        "FootholdLocation": {
+          "X": -34457.785,
+          "Y": 303889.62,
+          "Z": -7636.8203
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "822D350A4B968D6A7B9755BF8A5BC6F0",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_4": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -35674.766,
+          "Y": 302644.28,
+          "Z": -7636.8203
+        },
+        "FootholdLocation": {
+          "X": -35674.766,
+          "Y": 302644.28,
+          "Z": -7636.8203
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "B7B051CF4FD7BC22D3AFA5829C251808",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_5": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -43679.492,
+          "Y": 272759.38,
+          "Z": 4128.5137
+        },
+        "FootholdLocation": {
+          "X": -43679.492,
+          "Y": 272759.38,
+          "Z": 4128.5137
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "EFE47114473C827E552C6299871E6365",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_6": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": 82311.91,
+          "Y": 198155.8,
+          "Z": -43089.543
+        },
+        "FootholdLocation": {
+          "X": 82311.91,
+          "Y": 198155.8,
+          "Z": -43089.543
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "C54FB5A946B1F691B0C119B25B9CF1F2",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_7": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -37884.824,
+          "Y": 260185.11,
+          "Z": -10488.948
+        },
+        "FootholdLocation": {
+          "X": -37884.824,
+          "Y": 260185.11,
+          "Z": -10488.948
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "D2E9CBDE45DAD67FABA49F8B59244B96",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_8": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -55537.598,
+          "Y": 290126.6,
+          "Z": -10025.807
+        },
+        "FootholdLocation": {
+          "X": -55537.598,
+          "Y": 290126.6,
+          "Z": -10025.807
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "94AC1353455BFBE4E666A9AFE9BEB637",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_9": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -55776.613,
+          "Y": 290760.56,
+          "Z": -10025.807
+        },
+        "FootholdLocation": {
+          "X": -55776.613,
+          "Y": 290760.56,
+          "Z": -10025.807
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "0BC7791B4D3D7370FD204EA2CE18E8C3",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_10": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -36569.047,
+          "Y": 251246.33,
+          "Z": -9775.619
+        },
+        "FootholdLocation": {
+          "X": -36569.047,
+          "Y": 251246.33,
+          "Z": -9775.619
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "CFE271084DB9E2357970ECA9C82CFB5B",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_11": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -24476.451,
+          "Y": 218655.89,
+          "Z": -9244.273
+        },
+        "FootholdLocation": {
+          "X": -24476.451,
+          "Y": 218655.89,
+          "Z": -9244.273
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "BA40B79641EF3C8C96890F89A1BCAFE9",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_12": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -16803.91,
+          "Y": 210112.06,
+          "Z": -17120.162
+        },
+        "FootholdLocation": {
+          "X": -16803.91,
+          "Y": 210112.06,
+          "Z": -17120.162
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "08CA80B34D5B4449A3DFA79792FF91F1",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_13": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -22471.215,
+          "Y": 191489.4,
+          "Z": -20136.55
+        },
+        "FootholdLocation": {
+          "X": -22471.215,
+          "Y": 191489.4,
+          "Z": -20136.55
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "2926218E43071B597C76C3A5426D569C",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_14": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -11022.105,
+          "Y": 193750.66,
+          "Z": -17500.717
+        },
+        "FootholdLocation": {
+          "X": -11022.105,
+          "Y": 193750.66,
+          "Z": -17500.717
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "257F6F2F40548C9075A3C69DFAA060C9",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_15": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -18816.527,
+          "Y": 199979.7,
+          "Z": -16323.589
+        },
+        "FootholdLocation": {
+          "X": -18816.527,
+          "Y": 199979.7,
+          "Z": -16323.589
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "5DB1D90F4839DB2E2827A98BE722C2A6",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_16": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -22407.973,
+          "Y": 199885.19,
+          "Z": -14317.808
+        },
+        "FootholdLocation": {
+          "X": -22407.973,
+          "Y": 199885.19,
+          "Z": -14317.808
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "DD142CCB4B37D1A707D4D792A51191AB",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_17": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -22515.66,
+          "Y": 200233.9,
+          "Z": -14317.808
+        },
+        "FootholdLocation": {
+          "X": -22515.66,
+          "Y": 200233.9,
+          "Z": -14317.808
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "026CA74846E82E1A83BFC2AFEBF11F39",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_18": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -22298.684,
+          "Y": 199514.12,
+          "Z": -14317.808
+        },
+        "FootholdLocation": {
+          "X": -22298.684,
+          "Y": 199514.12,
+          "Z": -14317.808
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "57879D284EB2CACE1FD04E98A66A9B4F",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_19": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -17849.48,
+          "Y": 209964.23,
+          "Z": -18807.156
+        },
+        "FootholdLocation": {
+          "X": -17849.48,
+          "Y": 209964.23,
+          "Z": -18807.156
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "123A77BB49302C0713CD668A3B27E4AD",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_20": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -19680.496,
+          "Y": 207678.39,
+          "Z": -19194.154
+        },
+        "FootholdLocation": {
+          "X": -19680.496,
+          "Y": 207678.39,
+          "Z": -19194.154
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "59EA683C403AB0DEFDAECEB57D81656F",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_21": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -10617.492,
+          "Y": 201567.78,
+          "Z": -30643.82
+        },
+        "FootholdLocation": {
+          "X": -10617.492,
+          "Y": 201567.78,
+          "Z": -30643.82
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "E9FFB7FE414EB39D4AB2AB8A0FB58D6C",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_22": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -12692.102,
+          "Y": 204184.4,
+          "Z": -33785.18
+        },
+        "FootholdLocation": {
+          "X": -12692.102,
+          "Y": 204184.4,
+          "Z": -33785.18
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "CC0B801B479A38E871BB53B0DF4BEF71",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_23": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -26391.215,
+          "Y": 244192.22,
+          "Z": -38918.605
+        },
+        "FootholdLocation": {
+          "X": -26391.215,
+          "Y": 244192.22,
+          "Z": -38918.605
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "1F9C6CC0477E8E2B0376EDB43C8A950D",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_24": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -25474.248,
+          "Y": 244018.7,
+          "Z": -38918.605
+        },
+        "FootholdLocation": {
+          "X": -25474.248,
+          "Y": 244018.7,
+          "Z": -38918.605
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "941995704BACC864CF8D11A0B25D4CDB",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_25": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -27042.574,
+          "Y": 243069.27,
+          "Z": -38918.605
+        },
+        "FootholdLocation": {
+          "X": -27042.574,
+          "Y": 243069.27,
+          "Z": -38918.605
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "3A818C87483C464E6AFFDF9E50243F93",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_26": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -7802.6763,
+          "Y": 209525.58,
+          "Z": -34982.55
+        },
+        "FootholdLocation": {
+          "X": -7802.6763,
+          "Y": 209525.58,
+          "Z": -34982.55
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "7C9FE70E4225F17789044B83C31FDC2A",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_27": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -52106.77,
+          "Y": 246885.3,
+          "Z": -25470.834
+        },
+        "FootholdLocation": {
+          "X": -52106.77,
+          "Y": 246885.3,
+          "Z": -25470.834
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "4301072E402D06A94405E09D1172059C",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_28": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": 70672.18,
+          "Y": 165962.2,
+          "Z": -28162.389
+        },
+        "FootholdLocation": {
+          "X": 70672.18,
+          "Y": 165962.2,
+          "Z": -28162.389
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "590699DA4A4EBCA16AB3E89991D53758",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_29": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -46650.5,
+          "Y": 277786.8,
+          "Z": -10223.549
+        },
+        "FootholdLocation": {
+          "X": -46650.5,
+          "Y": 277786.8,
+          "Z": -10223.549
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "75028CCF460B828384CCB1AD4FE19E06",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_001_30": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -50262.42,
+          "Y": 285061.78,
+          "Z": -12758.229
+        },
+        "FootholdLocation": {
+          "X": -50262.42,
+          "Y": 285061.78,
+          "Z": -12758.229
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "334F92384BF51A67DD4E5C930D45D1C4",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_1": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -58126.332,
+          "Y": 235016.02,
+          "Z": -25013.887
+        },
+        "FootholdLocation": {
+          "X": -58126.332,
+          "Y": 235016.02,
+          "Z": -25013.887
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "ECFE8D49461D23C7AE23BBB3466CDA2F",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_2": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -1992.9983,
+          "Y": 277497.06,
+          "Z": -21058.613
+        },
+        "FootholdLocation": {
+          "X": -1992.9983,
+          "Y": 277497.06,
+          "Z": -21058.613
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "F97F3F5848B4A6320FE72A8D1D6EACD7",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_3": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -4610.0957,
+          "Y": 271369.47,
+          "Z": -21832.912
+        },
+        "FootholdLocation": {
+          "X": -4610.0957,
+          "Y": 271369.47,
+          "Z": -21832.912
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "62BDA2004C9328BE46968692B9FBEB26",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_4": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": 28304.527,
+          "Y": 240338.95,
+          "Z": -48636.27
+        },
+        "FootholdLocation": {
+          "X": 28304.527,
+          "Y": 240338.95,
+          "Z": -48636.27
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "4EF21DC64A45DF0ABE4667ACB7C789BD",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_5": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": 16583.871,
+          "Y": 244916.48,
+          "Z": -48214.895
+        },
+        "FootholdLocation": {
+          "X": 16583.871,
+          "Y": 244916.48,
+          "Z": -48214.895
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "2A34BA0F4F41E95D2AAE97B940DCAAAB",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_6": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": 61643.56,
+          "Y": 198463.89,
+          "Z": -28533.94
+        },
+        "FootholdLocation": {
+          "X": 61643.56,
+          "Y": 198463.89,
+          "Z": -28533.94
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "6EC703554706E4BAB56CDF8F3A7814A6",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_7": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -25698.475,
+          "Y": 197542.48,
+          "Z": -17233.988
+        },
+        "FootholdLocation": {
+          "X": -25698.475,
+          "Y": 197542.48,
+          "Z": -17233.988
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "9DCEBEDF44E2A4C87A4438AA842BC8FA",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_8": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -27567.043,
+          "Y": 201192.64,
+          "Z": -17752.828
+        },
+        "FootholdLocation": {
+          "X": -27567.043,
+          "Y": 201192.64,
+          "Z": -17752.828
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "4BADD6584BBCF8E90B80BDA9833386A2",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_9": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -41618.797,
+          "Y": 258931.77,
+          "Z": -10621.788
+        },
+        "FootholdLocation": {
+          "X": -41618.797,
+          "Y": 258931.77,
+          "Z": -10621.788
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "701F9BEA41FB99F35E75A3A259C5DE2C",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_10": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -46538.043,
+          "Y": 280575.16,
+          "Z": -12855.01
+        },
+        "FootholdLocation": {
+          "X": -46538.043,
+          "Y": 280575.16,
+          "Z": -12855.01
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "D284DF044612CE8E0074C9BEC31D4DC2",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_11": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -40215.72,
+          "Y": 265216.38,
+          "Z": -11697.447
+        },
+        "FootholdLocation": {
+          "X": -40215.72,
+          "Y": 265216.38,
+          "Z": -11697.447
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "C0E6EEB34E588980AAF2C59460890620",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_12": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -36637.49,
+          "Y": 253422.03,
+          "Z": -10290.256
+        },
+        "FootholdLocation": {
+          "X": -36637.49,
+          "Y": 253422.03,
+          "Z": -10290.256
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "2F2EDE11433DBCFEFB3F65B547D5B8E9",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_13": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -41183.82,
+          "Y": 256910.33,
+          "Z": -10302.66
+        },
+        "FootholdLocation": {
+          "X": -41183.82,
+          "Y": 256910.33,
+          "Z": -10302.66
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "B4CA0B074936F5A421AA1D8FF79CD201",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_14": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -36243.805,
+          "Y": 258567.97,
+          "Z": -10302.665
+        },
+        "FootholdLocation": {
+          "X": -36243.805,
+          "Y": 258567.97,
+          "Z": -10302.665
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "BBB7F891477BF8F49B4A9D8E1B7367F1",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_002_15": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -35242.91,
+          "Y": 248872.98,
+          "Z": -10297.655
+        },
+        "FootholdLocation": {
+          "X": -35242.91,
+          "Y": 248872.98,
+          "Z": -10297.655
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "8487E05841F3B3B25E027084BEF7C4C7",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_003_1": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -43259.047,
+          "Y": 264405.88,
+          "Z": -11617.23
+        },
+        "FootholdLocation": {
+          "X": -43259.047,
+          "Y": 264405.88,
+          "Z": -11617.23
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "BA3E3B6C44D5CDFECF8E7E9141A9F1FA",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_003_2": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -50387.637,
+          "Y": 282152.8,
+          "Z": -12548.891
+        },
+        "FootholdLocation": {
+          "X": -50387.637,
+          "Y": 282152.8,
+          "Z": -12548.891
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "7B30590942F9544349486798CEE436FD",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_003_3": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -54160.484,
+          "Y": 304764.25,
+          "Z": -11492.145
+        },
+        "FootholdLocation": {
+          "X": -54160.484,
+          "Y": 304764.25,
+          "Z": -11492.145
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "687C31C74422D58DF6B053870BB2E227",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_003_4": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -56695.434,
+          "Y": 311876.44,
+          "Z": -12404.226
+        },
+        "FootholdLocation": {
+          "X": -56695.434,
+          "Y": 311876.44,
+          "Z": -12404.226
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "436EB28B40857D8DF7A8A28EDB450995",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Scene_Box_OnceOnly_KailoFC_003_5": {
+        "PointType": "TowerQuestPoint_Kailo",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -51634.57,
+          "Y": 282427.4,
+          "Z": -12396.956
+        },
+        "FootholdLocation": {
+          "X": -51634.57,
+          "Y": 282427.4,
+          "Z": -12396.956
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "CultureInvariantString": null
+        },
+        "PointDescription": {
+          "CultureInvariantString": null
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_Treasurebox",
+          "SourceString": "零能魔方",
+          "LocalizedString": "零能魔方"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": true,
+        "TreasureBoxID": "5F4F996E491D2B02D5876480ED47EA1A",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Map_KailoFC_ShopNpc_CoinChange_01": {
+        "PointType": "Map_Kailo_CoinChange",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -16013.0,
+          "Y": 192948.0,
+          "Z": -20869.0
+        },
+        "FootholdLocation": {
+          "X": -16013.0,
+          "Y": 192948.0,
+          "Z": -20869.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_ShopNpc_CoinChange",
+          "SourceString": "伴生矿晶回收站",
+          "LocalizedString": "伴生矿晶回收站"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_ShopNpc_CoinChange_des",
+          "SourceString": "伴生矿晶有很高的研究与收藏价值，如果手头缺信用点了，不妨来伴生矿晶回收站进行售卖。",
+          "LocalizedString": "伴生矿晶有很高的研究与收藏价值，如果手头缺信用点了，不妨来伴生矿晶回收站进行售卖。"
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_ShopNpc_CoinChange",
+          "SourceString": "伴生矿晶回收站",
+          "LocalizedString": "伴生矿晶回收站"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Map_KailoFC_ShopNpc_CoinShop_01": {
+        "PointType": "Map_Kailo_ShopNpc",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -17754.0,
+          "Y": 199182.0,
+          "Z": -19015.0
+        },
+        "FootholdLocation": {
+          "X": -17754.0,
+          "Y": 199182.0,
+          "Z": -19015.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_ShopNpc_CoinShopV52",
+          "SourceString": "秋日号杂货店",
+          "LocalizedString": "秋日号杂货店"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_ShaopNpc_CoinShopV52_des",
+          "SourceString": "秋日号上最受欢迎的店铺，可以买到许多物美价廉的太空探险必备品，品质和安霍尔集团的官方出品不相上下。",
+          "LocalizedString": "秋日号上最受欢迎的店铺，可以买到许多物美价廉的太空探险必备品，品质和安霍尔集团的官方出品不相上下。"
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Space_ShopNpc_CoinShopV52",
+          "SourceString": "秋日号杂货店",
+          "LocalizedString": "秋日号杂货店"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Map_Kailo_SimpleFaction_0": {
+        "PointType": "Map_Kailo_TanXianZhi",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -20257.92,
+          "Y": 200169.73,
+          "Z": -18971.188
+        },
+        "FootholdLocation": {
+          "X": -20257.92,
+          "Y": 200169.73,
+          "Z": -18971.188
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_SimpleFaction2_name",
+          "SourceString": "探险家办事处-秋日号",
+          "LocalizedString": "探险家办事处-秋日号"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_SimpleFaction2_des",
+          "SourceString": "如果你在探险的过程中发现了艾达旧物，请记得提交给我们，这会对我们更好的了解艾达的过去！",
+          "LocalizedString": "如果你在探险的过程中发现了艾达旧物，请记得提交给我们，这会对我们更好的了解艾达的过去！"
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_SimpleFaction2_name",
+          "SourceString": "探险家办事处-秋日号",
+          "LocalizedString": "探险家办事处-秋日号"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Map_Kailo_ShopNpc_Food_11": {
+        "PointType": "Map_Kailo_ShopNpc_Food",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -12569.0,
+          "Y": 197128.0,
+          "Z": -17750.0
+        },
+        "FootholdLocation": {
+          "X": -12569.0,
+          "Y": 197128.0,
+          "Z": -17750.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_name",
+          "SourceString": "千纸鹤路边摊",
+          "LocalizedString": "千纸鹤路边摊"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_des",
+          "SourceString": "为了帮助星际探险家们解决后顾之忧，也为了给探险协会筹措资金，千纸鹤星际探险协会与一些星际游商合作，在探险家们最常聚集的地方设立了一些流动摊点，贩卖常见的食物与药品。",
+          "LocalizedString": "为了帮助星际探险家们解决后顾之忧，也为了给探险协会筹措资金，千纸鹤星际探险协会与一些星际游商合作，在探险家们最常聚集的地方设立了一些流动摊点，贩卖常见的食物与药品。"
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_name",
+          "SourceString": "千纸鹤路边摊",
+          "LocalizedString": "千纸鹤路边摊"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Map_Kailo_ShopNpc_Food_12": {
+        "PointType": "Map_Kailo_ShopNpc_Food",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -39880.0,
+          "Y": 259922.0,
+          "Z": -10731.0
+        },
+        "FootholdLocation": {
+          "X": -39880.0,
+          "Y": 259922.0,
+          "Z": -10731.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_name",
+          "SourceString": "千纸鹤路边摊",
+          "LocalizedString": "千纸鹤路边摊"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_des",
+          "SourceString": "为了帮助星际探险家们解决后顾之忧，也为了给探险协会筹措资金，千纸鹤星际探险协会与一些星际游商合作，在探险家们最常聚集的地方设立了一些流动摊点，贩卖常见的食物与药品。",
+          "LocalizedString": "为了帮助星际探险家们解决后顾之忧，也为了给探险协会筹措资金，千纸鹤星际探险协会与一些星际游商合作，在探险家们最常聚集的地方设立了一些流动摊点，贩卖常见的食物与药品。"
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_name",
+          "SourceString": "千纸鹤路边摊",
+          "LocalizedString": "千纸鹤路边摊"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Map_Kailo_ShopNpc_Food_13": {
+        "PointType": "Map_Kailo_ShopNpc_Food",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -25075.0,
+          "Y": 204141.0,
+          "Z": -18260.0
+        },
+        "FootholdLocation": {
+          "X": -25075.0,
+          "Y": 204141.0,
+          "Z": -18260.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_name",
+          "SourceString": "千纸鹤路边摊",
+          "LocalizedString": "千纸鹤路边摊"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_des",
+          "SourceString": "为了帮助星际探险家们解决后顾之忧，也为了给探险协会筹措资金，千纸鹤星际探险协会与一些星际游商合作，在探险家们最常聚集的地方设立了一些流动摊点，贩卖常见的食物与药品。",
+          "LocalizedString": "为了帮助星际探险家们解决后顾之忧，也为了给探险协会筹措资金，千纸鹤星际探险协会与一些星际游商合作，在探险家们最常聚集的地方设立了一些流动摊点，贩卖常见的食物与药品。"
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_name",
+          "SourceString": "千纸鹤路边摊",
+          "LocalizedString": "千纸鹤路边摊"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
+      },
+      "Map_Kailo_ShopNpc_Food_14": {
+        "PointType": "Map_Kailo_ShopNpc_Food",
+        "LevelName": "Kailo_P",
+        "Location": {
+          "X": -41485.0,
+          "Y": 265437.0,
+          "Z": -11696.0
+        },
+        "FootholdLocation": {
+          "X": -41485.0,
+          "Y": 265437.0,
+          "Z": -11696.0
+        },
+        "FootholdRotator": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bIsCanActivePoint": false,
+        "ActiveCheckDistance": 5000.0,
+        "ActiveAwardDropID": "None",
+        "MapPointState": 0,
+        "PointTitle": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_name",
+          "SourceString": "千纸鹤路边摊",
+          "LocalizedString": "千纸鹤路边摊"
+        },
+        "PointDescription": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_des",
+          "SourceString": "为了帮助星际探险家们解决后顾之忧，也为了给探险协会筹措资金，千纸鹤星际探险协会与一些星际游商合作，在探险家们最常聚集的地方设立了一些流动摊点，贩卖常见的食物与药品。",
+          "LocalizedString": "为了帮助星际探险家们解决后顾之忧，也为了给探险协会筹措资金，千纸鹤星际探险协会与一些星际游商合作，在探险家们最常聚集的地方设立了一些流动摊点，贩卖常见的食物与药品。"
+        },
+        "ShowTipsContent": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Map_Kailo_ShopNpc_Food_name",
+          "SourceString": "千纸鹤路边摊",
+          "LocalizedString": "千纸鹤路边摊"
+        },
+        "PreviewAwardInfo": [],
+        "RegionIndex": -1,
+        "bIsBothHiddenRegionLocked": false,
+        "QuestID": "None",
+        "QuestObjID": "None",
+        "UnlockFuncID": "None",
+        "YahahaID": "None",
+        "MiniGameID": "None",
+        "WirelessAreaIndex": -1,
+        "VisibleStatueMiniLevel": {
+          "IntVal": 0,
+          "NameVal": "None"
+        },
+        "CheckBuffType": "EMapIconVisibleBuffType::E_Buff_OnlyVis",
+        "VisibleBuffEffectTags": [],
+        "VisServerType": "EMapIconVisibleServerType::E_Vis_AllServer",
+        "DisableInServerModes": [],
+        "VisTaxiZoneIdx": 0,
+        "VisSatelliteKey": "None",
+        "bIsTowerEnergyPoint": false,
+        "TreasureBoxID": "None",
+        "TreasureBoxWaitSeconds": -1.0,
+        "TowerID": "None",
+        "IgnoreDistenceStatueID": "None",
+        "RelateTowerPoints": [],
+        "bIsWhaleIslePoint": false,
+        "bIsVisibleInWhaleIsle": true,
+        "bIsChangeIconByZOff": false,
+        "MapIconTopZOff": 100.0,
+        "MapIconBottomZOff": 100.0
       }
     }
   }

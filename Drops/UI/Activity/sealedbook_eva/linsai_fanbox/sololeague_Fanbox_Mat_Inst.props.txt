@@ -1,4 +1,4 @@
-Parent = Material3'/Game/Resources/UI/main/shanbijindu_1_Mat1.shanbijindu_1_Mat1'
+Parent = None
 ScalarParameterValues[3] =
 {
     ScalarParameterValues[0] =
@@ -48,11 +48,7 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[2] =
-{
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/main/shanbijindu.shanbijindu'
-    CachedReferencedTextures[1] = Texture2D'/Game/Resources/UI/SoloLeague/yongzhejifen_jindutiao.yongzhejifen_jindutiao'
-}
+CachedReferencedTextures[2] = {  }
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

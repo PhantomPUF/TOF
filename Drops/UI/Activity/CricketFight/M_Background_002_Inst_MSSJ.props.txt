@@ -1,4 +1,4 @@
-Parent = Material3'/Game/Resources/Effect/Meshes/UI/Background/M_Background_002.M_Background_002'
+Parent = None
 ScalarParameterValues[10] =
 {
     ScalarParameterValues[0] =
@@ -67,7 +67,7 @@ TextureParameterValues[2] =
     TextureParameterValues[0] =
     {
         ParameterInfo = { Name=ScreenTex1 }
-        ParameterValue = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask018.T_Mask018'
+        ParameterValue = None
         ParameterName = None
     }
     TextureParameterValues[1] =
@@ -122,11 +122,7 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[2] =
-{
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask027.T_Mask027'
-    CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Meshes/UI/Background/T_BackgroundTexture_1.T_BackgroundTexture_1'
-}
+CachedReferencedTextures[2] = {  }
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

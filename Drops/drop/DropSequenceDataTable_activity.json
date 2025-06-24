@@ -12466,6 +12466,246 @@
         "LimitLevel": "",
         "NotBindPercent": 0.0
       },
+      "droplist_BlindBox_mix14_0": {
+        "ItemID": "choose_dressbox_mix14",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 2000,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_1": {
+        "ItemID": "imitation_fashion_37_w",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 2666,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_2": {
+        "ItemID": "imitation_fashion_41_w",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 2667,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_3": {
+        "ItemID": "imitation_fashion_43_w",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 2667,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_4": {
+        "ItemID": "Avatar_87",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 3333,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_5": {
+        "ItemID": "AvatarFrame_87",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 3333,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_6": {
+        "ItemID": "chat_qipao_87",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 3334,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_7": {
+        "ItemID": "Avatar_92",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 3333,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_8": {
+        "ItemID": "AvatarFrame_92",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 3333,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_9": {
+        "ItemID": "chat_qipao_92",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 3334,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_10": {
+        "ItemID": "Avatar_101",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 3333,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_11": {
+        "ItemID": "AvatarFrame_101",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 3333,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_12": {
+        "ItemID": "chat_qipao_101",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 3334,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_13": {
+        "ItemID": "Item_Gem_004",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 15000,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_14": {
+        "ItemID": "Item_Gem_003",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 15000,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_15": {
+        "ItemID": "item_ticket_02",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 15000,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_16": {
+        "ItemID": "item_ticket_01",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 15000,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_17": {
+        "ItemID": "Item_EquipAttrSelect",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 25000,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_18": {
+        "ItemID": "fragment_reactor_orange",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 2,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 583333,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_19": {
+        "ItemID": "fragment_exoskeleton_orange",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 2,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 291667,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
       "droplist_BlindBox_PS_0": {
         "ItemID": "fashion_dress_73_4",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
@@ -13404,6 +13644,18 @@
       },
       "droplist_BlindBox_mix7_balance_pack_0": {
         "ItemID": "Blindbox_mix7_balance",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_BlindBox_mix14_balance_pack_0": {
+        "ItemID": "Blindbox_mix14_balance",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -20279,6 +20531,234 @@
         "NotBindPercent": 0.0
       },
       "droplist_bp_show_68_30th_18": {
+        "ItemID": "Item_Gold",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 240000,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_0": {
+        "ItemID": "Item_Gem_004",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 10,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_1": {
+        "ItemID": "item_ticket_02",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 5,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_2": {
+        "ItemID": "Item_FakeDiamond",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1280,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_3": {
+        "ItemID": "choose_frag_BP28",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 120,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_4": {
+        "ItemID": "Item_VeraCoinRare",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 750,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_5": {
+        "ItemID": "matrix_SR9_1",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_6": {
+        "ItemID": "matrix_SR9_2",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_7": {
+        "ItemID": "matrix_SR9_3",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_8": {
+        "ItemID": "matrix_SR9_4",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_9": {
+        "ItemID": "TFB_drop_2x",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 40,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_10": {
+        "ItemID": "StrengthenStone_02",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 20,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_11": {
+        "ItemID": "StrengthenStone_01",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 120,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_12": {
+        "ItemID": "Item_breakthrough_C1",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 42,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_13": {
+        "ItemID": "Item_breakthrough_D1",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 42,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_14": {
+        "ItemID": "Item_breakthrough_A1",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 84,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_15": {
+        "ItemID": "Item_breakthrough_B1",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 84,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_16": {
+        "ItemID": "weapon_exp_sr",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 200,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_17": {
+        "ItemID": "matrix_exp_sr",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 200,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_bp_show_68_31th_18": {
         "ItemID": "Item_Gold",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 240000,
@@ -30912,6 +31392,90 @@
       },
       "droplist_tower33_award7_0": {
         "ItemID": "Title_1_1_28_1",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_tower34_award1_0": {
+        "ItemID": "Item_PermanentHealth1200",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_tower34_award2_0": {
+        "ItemID": "Item_Kailo_Coin",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 10000,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_tower34_award3_0": {
+        "ItemID": "Item_Gem_004",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 3,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_tower34_award4_0": {
+        "ItemID": "choose_equiptupo_abcd",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 10,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_tower34_award5_0": {
+        "ItemID": "Item_PermanentCommonAtk25",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_tower34_award6_0": {
+        "ItemID": "item_ticket_02",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 3,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_tower34_award7_0": {
+        "ItemID": "Title_1_1_29_1",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51287,7 +51851,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_001_0": {
-        "ItemID": "item_cuffcoin",
+        "ItemID": "item_xpe_coin",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 80,
         "SequenceProbability": [],
@@ -51299,7 +51863,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_001_1": {
-        "ItemID": "item_cuffcoin",
+        "ItemID": "item_xpe_coin",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 150,
         "SequenceProbability": [],
@@ -51311,7 +51875,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_001_2": {
-        "ItemID": "Item_Activity_ZXWX_DataCore_1",
+        "ItemID": "Item_Activity_QXYH_DataCore_1",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51323,7 +51887,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_001_3": {
-        "ItemID": "Item_Activity_ZXWX_DataCore_2",
+        "ItemID": "Item_Activity_QXYH_DataCore_2",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51335,7 +51899,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_001_4": {
-        "ItemID": "Item_Activity_ZXWX_DataCore_3",
+        "ItemID": "Item_Activity_QXYH_DataCore_3",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51347,7 +51911,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_0": {
-        "ItemID": "item_cuffcoin",
+        "ItemID": "item_xpe_coin",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51359,7 +51923,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_011_0": {
-        "ItemID": "item_cuffcoin",
+        "ItemID": "item_xpe_coin",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51371,7 +51935,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_012_0": {
-        "ItemID": "item_cuffcoin",
+        "ItemID": "item_xpe_coin",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51383,7 +51947,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_013_0": {
-        "ItemID": "item_cuffcoin",
+        "ItemID": "item_xpe_coin",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51395,7 +51959,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang2_011_0": {
-        "ItemID": "gift_activity_wanxiang2_011",
+        "ItemID": "gift_activity_qunxing_011",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51407,7 +51971,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang2_012_0": {
-        "ItemID": "gift_activity_wanxiang2_012",
+        "ItemID": "gift_activity_qunxing_012",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51419,7 +51983,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang2_013_0": {
-        "ItemID": "gift_activity_wanxiang2_013",
+        "ItemID": "gift_activity_qunxing_013",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51431,7 +51995,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_111_0": {
-        "ItemID": "item_cuffcoin",
+        "ItemID": "item_xpe_coin",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 160,
         "SequenceProbability": [],
@@ -51443,7 +52007,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_111_1": {
-        "ItemID": "frag_choose_fashion_wanxiang2",
+        "ItemID": "frag_choose_fashion_qunxing",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -51455,7 +52019,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_111_2": {
-        "ItemID": "frag_choose_fashion_wanxiang2",
+        "ItemID": "frag_choose_fashion_qunxing",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 2,
         "SequenceProbability": [],
@@ -51467,7 +52031,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_112_0": {
-        "ItemID": "item_cuffcoin",
+        "ItemID": "item_xpe_coin",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 200,
         "SequenceProbability": [],
@@ -51479,7 +52043,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_112_1": {
-        "ItemID": "frag_choose_fashion_wanxiang2",
+        "ItemID": "frag_choose_fashion_qunxing",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 2,
         "SequenceProbability": [],
@@ -51491,7 +52055,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_112_2": {
-        "ItemID": "frag_choose_fashion_wanxiang2",
+        "ItemID": "frag_choose_fashion_qunxing",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 3,
         "SequenceProbability": [],
@@ -51503,7 +52067,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_113_0": {
-        "ItemID": "item_cuffcoin",
+        "ItemID": "item_xpe_coin",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 330,
         "SequenceProbability": [],
@@ -51515,7 +52079,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_113_1": {
-        "ItemID": "frag_choose_fashion_wanxiang2",
+        "ItemID": "frag_choose_fashion_qunxing",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 3,
         "SequenceProbability": [],
@@ -51527,7 +52091,7 @@
         "NotBindPercent": 0.0
       },
       "droplist_activity_wanxiang_113_2": {
-        "ItemID": "frag_choose_fashion_wanxiang2",
+        "ItemID": "frag_choose_fashion_qunxing",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 4,
         "SequenceProbability": [],
@@ -51636,6 +52200,66 @@
       },
       "droplist_choose_fashion_wanxiang2_4": {
         "ItemID": "Mount_Racing_001_4",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_choose_fashion_qunxing_0": {
+        "ItemID": "Sticks_All_8_8",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_choose_fashion_qunxing_1": {
+        "ItemID": "Sticks_All_8_9",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_choose_fashion_qunxing_2": {
+        "ItemID": "Sticks_All_8_10",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_choose_fashion_qunxing_3": {
+        "ItemID": "Sticks_All_8_11",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": 1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_choose_fashion_qunxing_4": {
+        "ItemID": "fashion_decoration_2_4",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],
@@ -54336,6 +54960,30 @@
       },
       "droplist_frag_bag_chat_qipao202_0": {
         "ItemID": "frag_bag_chat_qipao202",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_item_xpe_coin_0": {
+        "ItemID": "item_xpe_coin",
+        "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
+        "Num": 1,
+        "SequenceProbability": [],
+        "MinNum": 0,
+        "MaxNum": 0,
+        "Formula": "",
+        "Weight": -1,
+        "LimitLevel": "",
+        "NotBindPercent": 0.0
+      },
+      "droplist_frag_xpe_Sticks_choose_2_0": {
+        "ItemID": "frag_xpe_Sticks_choose_2",
         "SequenceNumType": "DROPSEQUENCENUMTYPE_FIXED",
         "Num": 1,
         "SequenceProbability": [],

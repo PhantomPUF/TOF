@@ -14656,7 +14656,7 @@
       "TFB_drop_2x_1": {
         "DropID": "drop_JointBalance_2",
         "SequenceID": "droplist_equip_ssr",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14674,7 +14674,7 @@
       "TFB_drop_2x_3": {
         "DropID": "drop_JointHeadBalance_2",
         "SequenceID": "droplist_helmet_orange",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14692,7 +14692,7 @@
       "TFB_drop_2x_5": {
         "DropID": "drop_JointHandBalance_2",
         "SequenceID": "droplist_glove_orange",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14710,7 +14710,7 @@
       "TFB_drop_2x_7": {
         "DropID": "drop_JointShoulderBalance_2",
         "SequenceID": "droplist_shawl_orange",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14728,7 +14728,7 @@
       "TFB_drop_2x_9": {
         "DropID": "drop_JointArmBalance_2",
         "SequenceID": "droplist_armband_orange",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14746,7 +14746,7 @@
       "TFB_drop_2x_11": {
         "DropID": "drop_JointArmorBalance_2",
         "SequenceID": "droplist_cloth_orange",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14764,7 +14764,7 @@
       "TFB_drop_2x_13": {
         "DropID": "drop_JointBeltBalance_2",
         "SequenceID": "droplist_belt_orange",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14782,7 +14782,7 @@
       "TFB_drop_2x_15": {
         "DropID": "drop_JointLegBalance_2",
         "SequenceID": "droplist_pants_orange",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14800,7 +14800,7 @@
       "TFB_drop_2x_17": {
         "DropID": "drop_JointShoeBalance_2",
         "SequenceID": "droplist_shoes_orange",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14818,7 +14818,7 @@
       "TFB_drop_2x_19": {
         "DropID": "drop_JointPhysicBalance_2",
         "SequenceID": "droplist_equip_orange_physic",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14836,7 +14836,7 @@
       "TFB_drop_2x_21": {
         "DropID": "drop_JointFireBalance_2",
         "SequenceID": "droplist_equip_orange_fire",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14854,7 +14854,7 @@
       "TFB_drop_2x_23": {
         "DropID": "drop_JointIceBalance_2",
         "SequenceID": "droplist_equip_orange_ice",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
@@ -14872,10 +14872,46 @@
       "TFB_drop_2x_25": {
         "DropID": "drop_JointThunderBalance_2",
         "SequenceID": "droplist_equip_orange_thunder",
-        "AbsoluteMult": 1.0,
+        "AbsoluteMult": 0.0,
         "RelativeMult": 1.0,
         "AbsoluteCount": 0,
         "RelativeCount": 2.0,
+        "SpecialFallModifyCount": 1
+      },
+      "TFB_drop_3x_0": {
+        "DropID": "drop_JointBalance_1",
+        "SequenceID": "droplist_equip_sr",
+        "AbsoluteMult": 0.0,
+        "RelativeMult": 1.0,
+        "AbsoluteCount": 0,
+        "RelativeCount": 3.0,
+        "SpecialFallModifyCount": 1
+      },
+      "TFB_drop_3x_1": {
+        "DropID": "drop_JointBalance_2",
+        "SequenceID": "droplist_equip_ssr",
+        "AbsoluteMult": 0.0,
+        "RelativeMult": 1.0,
+        "AbsoluteCount": 0,
+        "RelativeCount": 3.0,
+        "SpecialFallModifyCount": 1
+      },
+      "TFB_drop_4x_0": {
+        "DropID": "drop_JointBalance_1",
+        "SequenceID": "droplist_equip_sr",
+        "AbsoluteMult": 0.0,
+        "RelativeMult": 1.0,
+        "AbsoluteCount": 0,
+        "RelativeCount": 4.0,
+        "SpecialFallModifyCount": 1
+      },
+      "TFB_drop_4x_1": {
+        "DropID": "drop_JointBalance_2",
+        "SequenceID": "droplist_equip_ssr",
+        "AbsoluteMult": 0.0,
+        "RelativeMult": 1.0,
+        "AbsoluteCount": 0,
+        "RelativeCount": 4.0,
         "SpecialFallModifyCount": 1
       },
       "buff_GVE_ExpUP_0": {

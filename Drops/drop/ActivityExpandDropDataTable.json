@@ -1,0 +1,954 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ActivityExpandDropDataTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ExpandDropActivityConfig'",
+        "ObjectPath": "/Script/HottaFramework"
+      },
+      "bStripFromClientBuilds": true
+    },
+    "Rows": {
+      "Season1Version1": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 6,
+          "Day": 1,
+          "Hour": 0,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 7,
+          "Day": 1,
+          "Hour": 0,
+          "Minute": 0,
+          "Second": 0
+        },
+        "ExpandDropInfo": [
+          {
+            "Key": "treasure_poor_specialboss_a1_3",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a2_4",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a3_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a4_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a4_4",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a5_3",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a7_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a7_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a9_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a10_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a13_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a13_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a17_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a18_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a20_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a22_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a23_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a23_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a24_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a25_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a26_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a26_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a28_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a29_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a29_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a30_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a31_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a32_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a33_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a1_3",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a2_4",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a3_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a4_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a4_4",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a5_3",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a9_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a10_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a13_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a13_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a17_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a18_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a20_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a22_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a23_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a23_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a24_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a25_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a26_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a26_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a28_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a29_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a29_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a30_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a31_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a32_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a33_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version1"
+              ]
+            }
+          }
+        ],
+        "ClientDropItemListRowName": "None"
+      },
+      "Season1Version2": {
+        "StartDateTime": {
+          "Year": 2025,
+          "Month": 7,
+          "Day": 2,
+          "Hour": 0,
+          "Minute": 0,
+          "Second": 0
+        },
+        "EndDateTime": {
+          "Year": 2025,
+          "Month": 8,
+          "Day": 1,
+          "Hour": 0,
+          "Minute": 0,
+          "Second": 0
+        },
+        "ExpandDropInfo": [
+          {
+            "Key": "treasure_poor_specialboss_a1_3",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a2_4",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a3_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a4_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a4_4",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a5_3",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a7_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a7_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a9_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a10_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a13_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a13_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a17_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a18_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a20_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a22_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a23_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a23_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a24_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a25_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a26_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a26_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a28_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a29_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a29_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a30_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a31_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a32_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_poor_specialboss_a33_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_poor_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a1_3",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a2_4",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a3_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a4_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a4_4",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a5_3",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a9_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a10_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a13_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a13_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a17_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a18_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a20_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a22_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a23_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a23_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a24_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a25_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a26_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a26_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a28_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a29_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a29_2",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a30_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a31_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a32_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          },
+          {
+            "Key": "treasure_specialboss_a33_1",
+            "Value": {
+              "ExpandDropGroupIDs": [
+                "treasure_specialboss_extra_season1_version2"
+              ]
+            }
+          }
+        ],
+        "ClientDropItemListRowName": "None"
+      }
+    }
+  }
+]

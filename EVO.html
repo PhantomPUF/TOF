@@ -336,8 +336,8 @@ function getBosses1(file){
             let codename = removeSubstrings(boss.AttributeID.toLowerCase(), replaceHum);
             if(codename == "bjzq")
               codename = "032";
-            if(codename == "64")
-              codename = "064";
+            //if(codename == "64")
+            //  codename = "064";
 
             let boss1;
             const index = bosses.findIndex(i => i.codeName == codename);

@@ -1,4 +1,4 @@
-Parent = Material3'/Game/Resources/UI/MiniMap/MapMask/MM_OutDoorMapMask.MM_OutDoorMapMask'
+Parent = None
 ScalarParameterValues[9] =
 {
     ScalarParameterValues[0] =
@@ -61,7 +61,7 @@ TextureParameterValues[3] =
     TextureParameterValues[0] =
     {
         ParameterInfo = { Name=AddTex }
-        ParameterValue = Texture2D'/Game/Resources/UI/MiniMap/MapVera/T_mapmask_wangge.T_mapmask_wangge'
+        ParameterValue = None
         ParameterName = None
     }
     TextureParameterValues[1] =
@@ -73,7 +73,7 @@ TextureParameterValues[3] =
     TextureParameterValues[2] =
     {
         ParameterInfo = { Name=MainTex }
-        ParameterValue = Texture2D'/Game/Resources/UI/MiniMap/MapVera/T_mapmask_star.T_mapmask_star'
+        ParameterValue = None
         ParameterName = None
     }
 }
@@ -116,12 +116,7 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[4] =
-{
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/MiniMap/T_MapMask_TileMask.T_MapMask_TileMask'
-    CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_EnergyA001.T_EnergyA001'
-    CachedReferencedTextures[2] = Texture2D'/Game/Resources/UI/MiniMap/MapMask/mapmask_texture/mapmask_0.mapmask_0'
-}
+CachedReferencedTextures[4] = {  }
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

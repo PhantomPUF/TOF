@@ -1,4 +1,4 @@
-Parent = MaterialInstanceConstant'/Game/Resources/Effect/Materials/UI/Cards/M_Cards_001_Inst1.M_Cards_001_Inst1'
+Parent = None
 ScalarParameterValues[4] =
 {
     ScalarParameterValues[0] =
@@ -37,7 +37,7 @@ TextureParameterValues[2] =
     TextureParameterValues[1] =
     {
         ParameterInfo = { Name=NoiseMask }
-        ParameterValue = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Cowcatcher_TrailMask.T_Cowcatcher_TrailMask'
+        ParameterValue = None
         ParameterName = None
     }
 }
@@ -100,13 +100,7 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[4] =
-{
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/UI/Common/T_UI_Common_002.T_UI_Common_002'
-    CachedReferencedTextures[1] = Texture2D'/Game/Resources/UI/main/btn_auto2_Mask.btn_auto2_Mask'
-    CachedReferencedTextures[2] = Texture2D'/Game/Resources/Effect/Textures/Tiles/T_Noise003.T_Noise003'
-    CachedReferencedTextures[3] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Cowcatcher_TrailMask.T_Cowcatcher_TrailMask'
-}
+CachedReferencedTextures[4] = {  }
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

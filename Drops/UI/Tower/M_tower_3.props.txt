@@ -1,4 +1,4 @@
-Parent = Material3'/Game/Resources/Effect/Materials/UI/Common/M_UI_Common_011.M_UI_Common_011'
+Parent = None
 ScalarParameterValues[2] =
 {
     ScalarParameterValues[0] =
@@ -52,7 +52,6 @@ RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
 CachedReferencedTextures[2] =
 {
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/yindao/npc_brother_xiwang.npc_brother_xiwang'
     CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask029.T_Mask029'
 }
 FlattenedTexture = None

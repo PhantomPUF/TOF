@@ -1,0 +1,414 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ActivityExpandDropShowDataTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ShowExpandDropItemsConfig'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Season1Version1": {
+        "ExpandDropItemsInfo": [
+          {
+            "Key": "mmo_brief_miaFashion",
+            "Value": {
+              "ItemTypeText": {
+                "TableId": "/Game/Resources/CoreBlueprints/DataTable_MMO/StringTable/ST_Item_MMO.ST_Item_MMO",
+                "Key": "mmo_brief_miaFashion",
+                "SourceString": "mia外观",
+                "LocalizedString": "mia外观"
+              },
+              "ExpandDropItems": [
+                "mmo_frag_fashion_Guidenpc_mia_5",
+                "mmo_frag_fashion_Guidenpc_mia_6"
+              ]
+            }
+          },
+          {
+            "Key": "mmo_brief_Fashion",
+            "Value": {
+              "ItemTypeText": {
+                "TableId": "/Game/Resources/CoreBlueprints/DataTable_MMO/StringTable/ST_Item_MMO.ST_Item_MMO",
+                "Key": "mmo_brief_Fashion",
+                "SourceString": "外观",
+                "LocalizedString": "外观"
+              },
+              "ExpandDropItems": [
+                "mmo_frag_fashion_dress_7_4",
+                "mmo_frag_fashion_dress_8_4",
+                "mmo_frag_fashion_dress_11_4",
+                "mmo_frag_fashion_dress_14_4",
+                "mmo_frag_fashion_dress_16_4",
+                "mmo_frag_fashion_dress_17_4",
+                "mmo_frag_fashion_dress_18_4",
+                "mmo_frag_fashion_dress_20_4",
+                "mmo_frag_fashion_dress_21_4",
+                "mmo_frag_fashion_dress_23_4",
+                "mmo_frag_fashion_dress_29_4",
+                "mmo_frag_fashion_dress_31_4",
+                "mmo_frag_fashion_dress_32_4",
+                "mmo_frag_fashion_dress_34_4",
+                "mmo_frag_fashion_dress_35_4",
+                "frag_imitation_extra_58",
+                "frag_imitation_extra_3",
+                "frag_imitation_extra_37",
+                "frag_imitation_extra_61",
+                "frag_imitation_extra_48",
+                "frag_imitation_extra_59",
+                "frag_imitation_extra_12",
+                "frag_imitation_extra_23",
+                "Hat_2_4_4",
+                "Hat_3_4_4",
+                "Hat_4_4_4",
+                "Hat_5_4_4",
+                "Hat_6_4_4",
+                "Hat_7_4_4",
+                "Hat_8_4_4",
+                "Hat_9_4_4",
+                "Hat_10_4_4",
+                "Hat_11_4_4",
+                "Hat_12_4_4",
+                "Hat_13_4_4",
+                "Hat_14_4_4",
+                "Hat_15_4_4",
+                "Hat_16_4_4",
+                "Hat_17_4_4",
+                "Hat_18_4_4",
+                "Hat_19_4_4",
+                "Hat_20_4_4",
+                "Hat_21_4_4",
+                "Hat_23_4_4",
+                "Hat_24_4_4",
+                "Hat_25_4_4",
+                "Hat_28_4_4",
+                "Hat_29_4_4",
+                "Hat_33_4_4",
+                "Hat_34_4_4",
+                "Hat_35_4_4",
+                "Hat_36_4_4",
+                "Hat_37_4_4",
+                "Hat_40_4_4",
+                "Hat_42_4_4",
+                "Hat_43_4_4",
+                "Hat_44_4_4",
+                "Hat_56_4_4",
+                "Hat_60_4_4",
+                "Hat_64_4_4",
+                "Hat_65_4_4",
+                "Hat_66_4_4",
+                "Hat_67_4_4",
+                "makeup_Hair_010",
+                "makeup_Hair_015"
+              ]
+            }
+          },
+          {
+            "Key": "mmo_brief_Jewelry",
+            "Value": {
+              "ItemTypeText": {
+                "TableId": "/Game/Resources/CoreBlueprints/DataTable_MMO/StringTable/ST_Item_MMO.ST_Item_MMO",
+                "Key": "mmo_brief_Jewelry",
+                "SourceString": "饰品",
+                "LocalizedString": "饰品"
+              },
+              "ExpandDropItems": [
+                "Hat_2_4_4",
+                "Hat_3_4_4",
+                "Hat_4_4_4",
+                "Hat_5_4_4",
+                "Hat_6_4_4",
+                "Hat_7_4_4",
+                "Hat_8_4_4",
+                "Hat_9_4_4",
+                "Hat_10_4_4",
+                "Hat_11_4_4",
+                "Hat_12_4_4",
+                "Hat_13_4_4",
+                "Hat_14_4_4",
+                "Hat_15_4_4",
+                "Hat_16_4_4",
+                "Hat_17_4_4",
+                "Hat_18_4_4",
+                "Hat_19_4_4",
+                "Hat_20_4_4",
+                "Hat_21_4_4",
+                "Hat_23_4_4",
+                "Hat_24_4_4",
+                "Hat_25_4_4",
+                "Hat_28_4_4",
+                "Hat_29_4_4",
+                "Hat_33_4_4",
+                "Hat_34_4_4",
+                "Hat_35_4_4",
+                "Hat_36_4_4",
+                "Hat_37_4_4",
+                "Hat_40_4_4",
+                "Hat_42_4_4",
+                "Hat_43_4_4",
+                "Hat_44_4_4",
+                "Hat_56_4_4",
+                "Hat_60_4_4",
+                "Hat_64_4_4",
+                "Hat_65_4_4",
+                "Hat_66_4_4",
+                "Hat_67_4_4"
+              ]
+            }
+          },
+          {
+            "Key": "mmo_brief_Makeup",
+            "Value": {
+              "ItemTypeText": {
+                "TableId": "/Game/Resources/CoreBlueprints/DataTable_MMO/StringTable/ST_Item_MMO.ST_Item_MMO",
+                "Key": "mmo_brief_Makeup",
+                "SourceString": "妆容",
+                "LocalizedString": "妆容"
+              },
+              "ExpandDropItems": [
+                "makeup_face_027",
+                "makeup_face_028",
+                "makeup_face_029",
+                "makeup_face_030",
+                "makeup_face_031",
+                "makeup_face_032",
+                "makeup_face_033",
+                "makeup_face_034",
+                "makeup_Eyeball_018",
+                "makeup_Eyeball_019"
+              ]
+            }
+          },
+          {
+            "Key": "mmo_brief_Car",
+            "Value": {
+              "ItemTypeText": {
+                "TableId": "/Game/Resources/CoreBlueprints/DataTable_MMO/StringTable/ST_Item_MMO.ST_Item_MMO",
+                "Key": "mmo_brief_Car",
+                "SourceString": "载具",
+                "LocalizedString": "载具"
+              },
+              "ExpandDropItems": [
+                "mmo_frag_Mount_039",
+                "mmo_frag_Mount033_skin_01",
+                "mmo_frag_Mount_038",
+                "mmo_frag_Mount_036",
+                "mmo_frag_Mount035_skin_01",
+                "mmo_frag_Mount_034",
+                "mmo_frag_Mount_Racing_003_guo",
+                "mmo_frag_Mount_Water_009_Skin_01",
+                "mmo_frag_MountWater8",
+                "mmo_frag_Mount_Racing_004"
+              ]
+            }
+          },
+          {
+            "Key": "mmo_brief_Chat",
+            "Value": {
+              "ItemTypeText": {
+                "TableId": "/Game/Resources/CoreBlueprints/DataTable_MMO/StringTable/ST_Item_MMO.ST_Item_MMO",
+                "Key": "mmo_brief_Chat",
+                "SourceString": "聊天",
+                "LocalizedString": "聊天"
+              },
+              "ExpandDropItems": [
+                "chat_qipao1",
+                "chat_qipao2",
+                "chat_qipao3",
+                "chat_qipao4",
+                "chat_qipao5",
+                "chat_qipao6",
+                "chat_qipao7",
+                "chat_qipao8",
+                "chat_qipao9",
+                "chat_qipao10",
+                "chat_qipao11",
+                "chat_qipao12",
+                "chat_qipao13",
+                "chat_qipao14",
+                "chat_qipao15",
+                "chat_qipao16",
+                "chat_qipao17",
+                "chat_qipao18",
+                "chat_qipao20",
+                "chat_qipao21",
+                "chat_qipao23",
+                "chat_qipao24",
+                "chat_qipao25",
+                "chat_qipao26",
+                "chat_qipao27"
+              ]
+            }
+          },
+          {
+            "Key": "mmo_brief_Action",
+            "Value": {
+              "ItemTypeText": {
+                "TableId": "/Game/Resources/CoreBlueprints/DataTable_MMO/StringTable/ST_Item_MMO.ST_Item_MMO",
+                "Key": "mmo_brief_Action",
+                "SourceString": "动作",
+                "LocalizedString": "动作"
+              },
+              "ExpandDropItems": [
+                "chat_Action_daxiao",
+                "chat_Action_ku",
+                "chat_Action_xiaxue",
+                "chat_Action_xieli",
+                "chat_Action_tiaowu1",
+                "chat_Action_tiaowu2",
+                "chat_miaAction_qiuqian"
+              ]
+            }
+          },
+          {
+            "Key": "mmo_brief_Card",
+            "Value": {
+              "ItemTypeText": {
+                "TableId": "/Game/Resources/CoreBlueprints/DataTable_MMO/StringTable/ST_Item_MMO.ST_Item_MMO",
+                "Key": "mmo_brief_Card",
+                "SourceString": "名片",
+                "LocalizedString": "名片"
+              },
+              "ExpandDropItems": [
+                "CardBackground_3",
+                "CardBackground_4",
+                "CardBackground_6",
+                "CardBackground_8",
+                "ActorBackground_3",
+                "ActorBackground_4",
+                "ActorBackground_6",
+                "ActorBackground_8",
+                "CardFrame_3",
+                "CardFrame_4",
+                "CardFrame_6",
+                "CardFrame_8",
+                "ActorFrame_3",
+                "ActorFrame_4",
+                "ActorFrame_6",
+                "ActorFrame_8",
+                "SelfCardParticle_1",
+                "SelfCardParticle_2",
+                "Sticks_Part_1_1",
+                "Sticks_Part_1_2",
+                "Sticks_Part_1_3",
+                "Sticks_Part_1_4",
+                "Sticks_Part_1_5",
+                "Sticks_Part_1_6",
+                "Sticks_Part_1_7",
+                "Sticks_Part_1_8",
+                "Sticks_Part_1_9",
+                "Sticks_Part_1_10",
+                "Sticks_Part_1_11",
+                "Sticks_Part_1_12",
+                "Sticks_Part_1_13",
+                "Sticks_Part_1_14",
+                "Sticks_Part_1_15",
+                "Sticks_All_1_1",
+                "Sticks_All_1_2",
+                "Sticks_All_1_3",
+                "Sticks_All_1_5",
+                "Sticks_All_1_6",
+                "Sticks_All_1_7",
+                "Sticks_All_1_8",
+                "Sticks_All_1_9",
+                "Sticks_All_1_10",
+                "Sticks_All_1_11",
+                "Sticks_All_1_12",
+                "Sticks_All_2_1",
+                "Sticks_All_2_2",
+                "Sticks_All_2_3",
+                "Sticks_All_2_4",
+                "Sticks_All_2_5",
+                "Sticks_All_2_6",
+                "Sticks_All_2_7",
+                "Sticks_All_2_8",
+                "Sticks_All_2_9",
+                "Sticks_All_2_10",
+                "Sticks_All_2_11",
+                "Sticks_All_2_12",
+                "Sticks_All_2_13",
+                "Sticks_All_2_14",
+                "Sticks_All_2_15",
+                "Badge_3_1_1",
+                "Badge_3_1_2",
+                "Badge_3_1_3",
+                "Badge_3_1_4",
+                "Badge_3_1_5",
+                "Badge_3_1_6",
+                "Badge_3_1_7",
+                "Badge_3_1_8",
+                "Badge_3_1_9",
+                "Badge_3_1_10"
+              ]
+            }
+          },
+          {
+            "Key": "mmo_brief_Avatar",
+            "Value": {
+              "ItemTypeText": {
+                "TableId": "/Game/Resources/CoreBlueprints/DataTable_MMO/StringTable/ST_Item_MMO.ST_Item_MMO",
+                "Key": "mmo_brief_Avatar",
+                "SourceString": "头像",
+                "LocalizedString": "头像"
+              },
+              "ExpandDropItems": [
+                "Avatar03",
+                "Avatar04",
+                "Avatar05",
+                "Avatar07",
+                "Avatar08",
+                "Avatar13",
+                "Avatar14",
+                "Avatar15",
+                "Avatar16",
+                "Avatar17",
+                "Avatar18",
+                "Avatar19",
+                "Avatar20",
+                "Avatar21",
+                "Avatar22",
+                "Avatar23",
+                "Avatar24",
+                "Avatar25",
+                "Avatar26",
+                "Avatar27",
+                "Avatar28",
+                "Avatar29",
+                "Avatar30",
+                "Avatar31",
+                "Avatar32",
+                "AvatarFrame03",
+                "AvatarFrame04",
+                "AvatarFrame06",
+                "AvatarFrame07",
+                "AvatarFrame08",
+                "AvatarFrame09",
+                "AvatarFrame10",
+                "AvatarFrame11",
+                "AvatarFrame12",
+                "AvatarFrame15",
+                "AvatarFrame16",
+                "AvatarFrame17",
+                "AvatarFrame18",
+                "AvatarFrame19",
+                "AvatarFrame20",
+                "AvatarFrame21",
+                "AvatarFrame23",
+                "AvatarFrame24",
+                "AvatarFrame25",
+                "AvatarFrame26",
+                "AvatarFrame27",
+                "AvatarFrame28",
+                "AvatarFrame29",
+                "AvatarFrame30",
+                "AvatarFrame31"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+]
