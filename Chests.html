@@ -429,7 +429,7 @@ function hideLoader() {
 
 async function loadlanguage(lang) {
   try {
-      const response = await fetch(`Game_${lang}.json`);
+      const response = await fetch(`Global/Game_${lang}.json`);
       languagejson = await response.json();
 
       //keyToFind = "StrengthenStone_07_name";
