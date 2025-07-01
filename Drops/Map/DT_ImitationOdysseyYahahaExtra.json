@@ -2013,6 +2013,66 @@
         "LevelMap": "Norn_P",
         "AvailableServerMode": "EHottaServerModeLimit::AllServer",
         "RelateDropId": "Harvest_a32_Collection_30"
+      },
+      "Norn_WaterJump_A30_B5_001": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Reputation_JiGuangIndustry_a30"
+      },
+      "Norn_WaterJump_A30_D3_001": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Reputation_JiGuangIndustry_a30"
+      },
+      "Norn_WaterJump_A30_G1_001": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Reputation_JiGuangIndustry_a30"
+      },
+      "Norn_WaterJump_A30_I1_001": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Reputation_JiGuangIndustry_a30"
+      },
+      "Norn_WaterJump_A30_L1_001": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Reputation_JiGuangIndustry_a30"
+      },
+      "Norn_WaterJump_A30_M1_001": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Reputation_JiGuangIndustry_a30"
+      },
+      "Norn_WaterJump_A30_P1_001": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Reputation_JiGuangIndustry_a30"
+      },
+      "Norn_WaterJump_A30_Q4_001": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Reputation_JiGuangIndustry_a30"
+      },
+      "Norn_WaterJump_A30_Q5_001": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Reputation_JiGuangIndustry_a30"
+      },
+      "Norn_WaterJump_A30_P6_001": {
+        "RelateType": "EExploreType::gem",
+        "LevelMap": "Norn_P",
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "RelateDropId": "Reputation_JiGuangIndustry_a30"
       }
     }
   }

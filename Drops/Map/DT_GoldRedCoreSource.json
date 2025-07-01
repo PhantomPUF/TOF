@@ -9613,762 +9613,762 @@
       "961": {
         "SourceId": "treasureone_a32_Power_004",
         "IsRed": true,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "0F7DBE9541DA424D4D408BB90C88900C",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_003_Under_004",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17268
       },
       "962": {
         "SourceId": "treasureone_a32_Power_006",
         "IsRed": true,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "C6B36F0246F98F2F153BF99F7E4A3AF2",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_003_Under_006",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17270
       },
       "963": {
         "SourceId": "treasureone_a32_Power_001",
         "IsRed": true,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "D677B51F4D87DAAACAAADDA7CCFCD46C",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_003_Under_001",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17265
       },
       "964": {
         "SourceId": "treasureone_a32_Power_002",
         "IsRed": true,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "0DFDD8C643AE1B020A5D1D978F532F20",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_003_Under_002",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17266
       },
       "965": {
         "SourceId": "treasureone_a32_Power_003",
         "IsRed": true,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "42F8270C43E520755401F2A4DB10D9DA",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_003_Under_003",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17267
       },
       "966": {
         "SourceId": "treasureone_a32_Power_005",
         "IsRed": true,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "E5F4F4DB486046EC72C2AF864B51DC3B",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_003_Under_005",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17269
       },
       "967": {
         "SourceId": "treasureone_A32_Base_collection_01",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "B2B37D5749DA32239EE9019ACF432AFD",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_001",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17235
       },
       "968": {
         "SourceId": "treasureone_A32_Base_collection_02",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "A3EA1CCA4211E3E4866D8583B842A277",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_002",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17236
       },
       "969": {
         "SourceId": "treasureone_A32_Base_collection_03",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "F2D65A1B47338E452A50E9A34D62007D",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_003",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17237
       },
       "970": {
         "SourceId": "treasureone_A32_Base_collection_04",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "C952E6F04AE0FAE52852DE94F84D5D4A",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_004",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17238
       },
       "971": {
         "SourceId": "treasureone_A32_Base_collection_06",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "0517FEAA4B1EE507D7EAF3B33E16047D",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_006",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17240
       },
       "972": {
         "SourceId": "treasureone_A32_Base_collection_07",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "E889804F468C6D0B04802693C5D6D192",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_007",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17241
       },
       "973": {
         "SourceId": "treasureone_A32_Base_collection_08",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "8A74D0DC4E5EE6526220E9B8370DDA73",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_008",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17242
       },
       "974": {
         "SourceId": "treasureone_A32_Base_collection_09",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "32339DF649A4C6F83D33D0BB5E024AB0",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_009",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17243
       },
       "975": {
         "SourceId": "treasureone_A32_Base_collection_20",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "2D3250A04DDFC471E64F7787D95CE626",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_020",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17254
       },
       "976": {
         "SourceId": "treasureone_A32_Base_collection_21",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "898666394129F725740C37B26624810C",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_021",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17255
       },
       "977": {
         "SourceId": "treasureone_A32_Base_collection_26",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "5A824E814B3989B42594A4BA1963AE22",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_026",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17260
       },
       "978": {
         "SourceId": "treasureone_A32_Base_collection_28",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "B5947C724305A504206FB5AA3874ACA9",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_028",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17262
       },
       "979": {
         "SourceId": "treasureone_A32_Wild_collection_01",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "C7DD0E394572DE666667F09ABA9B8D6C",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_001",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17195
       },
       "980": {
         "SourceId": "treasureone_A32_Wild_collection_02",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "6B1272BE43D89D9C603337BB0621E8A2",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_002",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17196
       },
       "981": {
         "SourceId": "treasureone_A32_Wild_collection_03",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "DCC27E094B3873484F43929D6C92F25B",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_003",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17197
       },
       "982": {
         "SourceId": "treasureone_A32_Wild_collection_04",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "386CB61C4BF1AEB6F6F1FFB5EAE39AF3",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_004",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17198
       },
       "983": {
         "SourceId": "treasureone_A32_Wild_collection_05",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "0300EA2343DC27B08612A894D735B6F1",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_005",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17199
       },
       "984": {
         "SourceId": "treasureone_A32_Wild_collection_06",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "15707E5F4AFA3B88693B1F83DD3AFF08",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_006",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17200
       },
       "985": {
         "SourceId": "treasureone_A32_Wild_collection_07",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "A130CD0143A9BDE0933F8184BBB82572",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_007",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17201
       },
       "986": {
         "SourceId": "treasureone_A32_Wild_collection_08",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "6C339D4C4D1FF46B19E098A572F3A656",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_008",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17202
       },
       "987": {
         "SourceId": "treasureone_A32_Wild_collection_09",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "8E8F07E04453A16E06A04FB27DF7B03E",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_009",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17203
       },
       "988": {
         "SourceId": "treasureone_A32_Wild_collection_10",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "594DCC7E4072A64BC9FFDB993773A072",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_010",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17204
       },
       "989": {
         "SourceId": "treasureone_A32_Wild_collection_11",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "8AB62D5643A47883CAE9FFB0C95660F8",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_011",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17205
       },
       "990": {
         "SourceId": "treasureone_A32_Wild_collection_12",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "76A701F548F0273E5ACEC2A192EC42BC",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_012",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17206
       },
       "991": {
         "SourceId": "treasureone_A32_Wild_collection_13",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "F072DDB942D497B7C4F8AF9905675CEC",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_013",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17207
       },
       "992": {
         "SourceId": "treasureone_A32_Wild_collection_14",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "FA61CC5E46E3FBF28DD07D9721BDC706",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_014",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17208
       },
       "993": {
         "SourceId": "treasureone_A32_Wild_collection_15",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "8F6D272C48E30651E39ECEB20739DF65",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_015",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17209
       },
       "994": {
         "SourceId": "treasureone_A32_Wild_collection_16",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "552AF80245B0CA2B40370FABDE32B384",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_016",
         "StaCount": 1,
         "LevelMap": "Norn_B1",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17210
       },
       "995": {
         "SourceId": "treasureone_A32_Base_collection_05",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "E3BF3E8640997BC232DA2BBA025A142F",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_005",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17239
       },
       "996": {
         "SourceId": "treasureone_A32_Base_collection_10",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "FC3F8BD5455851FFF5325492D4829E3E",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_010",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17244
       },
       "997": {
         "SourceId": "treasureone_A32_Base_collection_11",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "020CF3B44F1DB42126E4CB944A63FECC",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_011",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17245
       },
       "998": {
         "SourceId": "treasureone_A32_Base_collection_12",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "AD8D3C8C49605FF8D7DD6C8A25D79700",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_012",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17246
       },
       "999": {
         "SourceId": "treasureone_A32_Base_collection_13",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "29B3193D484C90BFE095C99A47B461E9",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_013",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17247
       },
       "1000": {
         "SourceId": "treasureone_A32_Base_collection_14",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "95F5708E48A0C9AB62D422AE7EDA82CF",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_014",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17248
       },
       "1001": {
         "SourceId": "treasureone_A32_Base_collection_15",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "DAEA7046452A286656B0419600FE7D95",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_015",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17249
       },
       "1002": {
         "SourceId": "treasureone_A32_Base_collection_16",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "A54691C644AEE82DF243289E7C4CDC62",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_016",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17250
       },
       "1003": {
         "SourceId": "treasureone_A32_Base_collection_17",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "371FA70B4EBC3F5ACD8FE1A6A866FC2E",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_017",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17251
       },
       "1004": {
         "SourceId": "treasureone_A32_Base_collection_18",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "D81E9AC2447C5B22AB046FA82F41530F",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_018",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17252
       },
       "1005": {
         "SourceId": "treasureone_A32_Base_collection_19",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "9FD19296448F65A7AC3FBCAEFFA20759",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_019",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17253
       },
       "1006": {
         "SourceId": "treasureone_A32_Base_collection_22",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "81E9C28242C4284BB171A5A7FA891B0B",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_022",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17256
       },
       "1007": {
         "SourceId": "treasureone_A32_Base_collection_23",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "1371AB854D9F1774CD860EB1F52C423E",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_023",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17257
       },
       "1008": {
         "SourceId": "treasureone_A32_Base_collection_24",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "DBC5B68D4A1D2693E3CEBE9FC2E8E196",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_024",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17258
       },
       "1009": {
         "SourceId": "treasureone_A32_Base_collection_25",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "4E9BA82F419C20655A2FB38945F8F18A",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_025",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17259
       },
       "1010": {
         "SourceId": "treasureone_A32_Base_collection_27",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "D71F648B49B1FA381CB9A4BE7758B297",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_027",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17261
       },
       "1011": {
         "SourceId": "treasureone_A32_Base_collection_29",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "87073B354D46389D95C6B4877727B408",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_029",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17263
       },
       "1012": {
         "SourceId": "treasureone_A32_Base_collection_30",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "8D4A53C649818C7C475ECFB7287C39A5",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_002_Under_030",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17264
       },
       "1013": {
         "SourceId": "treasureone_A32_Wild_collection_17",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "8341B0224A065E9EC18BEB861F1E450B",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_017",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17211
       },
       "1014": {
         "SourceId": "treasureone_A32_Wild_collection_18",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "58007AB74B664267457DA48FB87D8514",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_018",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17212
       },
       "1015": {
         "SourceId": "treasureone_A32_Wild_collection_19",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "19072FC34DB49188A3870B9620D47069",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_019",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17213
       },
       "1016": {
         "SourceId": "treasureone_A32_Wild_collection_20",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "880D93EB47B5405A0394A2B584BE98BD",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_020",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17214
       },
       "1017": {
         "SourceId": "treasureone_A32_Wild_collection_21",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "D66FE590431065222A20D6A015CD6787",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_021",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17215
       },
       "1018": {
         "SourceId": "treasureone_A32_Wild_collection_22",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "6447AC6447E511439F2E8BA0D0DAF80B",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_022",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17216
       },
       "1019": {
         "SourceId": "treasureone_A32_Wild_collection_23",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "639695824FB52819181208A4B0309C50",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_023",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17217
       },
       "1020": {
         "SourceId": "treasureone_A32_Wild_collection_24",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "E559AA50426BCF4D8FD95787B8045825",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_024",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17218
       },
       "1021": {
         "SourceId": "treasureone_A32_Wild_collection_25",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "6EC68D8249BBD68F5B25EFB2367D1360",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_025",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17219
       },
       "1022": {
         "SourceId": "treasureone_A32_Wild_collection_26",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "70FD0E594E2EA15D04B3C4B97380FC89",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_026",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17220
       },
       "1023": {
         "SourceId": "treasureone_A32_Wild_collection_27",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "36ACC99A42FDA36194594DB247D7C7C5",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_027",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17221
       },
       "1024": {
         "SourceId": "treasureone_A32_Wild_collection_28",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "62E5AFBF41F1560DC10C05A41D045974",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_028",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17222
       },
       "1025": {
         "SourceId": "treasureone_A32_Wild_collection_29",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "52C64AD947898EA99DFE0286D9A7405E",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_029",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17223
       },
       "1026": {
         "SourceId": "treasureone_A32_Wild_collection_30",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "CE2C4A894F087434E6E0FEA107E54242",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_030",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17224
       },
       "1027": {
         "SourceId": "treasureone_A32_Wild_collection_31",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "935C3B94464037D3D9D8F688FB679FE0",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_031",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17225
       },
       "1028": {
         "SourceId": "treasureone_A32_Wild_collection_32",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "5823C68F40CE50A3B3F6098DAF8F8EB2",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_032",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17226
       },
       "1029": {
         "SourceId": "treasureone_A32_Wild_collection_33",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "72BC730B4A5A77AEF9AE80954AC93907",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_033",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17227
       },
       "1030": {
         "SourceId": "treasureone_A32_Wild_collection_34",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "E45842804BB7C6AEEB61A3954E0D7515",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_034",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17228
       },
       "1031": {
         "SourceId": "treasureone_A32_Wild_collection_35",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "8C286372409ABB5551F74BA98BC2CAC4",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_035",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17229
       },
       "1032": {
         "SourceId": "treasureone_A32_Wild_collection_36",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "F4E9D9BA43FF6078538286B46C57B187",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_036",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17230
       },
       "1033": {
         "SourceId": "treasureone_A32_Wild_collection_37",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "D2C5B380405F392513ED5386A50CE2B2",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_037",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17231
       },
       "1034": {
         "SourceId": "treasureone_A32_Wild_collection_38",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "C979877E4C6396CA9E89DABFD87A2191",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_038",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17232
       },
       "1035": {
         "SourceId": "treasureone_A32_Wild_collection_39",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "2D36C2DB460A4A79776B9DB18E4605D5",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_039",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17233
       },
       "1036": {
         "SourceId": "treasureone_A32_Wild_collection_40",
         "IsRed": false,
-        "SourceType": "ECoreSourceType::ECS_Type_TreasureBox",
-        "SourceParam": "EADA40B847E07818E6E88D88C922761E",
+        "SourceType": "ECoreSourceType::ECS_Type_YahahaId",
+        "SourceParam": "Scene_Box_OnceOnly_UAV_001_Under_040",
         "StaCount": 1,
         "LevelMap": "Norn_B2",
         "YahahaUniqueIdx": -1,
-        "Yahaha2UniqueIdx": -1
+        "Yahaha2UniqueIdx": 17234
       },
       "1037": {
         "SourceId": "drop_NornReputation_Army_Award3",

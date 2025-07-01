@@ -1720,6 +1720,65 @@
             "Z": 1.0
           }
         }
+      },
+      "Kailo_Boss_2": {
+        "BossId": "Kailo_Boss_2",
+        "NameTxt": {
+          "TableId": "/Game/Resources/Text/ST_WorldActorName.ST_WorldActorName",
+          "Key": "Kailo_Boss_2_name",
+          "SourceString": "灾厄5号",
+          "LocalizedString": "灾厄5号"
+        },
+        "DescTxt": {
+          "CultureInvariantString": null
+        },
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Kailo_BOSS_2_show.Kailo_BOSS_2_show",
+          "SubPathString": ""
+        },
+        "SmallImage": {
+          "AssetPathName": "/Game/Resources/UI/WorldBossList/BOSS/Kailo_BOSS_2_yuan.Kailo_BOSS_2_yuan",
+          "SubPathString": ""
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/mapKailo_mark_boss2-1.mapKailo_mark_boss2-1",
+          "SubPathString": ""
+        },
+        "AreaTxt": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Tower_NameTip15",
+          "SourceString": "启罗",
+          "LocalizedString": "启罗"
+        },
+        "StandLayer": "Kailo_P",
+        "MustHaveAchievementId": "0904113",
+        "MustHaveAchievementId_Oversea": "904113",
+        "FootholdLocationOffSet": {
+          "X": 2000.0,
+          "Y": 0.0,
+          "Z": 1500.0
+        },
+        "FootholdLocationOverride": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
       }
     }
   }
