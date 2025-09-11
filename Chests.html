@@ -3,44 +3,14 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>EVO</title>
-        <style href="/css/reset.css"></style>
-        <style href="/css/reset.css"></style>
+        <title>Drop Bosses</title>
+        <link rel="stylesheet" href="/css/reset.css">
+        <link rel="stylesheet" href="/css/Site.css">
         <style>
-            .orange-button {
-            color: #fff;
-            background: rgb(255, 124, 1);
-            background: linear-gradient(0deg, rgba(255, 124, 1, 1) 0%, rgba(255, 171, 1, 1) 100%);
-            border-color: orange;
-            display: inline-block;
-            font-weight: 400;
-            text-align: center;
-            vertical-align: middle;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            -ms-user-select: none;
-            user-select: none;
-            border: 1px solid transparent;
-            padding: .375rem .75rem;
-            font-size: 1rem;
-            line-height: 1.5;
-            border-radius: .25rem;
-            transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-            margin-bottom: 10px;
-          }
-          body { font-family: Arial, sans-serif; }
           .season { border: 1px solid #ccc; margin: 10px; padding: 10px; }
           .floor { margin-left: 20px; }
           .wave { margin-left: 40px; }
           .monster { margin-left: 60px; }
-
-          #container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: flex-start;
-            flex-direction: column;
-            overflow-y: scroll;
-          }
 
           .boss {
             display: flex;
@@ -81,34 +51,6 @@
 
           }
 
-          #loader {
-            display: flex;
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            height: 100vh;
-            justify-content: center;
-            align-content: center;
-            align-items: center;
-          }
-
-        .spinner {
-          border: 8px solid #f3f3f3;
-          border-top: 8px solid #3498db;
-          border-radius: 50%;
-          width: 40px;
-          height: 40px;
-          animation: spin 1s linear infinite;
-          margin: auto;
-        }
-
-        @keyframes spin {
-          0% { transform: rotate(0deg); }
-          100% { transform: rotate(360deg); }
-        }
-
-
         </style>
     </head>
     <body>
@@ -126,6 +68,7 @@
         <div id="Mechs"></div>   
       </div>       
     </body>
+    <script src="js/Loadlang.js"></script>
 
 <script>
 
@@ -431,6 +374,7 @@ async function loadlanguage(lang) {
   try {
       const response = await fetch(`Global/Game_${lang}.json`);
       languagejson = await response.json();
+      buildIndex(languagejson);
 
       //keyToFind = "StrengthenStone_07_name";
 
@@ -439,7 +383,7 @@ async function loadlanguage(lang) {
 
       for (const boss of bosses) {
         for (const drop of boss.drops) {
-          drop.itemName = findValueByKey(languagejson, drop.name);
+          drop.itemName = findValueByIndex(drop.name);
         }
       }
 
@@ -457,22 +401,6 @@ async function loadlanguage(lang) {
   }
 }
 
-function findValueByKey(obj, targetKey) {
-  if (typeof obj !== 'object' || obj === null) {
-    return null;
-  }
-
-  for (const key in obj) {
-    if (key === targetKey) {
-      return obj[key];
-    }
-    const nestedResult = findValueByKey(obj[key], targetKey);
-    if (nestedResult !== null) {
-      return nestedResult;
-    }
-  }
-  return null;
-}
 
 
 </script>

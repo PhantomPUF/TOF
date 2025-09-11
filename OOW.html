@@ -4,31 +4,11 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>OOW</title>
-        <style href="/css/reset.css"></style>
-        <style href="/css/reset.css"></style>
+        
+        <link rel="stylesheet" href="/css/reset.css">
+        <link rel="stylesheet" href="/css/Site.css">
         <style>
-            .orange-button {
-            color: #fff;
-            background: rgb(255, 124, 1);
-            background: linear-gradient(0deg, rgba(255, 124, 1, 1) 0%, rgba(255, 171, 1, 1) 100%);
-            border-color: orange;
-            display: inline-block;
-            font-weight: 400;
-            text-align: center;
-            vertical-align: middle;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            -ms-user-select: none;
-            user-select: none;
-            border: 1px solid transparent;
-            padding: .375rem .75rem;
-            font-size: 1rem;
-            line-height: 1.5;
-            border-radius: .25rem;
-            transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-            margin-bottom: 10px;
-        }
-          body { font-family: Arial, sans-serif; }
+        
             .season { border: 1px solid #ccc; margin: 10px; padding: 10px; background-color: #35639d; color: #fff;
                 display: flex;
                 width: 160px;
@@ -128,33 +108,6 @@
                 }
             }
 
-            #loader {
-                display: flex;
-                position: fixed;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                height: 100vh;
-                justify-content: center;
-                align-content: center;
-                align-items: center;
-            }
-
-            .spinner {
-                border: 8px solid #f3f3f3;
-                border-top: 8px solid #3498db;
-                border-radius: 50%;
-                width: 40px;
-                height: 40px;
-                animation: spin 1s linear infinite;
-                margin: auto;
-            }
-
-            @keyframes spin {
-                0% { transform: rotate(0deg); }
-                100% { transform: rotate(360deg); }
-            }
-
         </style>
     </head>
     <body>
@@ -176,6 +129,7 @@
             <div id="container1"></div>
          </div>
     </body>
+    <script src="js/Loadlang.js"></script>
 
 
  <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
@@ -577,15 +531,16 @@ async function loadlanguage(lang) {
         else
             response = await fetch(`Global/Game_${lang}.json`);
         languagejson = await response.json();
+        buildIndex(languagejson);
 
 
         lastSeason.floors.forEach(floor => {
             for (const buff of floor.buffsVisible) {
                 if(buff.codename == "Buff_War_HealDown" || buff.codename == "Buff_War_Disturb")
-                    buff.name = findValueByKey(languagejson, `${buff.codename}`);
+                    buff.name = findValueByIndex(buff.codename);
                 else
-                    buff.name = findValueByKey(languagejson, `${buff.codename}_name`);
-                buff.description = findValueByKey(languagejson, `${buff.codename}_des`);
+                    buff.name = findValueByIndex(`${buff.codename}_name`);
+                buff.description = findValueByIndex(`${buff.codename}_des`);
             }
         });
         container.innerHTML = "";
@@ -602,22 +557,6 @@ async function loadlanguage(lang) {
     }
 }
 
-function findValueByKey(obj, targetKey) {
-  if (typeof obj !== 'object' || obj === null) {
-    return null;
-  }
-
-  for (const key in obj) {
-    if (key.toLocaleLowerCase() === targetKey.toLocaleLowerCase()) {
-      return obj[key];
-    }
-    const nestedResult = findValueByKey(obj[key], targetKey);
-    if (nestedResult !== null) {
-      return nestedResult;
-    }
-  }
-  return null;
-}
 
 function openMechs(id){
     if(!openMechanics.includes(id))
@@ -677,9 +616,9 @@ function getMechs(id, div){
         for (let i = 0; i < mechsboss.mechanics.length; i++) {
             mechanic = mechsboss.mechanics[i];
             if(mechsboss.codename == "064" && lang == "en")
-                mechanic.mech= `${j}) ${findValueByKey(languagejson, mechanic.codename.replace("64","064"))}`;
+                mechanic.mech= `${j}) ${findValueByIndex(mechanic.codename.replace("64","064"))}`;
             else
-                mechanic.mech= `${j}) ${findValueByKey(languagejson, mechanic.codename)}`;
+                mechanic.mech= `${j}) ${findValueByIndex(mechanic.codename)}`;
         j++;
         }
 
