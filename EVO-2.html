@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>EVO</title>
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/Site.css">
+        <style>
+          .season { border: 1px solid #ccc; margin: 10px; padding: 10px; }
+          .floor { margin-left: 20px; }
+          .wave { margin-left: 40px; }
+          .monster { margin-left: 60px; }
+
+          #container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            flex-direction: row;
+            overflow-y: scroll;
+          }
+
+          #container .boss {
+            text-align: center;
+            max-width: min-content;
+            margin-right: 5px;
+          }
+
+          .boss button {
+            padding: 0;
+            margin: 1px 0;
+            border: 1px solid #000;
+            background-color: transparent;
+          }
+
+          h2 {
+            margin: 10px 0;
+            text-align: center;
+          }
+
+          h6 {
+            margin: 0;
+            margin-top: 7px;
+            height: 30px;
+          }
+
+          .bosspreview{
+            height: 50px;
+          }
+
+          #Mechs{
+
+          }
+
+          .imgMech {
+            display: flex;
+            width: 100%;
+            flex-direction: row-reverse;
+            justify-content: flex-end;
+          }
+
+          #Mechs .boss {
+            justify-items: anchor-center;
+          }
+
+          #Mechs .boss img {
+            margin-left: 10px;
+            height: 250px;
+          }
+
+          #Mechs .boss ul {
+            list-style-type: none;
+            margin: 0;
+          }
+
+          #Mechs .boss ul li {
+            text-align: left;
+            margin-bottom: 7px;
+          }
+
+          @media screen and (max-width: 800px) {
+              #container {
+                justify-content: center;
+              }
+              .imgMech {
+                  flex-wrap: wrap;
+              }
+              #Mechs .boss img {
+                margin: 0 auto;
+                margin-bottom: 10px;
+              }
+              #Mechs .boss ul {
+                padding: 0;
+              }
+          }
+           @media screen and (max-width: 530px) {
+              #Mechs .boss img {
+                  width: 100%;
+                  height: auto;
+                  margin-bottom: 10px;
+              }
+          }
+
+#EvoGrid {
+  height: 700px;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  vertical-align: top;
+  margin-top: 0;
+  overflow: hidden;
+}
+
+#EvoGrid .background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  z-index: -1;
+  background-size: contain;
+}
+
+#EvoGrid .content {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.wrap-panel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+
+#bossName {
+  margin: 16px 0;
+  background-color: #35639d;
+  border: none;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  padding: 0 10px;
+  outline: none;
+  font-size: 60px;
+}
+
+#damageTypes {
+  display: flex;
+  gap: 10px;
+  margin-left: 20px;
+  align-items: center;
+}
+
+.damage-type {
+  width: 40px;
+  height: 40px;
+}
+
+#mechs {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 100%;
+}
+
+.mech-item {
+  background-color: #35639d;
+  color: white;
+  max-height: 500px;
+  margin: 10px 0;
+  padding: 10px;
+  max-width: 900px;
+  font-size: 36px;
+  word-wrap: break-word;
+}
+
+#EvoGrid {
+  width: 100%;
+  height: 700px;
+} 
+
+.wrap-panel {
+  margin: 0;
+}
+
+#bossName {
+  margin: 0;
+  font-size: large;
+}
+
+.mech-item {
+  font-size: clamp(10px, 1vh, 36px);
+  margin: 0;
+  padding: 0;
+  max-width: 30%;
+}
+
+
+        </style>
+    </head>
+    <body>
+      <button id="backButton">Back</button>
+      <button> <a href="index.html">Main</a></button>
+      <div>
+          <input type="radio" class="lang" name="lang" value="en" checked> en
+          <input type="radio" class="lang" name="lang" value="ru"> ru
+        </div>
+        <div>
+            <input type="radio" class="mode" name="mode" value="Global" checked> Global
+            <input type="radio" class="mode" name="mode" value="CN"> CN
+        </div>
+      <div id="loader" style="display: none;">
+        <div class="spinner"></div>
+      </div>
+      <div>
+        <div id="container"></div>   
+        <div id="Mechs"></div>   
+      </div>    
+      <button id="saveButton">Сохранить</button>
+     <div class="evogrid" id="EvoGrid">
+      <div class="background"></div>
+      <div class="content">
+        <div class="wrap-panel">
+          <div type="text" class="name-input" id="bossName"></div>
+          <div class="damage-type-list" id="damageTypes" style="display: none;"></div>
+        </div>
+        <div class="mechs-list" id="mechs"></div>
+      </div>
+    </div>      
+    
+    </body>
+    <script src="js/Loadlang.js"></script>
+
+<script>
+
+document.getElementById('backButton').addEventListener('click', () => {
+    history.back();
+});
+
+const radios = document.querySelectorAll('input[type="radio"].lang');
+
+radios.forEach(radio => {
+    radio.addEventListener('change', () => {
+        const selectedValue = document.querySelector('input[name="lang"]:checked').value;
+        loadlanguage(selectedValue);
+        lang = selectedValue;
+        //loadData(selectedValue);
+    });
+});
+
+const radios1 = document.querySelectorAll('input[type="radio"].mode');
+
+radios1.forEach(radio => {
+    radio.addEventListener('change', () => {
+        const selectedValue = document.querySelector('input[name="mode"]:checked').value;
+        mode = selectedValue;
+        loadData(lang, selectedValue);
+    });
+});
+
+
+function showLoader() {
+  document.getElementById('loader').style.display = 'block';
+}
+
+function hideLoader() {
+  document.getElementById('loader').style.display = 'none';
+}
+
+class Boss
+{
+  constructor(codename, name, imgPath)
+  {
+    this.codeName = codename;
+    this.name = name;
+    this.mechanics = [];
+    this.imgPath = imgPath;
+    this.damageTypes = [];
+  }
+  print(){
+    console.log(`${this.codeName} ${this.name} ${this.imgPath}`);
+  }
+  createDiv(){
+    const container = document.getElementById('container');
+
+    const bossDiv = document.createElement('div');
+      bossDiv.className = 'boss';
+
+      // кнопка
+      const button = document.createElement('button');
+      button.addEventListener("click", () => {
+          getMechs2(this.codeName)
+      });
+
+       // Название босса
+      const title = document.createElement('h6');
+      title.textContent = `${this.name}`;
+      button.appendChild(title);
+
+      bossDiv.appendChild(button);
+      
+      // Изображение
+      const img = document.createElement('img');
+      img.className = 'bosspreview';
+      img.src = this.imgPath;
+      img.alt = this.RuName;
+      button.appendChild(img);
+
+
+      container.appendChild(bossDiv);   
+  }
+}
+
+class Mechanics{
+  constructor(codename, mech) {
+    this.codename = codename;
+    this.mech = mech;
+  }
+}
+let bosses = [];
+
+let seasons1;
+let languagejson;
+let selectedBoss;
+
+let lang = "en";
+let mode = "Global";
+
+const replaceHum = ["boss_hum_", "boss_", "_1", "_2", "_3", "_4", "_5", "_02", "_03", "_04", "_05"];
+
+let data;
+async function loadData(lang, mode) {
+  showLoader();
+  try {
+    const response = await fetch(`Global-5.0/BorderWarSeasonDataTable.json`);
+    seasons1 = await response.json();
+    const response2 = await fetch(`${mode}/BorderWarSeasonDataTable.json`);
+    seasons2 = await response2.json();
+
+      getBosses1(seasons1);
+      getBosses1(seasons2);
+      loadlanguage("en");
+  } catch (error) {
+      console.error('Ошибка загрузки данных:', error);
+  }
+  finally {
+    hideLoader();
+  }
+}
+
+function getBosses1(file){
+  file.forEach(item => {
+    for (let key of Object.keys(item.Rows)) {
+      for (let allbosses of item.Rows[key].BorderWarAllBossList) {
+        allbosses.AllChallengeWaves.forEach(boss=>{
+          if(boss.BossSkillInfo[0])
+          {
+            let codename = removeSubstrings(boss.AttributeID.toLowerCase(), replaceHum);
+            if(codename == "bjzq")
+              codename = "032";
+            //if(codename == "64")
+            //  codename = "064";
+
+            let boss1;
+            const index = bosses.findIndex(i => i.codeName == codename);
+
+            let key1 = getKey(boss.BossSkillInfo[0].SkillDec.Key);
+
+            if (index == -1)
+            {
+              boss1 = new Boss(codename, "", `monster/Boss_hum_${codename}.png`);
+              mechanic = new Mechanics(key1, "");
+              boss1.mechanics.push(mechanic);
+              boss1.createDiv();
+              bosses.push(boss1);
+            }
+            else
+            {
+              boss1 = bosses[index];
+            }
+
+            const mechindex = boss1.mechanics.findIndex(i => i.codename == key1);
+            if (mechindex == -1)
+            {
+              mechanic = new Mechanics(key1, "");
+              boss1.mechanics.push(mechanic);
+            }
+          }
+        })
+      }
+    };
+  });
+}
+
+function getKey(key){
+  if(key.includes("Boss_hum_001_0"))
+    key = key.replace("001_0", "001_")
+  return key;
+}
+
+function getMechs2(codename){
+  showLoader();
+  try {
+
+
+      document.getElementById("Mechs").innerHTML="";
+    selectedBoss = codename;
+    let i = 1;
+    const index = bosses.findIndex(i => i.codeName == codename);
+    if (index !== -1)
+    {
+      let boss = bosses[index];
+      boss.mechanics.forEach(mechanic=>{
+        if(codename == "064" && lang == "en")
+          mechanic.mech= `${i}) ${findValueByKey(languagejson, mechanic.codename.replace("64","064"))}`;
+        else
+          mechanic.mech= `${i}) ${findValueByKey(languagejson, mechanic.codename)}`;
+         i++;
+      })
+      draw(boss);
+    }
+  } catch (error) {
+      console.error('Ошибка загрузки данных:', error);
+  }
+  finally {
+    hideLoader();
+  }
+}
+
+
+async function loadlanguage(lang) {
+  try {
+      const response = await fetch(`${mode}/Game_${lang}.json`);
+      languagejson = await response.json();
+      buildIndex(languagejson);
+
+
+      for (const boss of bosses) {
+        if(boss.codeName == "037")
+          boss.name = findValueByKey(languagejson, `boss_hum_037_stage1`);
+        else
+          boss.name = findValueByKey(languagejson, `Boss_hum_${boss.codeName}`);
+      }
+
+      container.innerHTML = "";
+      for (const boss of bosses) {
+        boss.createDiv();
+      }
+      
+      getMechs2(selectedBoss);
+
+      document.querySelectorAll('.itemName').forEach(function(element) {
+        element.style.display = 'block';
+      });
+
+  } catch (error) {
+      console.error('Ошибка загрузки данных:', error);
+  }
+}
+
+
+function removeSubstrings(str, substrings) {
+  let result = str;
+  substrings.forEach(sub => {
+    const regex = new RegExp(sub, 'g');
+    result = result.replace(regex, '');
+  });
+  return result;
+}
+
+function findValueByKey(obj, targetKey) {
+  if (typeof obj !== 'object' || obj === null) {
+    return null;
+  }
+
+  for (const key in obj) {
+    if (key.toLocaleLowerCase() === targetKey.toLocaleLowerCase()) {
+      return obj[key];
+    }
+    const nestedResult = findValueByKey(obj[key], targetKey);
+    if (nestedResult !== null) {
+      return nestedResult;
+    }
+  }
+  return null;
+}
+
+
+
+loadData(lang, mode);
+
+function draw(Boss)
+{
+
+  // Установка фона
+  document.querySelector('#EvoGrid .background').style.backgroundImage = `url('${Boss.imgPath}')`;
+
+  // Установка имени босса
+  const bossNameInput = document.getElementById('bossName');
+  bossNameInput.textContent = Boss.name;
+
+  // Отрисовка типов повреждений
+  // const damageTypesContainer = document.getElementById('damageTypes');
+  // selectedBoss.DamageTypesVM.forEach(src => {
+  //   const img = document.createElement('img');
+  //   img.src = src;
+  //   img.width = 40;
+  //   img.height = 40;
+  //   img.className = 'damage-type';
+  //   damageTypesContainer.appendChild(img);
+  // });
+
+  // Отрисовка мехов
+  const mechsContainer = document.getElementById('mechs');
+  mechsContainer.innerHTML = "";
+  Boss.mechanics.forEach(mech => {
+    const div = document.createElement('div');
+    div.className = 'mech-item';
+    div.textContent = mech.mech;
+    mechsContainer.appendChild(div);
+  });
+}
+document.getElementById('saveButton').addEventListener('click', () => {
+    const element = document.getElementById('EvoGrid');
+
+    wp = element.querySelector('.wrap-panel');
+    bossName = element.querySelector('#bossName');
+    mechs = element.querySelectorAll('.mech-item');
+
+    // Устанавливаем нужные размеры
+    element.style.width = '2800px';
+    element.style.height = '1400px';
+
+    wp.style.margin = "0 auto";
+    wp.style.marginTop = "15px";
+
+    bossName.style.fontSize = "60px";
+    bossName.style.margin = '16px 0';
+
+    mechs.forEach(element => {
+      element.style.fontSize = "36px";
+      element.style.margin = '10px 0';
+      element.style.padding = '10px';
+      element.style.maxWidth = '900px';
+    });
+
+
+    // Создаем масштаб
+    html2canvas(element, {
+      width: 2800,
+      height: 1400,
+      scale: 1
+    }).then(canvas => {
+      // Восстановим размеры
+      //element.style.width = '';
+      //element.style.height = '';
+
+      element.style.width = '100%';
+      element.style.height = '700px';
+   
+      wp.style.margin = 0;
+      
+      bossName.style.fontSize = "large";
+      bossName.style.margin = 0;
+      
+
+      mechs.forEach(element => {
+        
+        element.style.fontSize = "clamp(10px, 1vh, 36px)";
+        //element.style.fontSize = "xx-small";
+        element.style.margin = 0;
+        element.style.padding = 0;
+        element.style.maxWidth = '30%';
+      });
+
+      const dataUrl = canvas.toDataURL('image/png');
+      const link = document.createElement('a');
+      link.href = dataUrl;
+      link.download = 'EvoGrid.png';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    });
+  });
+
+</script>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+
+</body>
+</html>

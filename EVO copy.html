@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>EVO</title>
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/Site.css">
+        <style>
+          .season { border: 1px solid #ccc; margin: 10px; padding: 10px; }
+          .floor { margin-left: 20px; }
+          .wave { margin-left: 40px; }
+          .monster { margin-left: 60px; }
+
+          #container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            flex-direction: row;
+            overflow-y: scroll;
+          }
+
+          #container .boss {
+            text-align: center;
+            max-width: min-content;
+            margin-right: 5px;
+          }
+
+          .boss button {
+            padding: 0;
+            margin: 1px 0;
+            border: 1px solid #000;
+            background-color: transparent;
+          }
+
+          h2 {
+            margin: 10px 0;
+            text-align: center;
+          }
+
+          h6 {
+            margin: 0;
+            margin-top: 7px;
+            height: 30px;
+          }
+
+          .bosspreview{
+            height: 50px;
+          }
+
+          #Mechs{
+
+          }
+
+          .imgMech {
+            display: flex;
+            width: 100%;
+            flex-direction: row-reverse;
+            justify-content: flex-end;
+          }
+
+          #Mechs .boss {
+            justify-items: anchor-center;
+          }
+
+          #Mechs .boss img {
+            margin-left: 10px;
+            height: 250px;
+          }
+
+          #Mechs .boss ul {
+            list-style-type: none;
+            margin: 0;
+          }
+
+          #Mechs .boss ul li {
+            text-align: left;
+            margin-bottom: 7px;
+          }
+
+          @media screen and (max-width: 800px) {
+              #container {
+                justify-content: center;
+              }
+              .imgMech {
+                  flex-wrap: wrap;
+              }
+              #Mechs .boss img {
+                margin: 0 auto;
+                margin-bottom: 10px;
+              }
+              #Mechs .boss ul {
+                padding: 0;
+              }
+          }
+           @media screen and (max-width: 530px) {
+              #Mechs .boss img {
+                  width: 100%;
+                  height: auto;
+                  margin-bottom: 10px;
+              }
+          }
+
+#EvoGrid {
+  height: 700px;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  vertical-align: top;
+  margin-top: 0;
+  overflow: hidden;
+  height: max-content;
+}
+
+#EvoGrid .background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  z-index: -1;
+  background-size: contain;
+}
+
+#EvoGrid .content {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.wrap-panel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+
+#bossName {
+  margin: 16px 0;
+  background-color: #35639d;
+  border: none;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  padding: 0 10px;
+  outline: none;
+  font-size: 60px;
+}
+
+#damageTypes {
+  display: flex;
+  gap: 10px;
+  margin-left: 20px;
+  align-items: center;
+}
+
+.damage-type {
+  width: 40px;
+  height: 40px;
+}
+
+#mechs {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 100%;
+}
+
+.mech-item {
+  background-color: #35639d;
+  color: white;
+  max-height: 500px;
+  margin: 10px 0;
+  padding: 10px;
+  /* max-width: 470px;
+  font-size: 20px; */
+  max-width: 900px;
+  font-size: 36px;
+  word-wrap: break-word;
+}
+
+
+        </style>
+    </head>
+    <body>
+      <button id="backButton">Back</button>
+      <button> <a href="index.html">Main</a></button>
+      <div>
+          <input type="radio" class="lang" name="lang" value="en" checked> en
+          <input type="radio" class="lang" name="lang" value="ru"> ru
+        </div>
+        <div>
+            <input type="radio" class="mode" name="mode" value="Global" checked> Global
+            <input type="radio" class="mode" name="mode" value="CN"> CN
+        </div>
+      <div id="loader" style="display: none;">
+        <div class="spinner"></div>
+      </div>
+      <div>
+        <div id="container"></div>   
+        <div id="Mechs"></div>   
+      </div>    
+     <div class="evogrid" id="EvoGrid" style="width: 2800px; height: 1400px;">
+      <div class="background"></div>
+      <div class="content">
+        <div class="wrap-panel">
+          <div type="text" class="name-input" id="bossName"></div>
+          <div class="damage-type-list" id="damageTypes" style="display: none;"></div>
+        </div>
+        <div class="mechs-list" id="mechs"></div>
+      </div>
+    </div>      
+    <button id="saveButton">Сохранить</button>
+    </body>
+    <script src="js/Loadlang.js"></script>
+
+<script>
+
+// Пример данных, которые можно заменить на реальные данные
+const data = {
+  selectedBoss: {
+    imgPathVM: 'monster/Boss_037.png', // путь к изображению фона
+    RuName: 'Название Босса',
+    DamageTypesVM: [
+      'path/to/damage1.png',
+      'path/to/damage2.png',
+      'path/to/damage3.png'
+    ],
+    Mechs: [
+      { Mechanic: "1) Seraph's attacks carry an additional Powerful Graying Bite effect." },
+      { Mechanic: "2) After Seraph lands a hit on a target, it grants a HP shield to all its friendly units equal to 5% of their respective Max HP. The shield cannot be stacked and lasts for 3 seconds. The minimum trigger interval is 1 second." },
+      { Mechanic: "3) After Seraph hits a non-Fortitude target, Punishments will be added. Punishments will be reduced by 1 stack every 5 seconds. If Punishment stacks reach 10, that Wanderer will lose their hyperbody and invincibility and will be unable to regain hyperbody or invincibility for 90 seconds." },
+      { Mechanic: "4) When Seraph recevies lethal damage, it becomes invincible for 10 seconds. During that period, it continuously deals a huge amount of damage every second to the surrounding area. The trigger interval is 120 seconds" }
+    ]
+  }
+};
+
+// Установка фона
+document.querySelector('#EvoGrid .background').style.backgroundImage = `url('${data.selectedBoss.imgPathVM}')`;
+
+// Установка имени босса
+const bossNameInput = document.getElementById('bossName');
+bossNameInput.textContent = data.selectedBoss.RuName;
+
+// Отрисовка типов повреждений
+const damageTypesContainer = document.getElementById('damageTypes');
+data.selectedBoss.DamageTypesVM.forEach(src => {
+  const img = document.createElement('img');
+  img.src = src;
+  img.width = 40;
+  img.height = 40;
+  img.className = 'damage-type';
+  damageTypesContainer.appendChild(img);
+});
+
+// Отрисовка мехов
+const mechsContainer = document.getElementById('mechs');
+data.selectedBoss.Mechs.forEach(mech => {
+  const div = document.createElement('div');
+  div.className = 'mech-item';
+  div.textContent = mech.Mechanic;
+  mechsContainer.appendChild(div);
+});
+
+document.getElementById('saveButton').addEventListener('click', () => {
+  const element = document.getElementById('EvoGrid');
+
+  // Устанавливаем нужные размеры
+  element.style.width = '2800px';
+  element.style.height = '1400px';
+
+  // Создаем масштаб
+  html2canvas(element, {
+    width: 2800,
+    height: 1400,
+    scale: 1
+  }).then(canvas => {
+    // Восстановим размеры
+    element.style.width = '';
+    element.style.height = '';
+
+    const dataUrl = canvas.toDataURL('image/png');
+    const link = document.createElement('a');
+    link.href = dataUrl;
+    link.download = 'EvoGrid.png';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  });
+});
+
+
+</script>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+
+</body>
+</html>
