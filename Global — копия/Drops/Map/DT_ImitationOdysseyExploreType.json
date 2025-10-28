@@ -1,0 +1,235 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ImitationOdysseyExploreType",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ImitationOdysseyExploreTypeConfig'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "TreasureBox": {
+        "RelateExploreType": "EExploreType::treasureone",
+        "RelateExploreTypeDesc": [
+          {
+            "Key": "1",
+            "Value": {
+              "Namespace": "",
+              "Key": "0C8FE225490F60D0402F068D6476CB3E",
+              "SourceString": "补给舱",
+              "LocalizedString": "补给舱"
+            }
+          },
+          {
+            "Key": "QRSL_P",
+            "Value": {
+              "Namespace": "",
+              "Key": "C07C02E246B1E3BAB4C4A88E63D45BCD",
+              "SourceString": "补给舱",
+              "LocalizedString": "补给舱"
+            }
+          },
+          {
+            "Key": "Vera_P",
+            "Value": {
+              "Namespace": "",
+              "Key": "E038426D4EEEBDFD657228AA2A28ECCC",
+              "SourceString": "维拉宝箱",
+              "LocalizedString": "维拉宝箱"
+            }
+          },
+          {
+            "Key": "Vera_City",
+            "Value": {
+              "Namespace": "",
+              "Key": "66B1187849B7BBF471A4C592F3904DA7",
+              "SourceString": "城市探索",
+              "LocalizedString": "城市探索"
+            }
+          },
+          {
+            "Key": "JIUYU_P",
+            "Value": {
+              "Namespace": "",
+              "Key": "D1E15DE64EFB12AE3E2B3080E939C0C3",
+              "SourceString": "九域宝箱",
+              "LocalizedString": "九域宝箱"
+            }
+          },
+          {
+            "Key": "Map_sea_p",
+            "Value": {
+              "Namespace": "",
+              "Key": "AAEE02134E981158C75B909D1E0C9168",
+              "SourceString": "补给舱",
+              "LocalizedString": "补给舱"
+            }
+          },
+          {
+            "Key": "jiuyu_xw_city",
+            "Value": {
+              "Namespace": "",
+              "Key": "EC91D8834830EA90DD55B1BD54955EC7",
+              "SourceString": "补给舱",
+              "LocalizedString": "补给舱"
+            }
+          },
+          {
+            "Key": "Homeland_world",
+            "Value": {
+              "Namespace": "",
+              "Key": "3986173741C57CF0963A639A0FAEEFD5",
+              "SourceString": "补给舱",
+              "LocalizedString": "补给舱"
+            }
+          },
+          {
+            "Key": "norn_city",
+            "Value": {
+              "Namespace": "",
+              "Key": "C41C89DE49D06AE6A54DB1B12DE013AF",
+              "SourceString": "轻型空投",
+              "LocalizedString": "轻型空投"
+            }
+          },
+          {
+            "Key": "Norn_P",
+            "Value": {
+              "Namespace": "",
+              "Key": "8D6604DE4B161BC98941FCB47CB379B8",
+              "SourceString": "轻型空投",
+              "LocalizedString": "轻型空投"
+            }
+          }
+        ]
+      },
+      "Yahaha": {
+        "RelateExploreType": "EExploreType::gem",
+        "RelateExploreTypeDesc": [
+          {
+            "Key": "1",
+            "Value": {
+              "Namespace": "",
+              "Key": "97A2FAE4476BA81CC9E1E083A3D16C2A",
+              "SourceString": "世界探索",
+              "LocalizedString": "世界探索"
+            }
+          }
+        ]
+      },
+      "Scene": {
+        "RelateExploreType": "EExploreType::scene",
+        "RelateExploreTypeDesc": []
+      },
+      "Gather": {
+        "RelateExploreType": "EExploreType::gather",
+        "RelateExploreTypeDesc": [
+          {
+            "Key": "1",
+            "Value": {
+              "Namespace": "",
+              "Key": "A5B3E75E46BD99C9F729CAA5F3514F6E",
+              "SourceString": "开发者日志",
+              "LocalizedString": "开发者日志"
+            }
+          }
+        ]
+      },
+      "UnlockMap": {
+        "RelateExploreType": "EExploreType::aunlock",
+        "RelateExploreTypeDesc": [
+          {
+            "Key": "1",
+            "Value": {
+              "Namespace": "",
+              "Key": "B1A53E124FB48B57E9D88DB9AAD0AFB9",
+              "SourceString": "区域解锁",
+              "LocalizedString": "区域解锁"
+            }
+          },
+          {
+            "Key": "JIUYU_P",
+            "Value": {
+              "Namespace": "",
+              "Key": "93B976C042CBAEF9232593B295C114FC",
+              "SourceString": "观星台",
+              "LocalizedString": "观星台"
+            }
+          }
+        ]
+      },
+      "DFind": {
+        "RelateExploreType": "EExploreType::dfind",
+        "RelateExploreTypeDesc": [
+          {
+            "Key": "1",
+            "Value": {
+              "Namespace": "",
+              "Key": "5F4C66E14D3724C5B15118B6846A0E9B",
+              "SourceString": "日常发现",
+              "LocalizedString": "日常发现"
+            }
+          }
+        ]
+      },
+      "NpcTalk": {
+        "RelateExploreType": "EExploreType::ntalk",
+        "RelateExploreTypeDesc": [
+          {
+            "Key": "1",
+            "Value": {
+              "Namespace": "",
+              "Key": "9F322A064E56E4BEEEE70FA038AD86DB",
+              "SourceString": "对话闲聊",
+              "LocalizedString": "对话闲聊"
+            }
+          }
+        ]
+      },
+      "KillNpc": {
+        "RelateExploreType": "EExploreType::killnpc",
+        "RelateExploreTypeDesc": [
+          {
+            "Key": "1",
+            "Value": {
+              "Namespace": "",
+              "Key": "C871D9984C05A37346A62DA25ADA94D7",
+              "SourceString": "清缴清单",
+              "LocalizedString": "清缴清单"
+            }
+          }
+        ]
+      },
+      "Stela": {
+        "RelateExploreType": "EExploreType::stela",
+        "RelateExploreTypeDesc": [
+          {
+            "Key": "1",
+            "Value": {
+              "Namespace": "",
+              "Key": "A642BCBD4A7F968DF55AA7991F35E271",
+              "SourceString": "星碑激活",
+              "LocalizedString": "星碑激活"
+            }
+          }
+        ]
+      },
+      "Default": {
+        "RelateExploreType": "EExploreType::EET_None",
+        "RelateExploreTypeDesc": [
+          {
+            "Key": "1",
+            "Value": {
+              "Namespace": "",
+              "Key": "A881C9B04C90CAD7A6FB4DA8E5AF67B6",
+              "SourceString": "世界漫游",
+              "LocalizedString": "世界漫游"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

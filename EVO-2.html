@@ -250,7 +250,6 @@ radios.forEach(radio => {
         const selectedValue = document.querySelector('input[name="lang"]:checked').value;
         loadlanguage(selectedValue);
         lang = selectedValue;
-        //loadData(selectedValue);
     });
 });
 
@@ -498,14 +497,11 @@ loadData(lang, mode);
 function draw(Boss)
 {
 
-  // Установка фона
   document.querySelector('#EvoGrid .background').style.backgroundImage = `url('${Boss.imgPath}')`;
 
-  // Установка имени босса
   const bossNameInput = document.getElementById('bossName');
   bossNameInput.textContent = Boss.name;
 
-  // Отрисовка типов повреждений
   // const damageTypesContainer = document.getElementById('damageTypes');
   // selectedBoss.DamageTypesVM.forEach(src => {
   //   const img = document.createElement('img');
@@ -516,7 +512,6 @@ function draw(Boss)
   //   damageTypesContainer.appendChild(img);
   // });
 
-  // Отрисовка мехов
   const mechsContainer = document.getElementById('mechs');
   mechsContainer.innerHTML = "";
   Boss.mechanics.forEach(mech => {
@@ -544,22 +539,18 @@ document.getElementById('saveButton').addEventListener('click', () => {
     bossName.style.margin = '16px 0';
 
     mechs.forEach(element => {
-      element.style.fontSize = "36px";
+      element.style.fontSize = "40px";
       element.style.margin = '10px 0';
       element.style.padding = '10px';
       element.style.maxWidth = '900px';
     });
 
 
-    // Создаем масштаб
     html2canvas(element, {
       width: 2800,
       height: 1400,
       scale: 1
     }).then(canvas => {
-      // Восстановим размеры
-      //element.style.width = '';
-      //element.style.height = '';
 
       element.style.width = '100%';
       element.style.height = '700px';
@@ -572,8 +563,7 @@ document.getElementById('saveButton').addEventListener('click', () => {
 
       mechs.forEach(element => {
         
-        element.style.fontSize = "clamp(10px, 1vh, 36px)";
-        //element.style.fontSize = "xx-small";
+        element.style.fontSize = "clamp(10px, 1vh, 40px)";
         element.style.margin = 0;
         element.style.padding = 0;
         element.style.maxWidth = '30%';
